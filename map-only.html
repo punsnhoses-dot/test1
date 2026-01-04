@@ -209,7 +209,8 @@
             const overlays = {};
             dayOrder.forEach(day => {
                 if (layerGroups[day]) {
-                    overlays[`📅 ${day}`] = layerGroups[day];
+                    const markerHtml = `<span style="display: inline-block; width: 12px; height: 12px; background-color: ${dayColors[day]}; border-radius: 50%; border: 2px solid white; box-shadow: 0 0 3px rgba(0,0,0,0.3); margin-right: 8px; vertical-align: middle;"></span>${day}`;
+                    overlays[markerHtml] = layerGroups[day];
                 }
             });
             
