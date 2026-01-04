@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SpeedQuizzing Events Map</title>
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
+    <!-- Leaflet Clustering CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.1/MarkerCluster.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.1/MarkerCluster.Default.min.css" />
+    
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #f5f5f5;
+        }
+        
+        .container {
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 20px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        .header h1 {
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+        
+        .controls {
+            background: white;
+            padding: 15px 20px;
+            border-bottom: 1px solid #ddd;
+            display: flex;
+            gap: 15px;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+        
+        .controls label {
+            font-weight: 600;
+            color: #333;
+        }
+        
+        .controls input[type="file"] {
+            padding: 8px 12px;
+            border: 2px solid #667eea;
+            border-radius: 4px;
+            cursor: pointer;
+            background: white;
+        }
+        
+        .controls button {
+            background: #667eea;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 600;
+            transition: background 0.3s;
+        }
+        
+        .controls button:hover {
+            background: #764ba2;
+        }
+        
+        .status {
+            padding: 10px 20px;
+            font-size: 14px;
+            color: #666;
+        }
+        
+        .status.success {
+            color: #27ae60;
+            background: #d5f4e6;
+        }
+        
+        .status.error {
+            color: #e74c3c;
+            background: #fadbd8;
+        }
+        
+        #map {
+            flex: 1;
+            width: 100%;
+        }
+        
+        .leaflet-control-layers-toggle {
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='32'%3E%3Crect fill='%23fff' width='32' height='32'/%3E%3Ctext x='8' y='20' font-size='16' font-weight='bold'%3E⊞⊞%3C/text%3E%3C/svg%3E");
+        }
+        
+        .popup-content {
+            min-width: 280px;
+            font-size: 13px;
+        }
+        
+        .popup-content h3 {
+            color: #667eea;
+            margin-bottom: 10px;
+            font-size: 15px;
+        }
+        
+        .popup-content p {
+            margin: 5px 0;
+            color: #333;
+        }
+        
+        .popup-content strong {
+            color: #764ba2;
+        }
+        
+        .popup-content a {
+            color: #667eea;
+            text-decoration: none;
+        }
+        
+        .popup-content a:hover {
+            text-decoration: underline;
+        }
+        
+        .legend {
+            background: white;
+            padding: 15px;
+            border-radius: 5px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.2);
+            font-size: 12px;
+            max-height: 300px;
+            overflow-y: auto;
+        }
+        
+        .legend-item {
+            margin-bottom: 8px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .legend-color {
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            border: 2px solid #fff;
+            box-shadow: 0 0 3px rgba(0,0,0,0.3);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🎯 SpeedQuizzing Events Map</h1>
+            <p>Interactive map of all SpeedQuizzing events clustered by location and grouped by day</p>
+        </div>
+        
+        <div class="controls">
+            <label for="csvFile">📁 Select CSV File:</label>
+            <input type="file" id="csvFile" accept=".csv" />
+            <button onclick="loadCSV()">Load Events</button>
+            <button onclick="exportData()" style="background: #764ba2;">📥 Export Data for Map</button>
+            <div class="status" id="status"></div>
+        </div>
+        
+        <div id="map"></div>
+    </div>
+
+    <!-- Leaflet JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+    <!-- Leaflet Clustering JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.1/leaflet.markercluster.min.js"></script>
+    
+    <script>
+        let map;
+        let layerGroups = {};
+        let layerControl;
+        
+        // Color mapping for different days
+        const dayColors = {
+            'Monday': '#FF6B6B',
+            'Tuesday': '#4ECDC4',
+            'Wednesday': '#45B7D1',
+            'Thursday': '#FFA07A',
+            'Friday': '#98D8C8',
+            'Sunday': '#F7DC6F',
+            '': '#95A5A6'
+        };
+        
+        function initMap() {
+            map = L.map('map').setView([54.5973, -3.4361], 6);
+            
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '© OpenStreetMap contributors',
+                maxZoom: 19
+            }).addTo(map);
+        }
+        
+        function parseCSV(text) {
+            const lines = text.trim().split('\n');
+            const headers = lines[0].split(',').map(h => h.trim());
+            const data = [];
+            
+            for (let i = 1; i < lines.length; i++) {
+                if (lines[i].trim() === '') continue;
+                
+                const obj = {};
+                const values = parseCSVLine(lines[i]);
+                
+                headers.forEach((header, index) => {
+                    obj[header] = values[index] ? values[index].trim() : '';
+                });
+                
+                data.push(obj);
+            }
+            
+            return data;
+        }
+        
+        function parseCSVLine(line) {
+            const result = [];
+            let current = '';
+            let insideQuotes = false;
+            
+            for (let i = 0; i < line.length; i++) {
+                const char = line[i];
+                
+                if (char === '"') {
+                    insideQuotes = !insideQuotes;
+                } else if (char === ',' && !insideQuotes) {
+                    result.push(current);
+                    current = '';
+                } else {
+                    current += char;
+                }
+            }
+            
+            result.push(current);
+            return result;
+        }
+        
+        function loadCSV() {
+            const file = document.getElementById('csvFile').files[0];
+            const status = document.getElementById('status');
+            
+            if (!file) {
+                status.textContent = '❌ Please select a CSV file';
+                status.className = 'status error';
+                return;
+            }
+            
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                try {
+                    const data = parseCSV(e.target.result);
+                    populateMap(data);
+                    status.textContent = `✅ Successfully loaded ${data.length} events!`;
+                    status.className = 'status success';
+                } catch (error) {
+                    status.textContent = `❌ Error: ${error.message}`;
+                    status.className = 'status error';
+                }
+            };
+            
+            reader.readAsText(file);
+        }
+        
+        function createPopupContent(event) {
+            return `
+                <div class="popup-content">
+                    <h3>${event.event_title}</h3>
+                    <p><strong>Venue:</strong> ${event.venue_name}</p>
+                    <p><strong>Address:</strong> ${event.address}</p>
+                    <p><strong>Date:</strong> ${event.date}</p>
+                    <p><strong>Time:</strong> ${event.time || 'TBA'}</p>
+                    <p><strong>Day:</strong> ${event.repeat_day || 'N/A'}</p>
+                    <p><strong>Host:</strong> ${event.host_name}</p>
+                    <p><strong>Price:</strong> ${event.price || 'Free'}</p>
+                    <p><strong>Max Team Size:</strong> ${event.teams_max || 'N/A'}</p>
+                    ${event.age_limit ? `<p><strong>Age Limit:</strong> ${event.age_limit}</p>` : ''}
+                    ${event.event_url ? `<p><a href="${event.event_url}" target="_blank">📍 View Event</a></p>` : ''}
+                </div>
+            `;
+        }
+        
+        function exportData() {
+            if (!window.loadedEvents || window.loadedEvents.length === 0) {
+                alert('Please load a CSV file first!');
+                return;
+            }
+            const dataStr = JSON.stringify(window.loadedEvents, null, 2);
+            const dataBlob = new Blob([`window.eventsData = ${dataStr};`], { type: 'text/javascript' });
+            const url = URL.createObjectURL(dataBlob);
+            const link = document.createElement('a');
+            link.href = url;
+            link.download = 'events-data.js';
+            link.click();
+            alert('✅ events-data.js downloaded! Use this file with map-only.html');
+        }
+        
+        function populateMap(events) {
+            // Clear existing layers
+            window.loadedEvents = events;
+            Object.keys(layerGroups).forEach(day => {
+                map.removeLayer(layerGroups[day]);
+            });
+            layerGroups = {};
+            
+            if (layerControl) {
+                map.removeControl(layerControl);
+            }
+            
+            // Group events by repeat_day
+            const grouped = {};
+            
+            events.forEach(event => {
+                if (!event.latitude || !event.longitude) return;
+                
+                const lat = parseFloat(event.latitude);
+                const lon = parseFloat(event.longitude);
+                
+                if (isNaN(lat) || isNaN(lon)) return;
+                
+                const day = event.repeat_day || 'Not specified';
+                
+                if (!grouped[day]) {
+                    grouped[day] = [];
+                }
+                grouped[day].push({ event, lat, lon });
+            });
+            
+            // Create layer group for each day with clustering
+            Object.keys(grouped).forEach(day => {
+                const clusterGroup = L.markerClusterGroup({
+                    maxClusterRadius: 80,
+                    iconCreateFunction: function(cluster) {
+                        const count = cluster.getChildCount();
+                        const size = count < 10 ? 'small' : count < 100 ? 'medium' : 'large';
+                        return L.divIcon({
+                            html: `<div style="background-color: ${dayColors[day]};">${count}</div>`,
+                            className: `cluster-icon cluster-${size}`,
+                            iconSize: [40, 40]
+                        });
+                    }
+                });
+                
+                grouped[day].forEach(item => {
+                    const marker = L.circleMarker([item.lat, item.lon], {
+                        radius: 6,
+                        fillColor: dayColors[day],
+                        color: '#fff',
+                        weight: 2,
+                        opacity: 1,
+                        fillOpacity: 0.8
+                    });
+                    
+                    marker.bindPopup(createPopupContent(item.event));
+                    clusterGroup.addLayer(marker);
+                });
+                
+                layerGroups[day] = clusterGroup;
+                map.addLayer(clusterGroup);
+            });
+            
+            // Create layer control
+            const overlays = {};
+            Object.keys(layerGroups).forEach(day => {
+                overlays[`📅 ${day}`] = layerGroups[day];
+            });
+            
+            layerControl = L.control.layers({}, overlays, { collapsed: false });
+            layerControl.addTo(map);
+        }
+        
+        // Initialize map on page load
+        window.addEventListener('load', initMap);
+        
+        // Add cluster styling
+        const style = document.createElement('style');
+        style.textContent = `
+            .cluster-icon {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                font-weight: bold;
+                color: white;
+                border-radius: 50%;
+            }
+            
+            .cluster-icon div {
+                width: 100%;
+                height: 100%;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                border-radius: 50%;
+            }
+            
+            .cluster-icon.cluster-small div {
+                font-size: 12px;
+            }
+            
+            .cluster-icon.cluster-medium div {
+                font-size: 14px;
+            }
+            
+            .cluster-icon.cluster-large div {
+                font-size: 16px;
+            }
+            
+            .leaflet-control-layers-list label {
+                margin-bottom: 8px;
+                cursor: pointer;
+            }
+        `;
+        document.head.appendChild(style);
+    </script>
+</body>
+</html>
