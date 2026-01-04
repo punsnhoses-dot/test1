@@ -109,15 +109,15 @@
         let layerGroups = {};
         let layerControl;
         
-        // Color mapping for different days
+        // Color mapping for different days - BOLD VIBRANT COLORS
         const dayColors = {
-            'Monday': '#FF6B6B',
-            'Tuesday': '#4ECDC4',
-            'Wednesday': '#45B7D1',
-            'Thursday': '#FFA07A',
-            'Friday': '#98D8C8',
-            'Saturday': '#F7DC6F',
-            'Sunday': '#F7DC6F'
+            'Monday': '#FF0000',
+            'Tuesday': '#00CC00',
+            'Wednesday': '#0066FF',
+            'Thursday': '#FF6600',
+            'Friday': '#FF00FF',
+            'Saturday': '#FFCC00',
+            'Sunday': '#00FFFF'
         };
         
         function initMap() {
@@ -220,8 +220,8 @@
         function createPopupContent(event) {
             return `
                 <div class="popup-content">
-                    <h3>${event.event_title}</h3>
-                    <p><strong>Venue:</strong> ${event.venue_name}</p>
+                    <h3>${event.venue_name}</h3>
+                    <p><strong>Event:</strong> ${event.event_title}</p>
                     <p><strong>Address:</strong> ${event.address}</p>
                     <p><strong>Date:</strong> ${event.date}</p>
                     <p><strong>Time:</strong> ${event.time || 'TBA'}</p>
