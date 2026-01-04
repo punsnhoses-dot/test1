@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SpeedQuizzing Events Map</title>
+    
+    <!-- Load your events data first -->
+    <script src="events-data.js"></script>
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
+    <!-- Leaflet Clustering CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.1/MarkerCluster.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.1/MarkerCluster.Default.min.css" />
+    
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #f5f5f5;
+        }
+        
+        #map {
+            width: 100%;
+            height: 100vh;
+        }
+        
+        .popup-content {
+            min-width: 280px;
+            font-size: 13px;
+        }
+        
+        .popup-content h3 {
+            color: #667eea;
+            margin-bottom: 10px;
+            font-size: 15px;
+        }
+        
+        .popup-content p {
+            margin: 5px 0;
+            color: #333;
+        }
+        
+        .popup-content strong {
+            color: #764ba2;
+        }
+        
+        .popup-content a {
+            color: #667eea;
+            text-decoration: none;
+        }
+        
+        .popup-content a:hover {
+            text-decoration: underline;
+        }
+        
+        .cluster-icon {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            color: white;
+            border-radius: 50%;
+        }
+        
+        .cluster-icon div {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+        }
+        
+        .cluster-icon.cluster-small div {
+            font-size: 12px;
+        }
+        
+        .cluster-icon.cluster-medium div {
+            font-size: 14px;
+        }
+        
+        .cluster-icon.cluster-large div {
+            font-size: 16px;
+        }
+        
+        .leaflet-control-layers-list label {
+            margin-bottom: 8px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+
+    <!-- Leaflet JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+    <!-- Leaflet Clustering JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.1/leaflet.markercluster.min.js"></script>
+    
+    <script>
+        let map;
+        let layerGroups = {};
+        let layerControl;
+        
+        // Color mapping for different days
+        const dayColors = {
+            'Monday': '#FF6B6B',
+            'Tuesday': '#4ECDC4',
+            'Wednesday': '#45B7D1',
+            'Thursday': '#FFA07A',
+            'Friday': '#98D8C8',
+            'Sunday': '#F7DC6F',
+            '': '#95A5A6'
+        };
+        
+        function initMap() {
+            map = L.map('map').setView([54.5973, -3.4361], 6);
+            
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '© OpenStreetMap contributors',
+                maxZoom: 19
+            }).addTo(map);
+            
+            // Load events data from events-data.js
+            if (typeof window.eventsData !== 'undefined' && window.eventsData.length > 0) {
+                populateMap(window.eventsData);
+            } else {
+                console.error('No events data found. Make sure events-data.js is loaded.');
+            }
+        }
+        
+        function populateMap(events) {
+            // Clear existing layers
+            Object.keys(layerGroups).forEach(day => {
+                map.removeLayer(layerGroups[day]);
+            });
+            layerGroups = {};
+            
+            if (layerControl) {
+                map.removeControl(layerControl);
+            }
+            
+            // Group events by repeat_day
+            const grouped = {};
+            
+            events.forEach(event => {
+                if (!event.latitude || !event.longitude) return;
+                
+                const lat = parseFloat(event.latitude);
+                const lon = parseFloat(event.longitude);
+                
+                if (isNaN(lat) || isNaN(lon)) return;
+                
+                const day = event.repeat_day || 'Not specified';
+                
+                if (!grouped[day]) {
+                    grouped[day] = [];
+                }
+                grouped[day].push({ event, lat, lon });
+            });
+            
+            // Create layer group for each day with clustering
+            Object.keys(grouped).forEach(day => {
+                const clusterGroup = L.markerClusterGroup({
+                    maxClusterRadius: 80,
+                    iconCreateFunction: function(cluster) {
+                        const count = cluster.getChildCount();
+                        const size = count < 10 ? 'small' : count < 100 ? 'medium' : 'large';
+                        return L.divIcon({
+                            html: `<div style="background-color: ${dayColors[day]};">${count}</div>`,
+                            className: `cluster-icon cluster-${size}`,
+                            iconSize: [40, 40]
+                        });
+                    }
+                });
+                
+                grouped[day].forEach(item => {
+                    const marker = L.circleMarker([item.lat, item.lon], {
+                        radius: 6,
+                        fillColor: dayColors[day],
+                        color: '#fff',
+                        weight: 2,
+                        opacity: 1,
+                        fillOpacity: 0.8
+                    });
+                    
+                    marker.bindPopup(createPopupContent(item.event));
+                    clusterGroup.addLayer(marker);
+                });
+                
+                layerGroups[day] = clusterGroup;
+                map.addLayer(clusterGroup);
+            });
+            
+            // Create layer control
+            const overlays = {};
+            Object.keys(layerGroups).forEach(day => {
+                overlays[`📅 ${day}`] = layerGroups[day];
+            });
+            
+            layerControl = L.control.layers({}, overlays, { collapsed: false });
+            layerControl.addTo(map);
+        }
+        
+        function createPopupContent(event) {
+            return `
+                <div class="popup-content">
+                    <h3>${event.event_title}</h3>
+                    <p><strong>Venue:</strong> ${event.venue_name}</p>
+                    <p><strong>Address:</strong> ${event.address}</p>
+                    <p><strong>Date:</strong> ${event.date}</p>
+                    <p><strong>Time:</strong> ${event.time || 'TBA'}</p>
+                    <p><strong>Day:</strong> ${event.repeat_day || 'N/A'}</p>
+                    <p><strong>Host:</strong> ${event.host_name}</p>
+                    <p><strong>Price:</strong> ${event.price || 'Free'}</p>
+                    <p><strong>Max Team Size:</strong> ${event.teams_max || 'N/A'}</p>
+                    ${event.age_limit ? `<p><strong>Age Limit:</strong> ${event.age_limit}</p>` : ''}
+                    ${event.event_url ? `<p><a href="${event.event_url}" target="_blank">📍 View Event</a></p>` : ''}
+                </div>
+            `;
+        }
+        
+        // Initialize map on page load
+        window.addEventListener('load', initMap);
+    </script>
+</body>
+</html>
