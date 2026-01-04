@@ -107,7 +107,6 @@
     <script>
         let map;
         let layerGroups = {};
-        let allDaysGroup;
         let layerControl;
         
         // Color mapping for different days - MODERN MUTED PALETTE
@@ -144,16 +143,9 @@
             });
             layerGroups = {};
             
-            if (allDaysGroup) {
-                map.removeLayer(allDaysGroup);
-            }
-            
             if (layerControl) {
                 map.removeControl(layerControl);
             }
-            
-            // Create "All Days" layer group
-            allDaysGroup = L.featureGroup();
             
             // Group events by repeat_day
             const grouped = {};
@@ -207,24 +199,14 @@
                     
                     marker.bindPopup(createPopupContent(item.event));
                     clusterGroup.addLayer(marker);
-                    allDaysGroup.addLayer(marker);
                 });
                 
                 layerGroups[day] = clusterGroup;
                 map.addLayer(clusterGroup);
             });
             
-            // Add all days group to map
-            map.addLayer(allDaysGroup);
-            
             // Create layer control in day order
             const overlays = {};
-            
-            // Add "All Days" option first
-            const allDaysHtml = `<span style="display: inline-block; width: 12px; height: 12px; background: linear-gradient(45deg, #E74C3C 25%, #27AE60 25%, #27AE60 50%, #3498DB 50%, #3498DB 75%, #E67E22 75%); border-radius: 50%; border: 2px solid white; box-shadow: 0 0 3px rgba(0,0,0,0.3); margin-right: 8px; vertical-align: middle;"></span>All Days`;
-            overlays[allDaysHtml] = allDaysGroup;
-            
-            // Add individual days
             dayOrder.forEach(day => {
                 if (layerGroups[day]) {
                     const markerHtml = `<span style="display: inline-block; width: 12px; height: 12px; background-color: ${dayColors[day]}; border-radius: 50%; border: 2px solid white; box-shadow: 0 0 3px rgba(0,0,0,0.3); margin-right: 8px; vertical-align: middle;"></span>${day}`;
