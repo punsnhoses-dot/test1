@@ -312,7 +312,6 @@
         
         function populateMap(events) {
             // Clear existing layers
-            window.loadedEvents = events;
             Object.keys(layerGroups).forEach(day => {
                 map.removeLayer(layerGroups[day]);
             });
@@ -324,6 +323,7 @@
             
             // Group events by repeat_day
             const grouped = {};
+            const dayOrder = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
             
             events.forEach(event => {
                 if (!event.latitude || !event.longitude) return;
@@ -333,7 +333,10 @@
                 
                 if (isNaN(lat) || isNaN(lon)) return;
                 
-                const day = event.repeat_day || 'Not specified';
+                const day = event.repeat_day || '';
+                
+                // Skip empty/not specified days
+                if (!day || day.trim() === '') return;
                 
                 if (!grouped[day]) {
                     grouped[day] = [];
@@ -341,8 +344,10 @@
                 grouped[day].push({ event, lat, lon });
             });
             
-            // Create layer group for each day with clustering
-            Object.keys(grouped).forEach(day => {
+            // Create layer group for each day with clustering - in order
+            dayOrder.forEach(day => {
+                if (!grouped[day]) return;
+                
                 const clusterGroup = L.markerClusterGroup({
                     maxClusterRadius: 80,
                     iconCreateFunction: function(cluster) {
@@ -374,10 +379,12 @@
                 map.addLayer(clusterGroup);
             });
             
-            // Create layer control
+            // Create layer control in day order
             const overlays = {};
-            Object.keys(layerGroups).forEach(day => {
-                overlays[`📅 ${day}`] = layerGroups[day];
+            dayOrder.forEach(day => {
+                if (layerGroups[day]) {
+                    overlays[`📅 ${day}`] = layerGroups[day];
+                }
             });
             
             layerControl = L.control.layers({}, overlays, { collapsed: false });
