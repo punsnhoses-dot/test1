@@ -6,7 +6,7 @@
     <title>SpeedQuizzing Events Map</title>
     
     <!-- Load your events data first -->
-    <script src="events-data.js"></script>
+    <script src="https://punsnhoses-dot.github.io/test1/events-data.js"></script>
     
     <!-- Leaflet CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
@@ -116,8 +116,8 @@
             'Wednesday': '#45B7D1',
             'Thursday': '#FFA07A',
             'Friday': '#98D8C8',
-            'Sunday': '#F7DC6F',
-            '': '#95A5A6'
+            'Saturday': '#F7DC6F',
+            'Sunday': '#F7DC6F'
         };
         
         function initMap() {
@@ -149,6 +149,7 @@
             
             // Group events by repeat_day
             const grouped = {};
+            const dayOrder = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
             
             events.forEach(event => {
                 if (!event.latitude || !event.longitude) return;
@@ -158,7 +159,10 @@
                 
                 if (isNaN(lat) || isNaN(lon)) return;
                 
-                const day = event.repeat_day || 'Not specified';
+                const day = event.repeat_day || '';
+                
+                // Skip empty/not specified days
+                if (!day || day.trim() === '') return;
                 
                 if (!grouped[day]) {
                     grouped[day] = [];
@@ -166,8 +170,10 @@
                 grouped[day].push({ event, lat, lon });
             });
             
-            // Create layer group for each day with clustering
-            Object.keys(grouped).forEach(day => {
+            // Create layer group for each day with clustering - in order
+            dayOrder.forEach(day => {
+                if (!grouped[day]) return;
+                
                 const clusterGroup = L.markerClusterGroup({
                     maxClusterRadius: 80,
                     iconCreateFunction: function(cluster) {
@@ -199,10 +205,12 @@
                 map.addLayer(clusterGroup);
             });
             
-            // Create layer control
+            // Create layer control in day order
             const overlays = {};
-            Object.keys(layerGroups).forEach(day => {
-                overlays[`📅 ${day}`] = layerGroups[day];
+            dayOrder.forEach(day => {
+                if (layerGroups[day]) {
+                    overlays[`📅 ${day}`] = layerGroups[day];
+                }
             });
             
             layerControl = L.control.layers({}, overlays, { collapsed: false });
