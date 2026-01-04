@@ -257,7 +257,6 @@
             try {
                 timeStr = timeStr.trim().toLowerCase();
                 
-                // Handle various 12-hour formats (e.g., "8pm", "8.00pm", "8:00pm", "20:00")
                 let hours = 0;
                 let minutes = '00';
                 
@@ -281,6 +280,11 @@
                             hours = 0;
                         }
                     }
+                }
+                
+                // All events are after midday - if hours < 12, add 12 hours
+                if (hours < 12) {
+                    hours += 12;
                 }
                 
                 return `${String(hours).padStart(2, '0')}:${minutes}`;
