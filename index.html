@@ -305,7 +305,7 @@
             return `
                 <div class="popup-content">
                     <h3>${event.venue_name}</h3>
-                    <p><strong>Event Title:</strong> ${event.event_title}</p>
+                    <p><strong>Event Type:</strong> ${event.event_title}</p>
                     <p><strong>Address:</strong> ${event.address}</p>
                     <p><strong>Date:</strong> ${event.date}</p>
                     <p><strong>Time:</strong> ${event.time || 'TBA'}</p>
@@ -314,7 +314,6 @@
                     <p><strong>Price:</strong> ${event.price || 'Free'}</p>
                     <p><strong>Max Team Size:</strong> ${event.teams_max || 'N/A'}</p>
                     ${event.age_limit ? `<p><strong>Age Limit:</strong> ${event.age_limit}</p>` : ''}
-                    ${event.event_url ? `<p><a href="${event.event_url}" target="_blank">📍 View Event</a></p>` : ''}
                 </div>
             `;
         }
