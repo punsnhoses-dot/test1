@@ -261,10 +261,34 @@
                 return;
             }
             
+            if (!file.name.endsWith('.csv') && file.type !== 'text/csv' && file.type !== 'text/plain') {
+                status.textContent = '❌ Please upload a CSV file';
+                status.className = 'status error';
+                return;
+            }
+            
             const reader = new FileReader();
+            
+            reader.onerror = function() {
+                status.textContent = '❌ Error reading file';
+                status.className = 'status error';
+            };
+            
             reader.onload = function(e) {
                 try {
-                    const data = parseCSV(e.target.result);
+                    const text = e.target.result;
+                    if (!text || text.trim() === '') {
+                        status.textContent = '❌ CSV file is empty';
+                        status.className = 'status error';
+                        return;
+                    }
+                    const data = parseCSV(text);
+                    if (data.length === 0) {
+                        status.textContent = '❌ CSV file contains no event data';
+                        status.className = 'status error';
+                        return;
+                    }
+                    window.loadedEvents = data;
                     populateMap(data);
                     status.textContent = `✅ Successfully loaded ${data.length} events!`;
                     status.className = 'status success';
