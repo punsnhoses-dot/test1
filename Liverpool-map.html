@@ -112,11 +112,11 @@
         };
         
         function initMap() {
-            map = L.map('map').setView([53.4084, 2.9916], 6);
+            map = L.map('map').setView([53.4084, 2.9916], 12);
             
             L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
                 attribution: '© OpenStreetMap contributors',
-                maxZoom: 10
+                maxZoom: 19
             }).addTo(map);
             
             // Load events data from events-data.js
