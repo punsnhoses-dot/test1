@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pub Quiz Events Map</title>
+    
+    <!-- Load your events data first -->
+    <script src="https://punsnhoses-dot.github.io/test1/events-data.js"></script>
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
+    <!-- Leaflet Clustering CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.1/MarkerCluster.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.1/MarkerCluster.Default.min.css" />
+    
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #f5f5f5;
+        }
+        
+        #map {
+            width: 100%;
+            height: 100vh;
+        }
+        
+        .popup-content {
+            min-width: 280px;
+            font-size: 13px;
+        }
+        
+        .popup-content h3 {
+            color: #667eea;
+            margin-bottom: 10px;
+            font-size: 15px;
+        }
+        
+        .popup-content p {
+            margin: 5px 0;
+            color: #333;
+        }
+        
+        .popup-content strong {
+            color: #764ba2;
+        }
+        
+        .cluster-icon {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            color: white;
+            border-radius: 50%;
+        }
+        
+        .cluster-icon div {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+        }
+        
+        .cluster-icon.cluster-small div {
+            font-size: 12px;
+        }
+        
+        .cluster-icon.cluster-medium div {
+            font-size: 14px;
+        }
+        
+        .cluster-icon.cluster-large div {
+            font-size: 16px;
+        }
+        
+        .leaflet-control-layers-list label {
+            margin-bottom: 8px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+
+    <!-- Leaflet JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+    <!-- Leaflet Clustering JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.1/leaflet.markercluster.min.js"></script>
+    
+    <script>
+        let map;
+        let layerGroups = {};
+        let layerControl;
+        
+        // Color mapping for different days - MODERN MUTED PALETTE
+        const dayColors = {
+            'Monday': '#E74C3C',
+            'Tuesday': '#27AE60',
+            'Wednesday': '#3498DB',
+            'Thursday': '#E67E22',
+            'Friday': '#9B59B6',
+            'Saturday': '#F39C12',
+            'Sunday': '#1ABC9C'
+        };
+        
+        // Extract city from address
+        function extractCity(address) {
+            if (!address) return '';
+            // Address format is typically: street, city, postcode
+            // Split by comma and get the second-to-last part (city is usually before postcode)
+            const parts = address.split(',').map(p => p.trim());
+            if (parts.length >= 2) {
+                // Return second-to-last part (before postcode)
+                return parts[parts.length - 2];
+            }
+            return '';
+        }
+        
+        // Get URL parameters
+        function getUrlParameter(name) {
+            const url = new URL(window.location);
+            return url.searchParams.get(name);
+        }
+        
+        // Calculate center point from array of coordinates
+        function calculateCenter(events) {
+            if (events.length === 0) return { lat: 54.5973, lon: -3.4361, zoom: 6 };
+            
+            let sumLat = 0, sumLon = 0;
+            events.forEach(event => {
+                sumLat += parseFloat(event.latitude);
+                sumLon += parseFloat(event.longitude);
+            });
+            
+            const centerLat = sumLat / events.length;
+            const centerLon = sumLon / events.length;
+            
+            // Calculate bounding box to determine appropriate zoom
+            let minLat = parseFloat(events[0].latitude);
+            let maxLat = minLat;
+            let minLon = parseFloat(events[0].longitude);
+            let maxLon = minLon;
+            
+            events.forEach(event => {
+                const lat = parseFloat(event.latitude);
+                const lon = parseFloat(event.longitude);
+                minLat = Math.min(minLat, lat);
+                maxLat = Math.max(maxLat, lat);
+                minLon = Math.min(minLon, lon);
+                maxLon = Math.max(maxLon, lon);
+            });
+            
+            // Calculate zoom level based on spread
+            const latDiff = maxLat - minLat;
+            const lonDiff = maxLon - minLon;
+            const maxDiff = Math.max(latDiff, lonDiff);
+            
+            let zoom = 13;
+            if (maxDiff > 2) zoom = 10;
+            if (maxDiff > 5) zoom = 8;
+            if (maxDiff > 10) zoom = 6;
+            
+            return { lat: centerLat, lon: centerLon, zoom: zoom };
+        }
+        
+        function initMap() {
+            map = L.map('map').setView([54.5973, -3.4361], 6);
+            
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '© OpenStreetMap contributors',
+                maxZoom: 19
+            }).addTo(map);
+            
+            // Load events data from events-data.js
+            if (typeof window.eventsData !== 'undefined' && window.eventsData.length > 0) {
+                const locationParam = getUrlParameter('location');
+                
+                if (locationParam) {
+                    // Filter events by location
+                    const filteredEvents = window.eventsData.filter(event => {
+                        const city = extractCity(event.address);
+                        // Match location parameter with city (case-insensitive)
+                        return city.toLowerCase().replace(/\s+/g, '-') === locationParam.toLowerCase();
+                    });
+                    
+                    if (filteredEvents.length > 0) {
+                        populateMap(filteredEvents);
+                        const center = calculateCenter(filteredEvents);
+                        map.setView([center.lat, center.lon], center.zoom);
+                    } else {
+                        console.warn(`No events found for location: ${locationParam}`);
+                        populateMap(window.eventsData);
+                    }
+                } else {
+                    // Show all events with default view
+                    populateMap(window.eventsData);
+                }
+            } else {
+                console.error('No events data found. Make sure events-data.js is loaded.');
+            }
+        }
+        
+        function populateMap(events) {
+            // Clear existing layers
+            Object.keys(layerGroups).forEach(day => {
+                map.removeLayer(layerGroups[day]);
+            });
+            layerGroups = {};
+            
+            if (layerControl) {
+                map.removeControl(layerControl);
+            }
+            
+            // Group events by repeat_day
+            const grouped = {};
+            const dayOrder = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
+            
+            events.forEach(event => {
+                if (!event.latitude || !event.longitude) return;
+                
+                const lat = parseFloat(event.latitude);
+                const lon = parseFloat(event.longitude);
+                
+                if (isNaN(lat) || isNaN(lon)) return;
+                
+                const day = event.repeat_day || '';
+                
+                // Skip empty/not specified days
+                if (!day || day.trim() === '') return;
+                
+                if (!grouped[day]) {
+                    grouped[day] = [];
+                }
+                grouped[day].push({ event, lat, lon });
+            });
+            
+            // Create layer group for each day with clustering - in order
+            dayOrder.forEach(day => {
+                if (!grouped[day]) return;
+                
+                const clusterGroup = L.markerClusterGroup({
+                    maxClusterRadius: 80,
+                    iconCreateFunction: function(cluster) {
+                        const count = cluster.getChildCount();
+                        const size = count < 10 ? 'small' : count < 100 ? 'medium' : 'large';
+                        return L.divIcon({
+                            html: `<div style="background-color: ${dayColors[day]};">${count}</div>`,
+                            className: `cluster-icon cluster-${size}`,
+                            iconSize: [40, 40]
+                        });
+                    }
+                });
+                
+                grouped[day].forEach(item => {
+                    const marker = L.circleMarker([item.lat, item.lon], {
+                        radius: 6,
+                        fillColor: dayColors[day],
+                        color: '#fff',
+                        weight: 2,
+                        opacity: 1,
+                        fillOpacity: 0.8
+                    });
+                    
+                    marker.bindPopup(createPopupContent(item.event));
+                    clusterGroup.addLayer(marker);
+                });
+                
+                layerGroups[day] = clusterGroup;
+                map.addLayer(clusterGroup);
+            });
+            
+            // Create layer control in day order
+            const overlays = {};
+            dayOrder.forEach(day => {
+                if (layerGroups[day]) {
+                    overlays[`📅 ${day}`] = layerGroups[day];
+                }
+            });
+            
+            layerControl = L.control.layers({}, overlays, { collapsed: false });
+            layerControl.addTo(map);
+        }
+        
+        function createPopupContent(event) {
+            const formattedDate = formatDate(event.date);
+            const formattedTime = formatTime(event.time);
+            
+            return `
+                <div class="popup-content">
+                    <h3>${event.venue_name}</h3>
+                    <p><strong>Event Type:</strong> ${event.event_title}</p>
+                    <p><strong>Address:</strong> ${event.address}</p>
+                    <p><strong>Date:</strong> ${formattedDate}</p>
+                    <p><strong>Time:</strong> ${formattedTime}</p>
+                    <p><strong>Day:</strong> ${event.repeat_day || 'N/A'}</p>
+                    <p><strong>Host:</strong> ${event.host_name}</p>
+                    <p><strong>Price:</strong> ${event.price || 'Free'}</p>
+                    <p><strong>Max Team Size:</strong> ${event.teams_max || 'N/A'}</p>
+                    ${event.age_limit ? `<p><strong>Age Limit:</strong> ${event.age_limit}</p>` : ''}
+                </div>
+            `;
+        }
+        
+        function formatDate(dateStr) {
+            if (!dateStr) return 'TBA';
+            try {
+                const date = new Date(dateStr);
+                const day = String(date.getDate()).padStart(2, '0');
+                const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+                const month = months[date.getMonth()];
+                const year = String(date.getFullYear()).slice(-2);
+                return `${day}-${month}-${year}`;
+            } catch (e) {
+                return dateStr;
+            }
+        }
+        
+        function formatTime(timeStr) {
+            if (!timeStr) return 'TBA';
+            try {
+                timeStr = timeStr.trim().toLowerCase();
+                
+                let hours = 0;
+                let minutes = '00';
+                
+                // Check if it's already in 24-hour format (contains colon but no am/pm)
+                if (timeStr.includes(':') && !timeStr.includes('pm') && !timeStr.includes('am')) {
+                    const parts = timeStr.split(':');
+                    hours = parseInt(parts[0]);
+                    minutes = parts[1] ? parts[1].padStart(2, '0') : '00';
+                } else {
+                    // Extract hours, minutes, and period (am/pm)
+                    const match = timeStr.match(/^(\d{1,2})(?:[.:](\d{2}))?\s*(am|pm)?/);
+                    if (match) {
+                        hours = parseInt(match[1]);
+                        minutes = match[2] ? match[2].padStart(2, '0') : '00';
+                        const period = match[3];
+                        
+                        // Convert to 24-hour if pm/am specified
+                        if (period === 'pm' && hours !== 12) {
+                            hours += 12;
+                        } else if (period === 'am' && hours === 12) {
+                            hours = 0;
+                        }
+                    }
+                }
+                
+                // All events are after midday - if hours < 12, add 12 hours
+                if (hours < 12) {
+                    hours += 12;
+                }
+                
+                return `${String(hours).padStart(2, '0')}:${minutes}`;
+            } catch (e) {
+                return timeStr;
+            }
+        }
+        
+        // Initialize map on page load
+        window.addEventListener('load', initMap);
+    </script>
+</body>
+</html>
