@@ -112,7 +112,7 @@
         };
         
         function initMap() {
-            map = L.map('map').setView([51.4076812, 0.4779859], 10);
+            map = L.map('map').setView([51.4076812, 0.4779859], 8);
             
             L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
                 attribution: '© OpenStreetMap contributors',
