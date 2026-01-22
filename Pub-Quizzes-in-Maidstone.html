@@ -85,6 +85,23 @@
             margin-bottom: 8px;
             cursor: pointer;
         }
+        
+        .rating-container {
+            margin: 5px 0;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+        
+        .star-rating {
+            display: inline-flex;
+            gap: 2px;
+        }
+        
+        .star {
+            font-size: 16px;
+            color: #FFD700;
+        }
     </style>
 </head>
 <body>
@@ -208,9 +225,27 @@
             layerControl.addTo(map);
         }
         
+        function createStarRating(rating) {
+            // Handle Excel #N/A values and empty/invalid ratings
+            if (!rating || rating === '#N/A' || rating === 'N/A' || rating.toString().trim() === '') {
+                return '<span style="color: #999;">Not rated</span>';
+            }
+            
+            const numStars = parseInt(rating) || 0;
+            if (numStars === 0 || numStars > 5) return '<span style="color: #999;">Not rated</span>';
+            
+            let stars = '';
+            for (let i = 0; i < numStars; i++) {
+                stars += '<span class="star">★</span>';
+            }
+            return `<span class="star-rating">${stars}</span>`;
+        }
+        
         function createPopupContent(event) {
             const formattedDate = formatDate(event.date);
             const formattedTime = formatTime(event.time);
+            const quizRating = event['Quiz rating'] || event.quiz_rating || '';
+            const hostRating = event['Host rating'] || event.host_rating || '';
             
             return `
                 <div class="popup-content">
@@ -224,6 +259,12 @@
                     <p><strong>Price:</strong> ${event.price || 'Free'}</p>
                     <p><strong>Max Team Size:</strong> ${event.teams_max || 'N/A'}</p>
                     ${event.age_limit ? `<p><strong>Age Limit:</strong> ${event.age_limit}</p>` : ''}
+                    <div class="rating-container">
+                        <strong>Quiz Rating:</strong> ${createStarRating(quizRating)}
+                    </div>
+                    <div class="rating-container">
+                        <strong>Host Rating:</strong> ${createStarRating(hostRating)}
+                    </div>
                 </div>
             `;
         }
