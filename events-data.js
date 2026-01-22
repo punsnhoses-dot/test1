@@ -17,7 +17,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/47/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Urmston Hotel"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "76",
@@ -37,14 +38,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/76/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Moss Trooper"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "78",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Bent Brook",
     "address": "Broadway, Urmston, Manchester, M41 7NW 8.30 Thursday 22 Jan 2026",
-    "latitude": "53.45898529999999",
+    "latitude": "53.4589853",
     "longitude": "-2.3717357",
     "date": "22-Jan-26",
     "time": "8.3",
@@ -57,7 +59,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/78/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Bent Brook"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "87",
@@ -77,7 +80,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/87/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Lily"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "229",
@@ -97,7 +101,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/229/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Kings Ransom"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "322",
@@ -117,14 +122,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/322/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Sixty Million Postcards"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "385",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Woodhouse Gardens",
     "address": "48 Medlock Road, Woodhouses, Failsworth, M35 9WN 8- Monday Prizes, 1st prize £20 Voucher. 2nd prize 4 x 2.50 Drinks V | Free to play | Max 6 per team | Age 18+",
-    "latitude": "53.50337589999999",
+    "latitude": "53.5033759",
     "longitude": "-2.1376625",
     "date": "26-Jan-26",
     "time": "30pm",
@@ -137,7 +143,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/385/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Woodhouse Gardens"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "491",
@@ -157,7 +164,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/491/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Flying Dutchman"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "492",
@@ -177,14 +185,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/492/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Adelphi"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "512",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Bolulevard Wigan",
     "address": "The Boulevard, 17A Wallgate, Wigan, WN1 1LD Thursday Prizes, WINNER TAKES ALL CASH PRIZE ! | £2 to play | Max 4 per team | Age 18+",
-    "latitude": "53.54535629999999",
+    "latitude": "53.5453563",
     "longitude": "-2.6320913",
     "date": "22-Jan-26",
     "time": "8:30pm",
@@ -197,7 +206,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/512/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Bolulevard Wigan"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "515",
@@ -217,7 +227,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/515/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Soar Point"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "526",
@@ -237,14 +248,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/526/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Green Dragon"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "533",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Terrace Bar",
     "address": "51 Richmond Street, Glasgow, G1 1XU Monday Prizes, £200 can be won | FREE to play | Max 10 per team | Age 17+",
-    "latitude": "55.86139037292473",
+    "latitude": "55.86139037",
     "longitude": "-4.242387957",
     "date": "26-Jan-26",
     "time": "8pm",
@@ -257,7 +269,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/533/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Terrace Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "563",
@@ -265,7 +278,7 @@ window.eventsData = [
     "venue_name": "Bl\\u00fcmchen",
     "address": "",
     "latitude": "47.6500454",
-    "longitude": "9.481872599999999",
+    "longitude": "9.4818726",
     "date": "",
     "time": "",
     "repeat_day": "",
@@ -277,7 +290,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/563/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Bl\\u00fcmchen"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "573",
@@ -297,7 +311,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/573/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Mailbox Lincoln"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "600",
@@ -317,7 +332,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/600/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Cricketers"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "611",
@@ -337,7 +353,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/611/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Toasted Owl Tavern"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "668",
@@ -357,7 +374,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/668/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Pat's Pizza"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "712",
@@ -377,7 +395,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/712/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Old White Swan"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "715",
@@ -397,7 +416,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/715/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Lamb Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "735",
@@ -417,7 +437,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/735/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "778",
@@ -437,14 +458,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/778/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Olde Red Lion"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "871",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Patrick Kavanagh Bar",
     "address": "142 Trafalgar Road, Moseley, Birmingham, B13 8BX Tuesday Prizes, Bar Tabs and Glory | £2 to play | Max 6 per team | Age 18+",
-    "latitude": "52.44828589999999",
+    "latitude": "52.4482859",
     "longitude": "-1.8859392",
     "date": "27-Jan-26",
     "time": "8pm",
@@ -457,7 +479,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/871/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Patrick Kavanagh Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "874",
@@ -477,14 +500,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/874/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Carousel"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "903",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "East Villiage Tavern",
     "address": "",
-    "latitude": "42.06699262342965",
+    "latitude": "42.06699262",
     "longitude": "-72.51373529",
     "date": "",
     "time": "",
@@ -497,7 +521,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/903/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "East Villiage Tavern"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "916",
@@ -517,7 +542,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/916/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Library"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "920",
@@ -537,7 +563,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/920/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Ark"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "922",
@@ -557,7 +584,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/922/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Southfield"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "926",
@@ -577,14 +605,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/926/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Phoenix"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "931",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Faraday",
     "address": "",
-    "latitude": "51.33375600000001",
+    "latitude": "51.333756",
     "longitude": "-0.2641073",
     "date": "",
     "time": "",
@@ -597,7 +626,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/931/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Faraday"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "942",
@@ -617,14 +647,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/942/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Pounders"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "962",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "House Of Brews",
     "address": "",
-    "latitude": "39.72830159999999",
+    "latitude": "39.7283016",
     "longitude": "-75.0332321",
     "date": "",
     "time": "",
@@ -637,7 +668,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/962/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "House Of Brews"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "969",
@@ -657,7 +689,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/969/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Racks Atco"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "979",
@@ -677,7 +710,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/979/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Royal Sovereign"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "1008",
@@ -697,7 +731,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/1008/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Actress And Bishop"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "1009",
@@ -717,14 +752,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/1009/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Ferry Tavern"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "1041",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "THE EVS",
     "address": "153 Cottingham Road, Corby, NN17 1SY Wednesday Prizes, Cash Prizes and More | £2 to play | Max 6 per team | Age 16+",
-    "latitude": "52.49119686640761",
+    "latitude": "52.49119687",
     "longitude": "-0.6988313",
     "date": "21-Jan-26",
     "time": "8pm",
@@ -737,7 +773,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/1041/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "THE EVS"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "1053",
@@ -757,7 +794,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/1053/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Bloomery Speedquiz"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "1094",
@@ -777,7 +815,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/1094/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Friendship Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "1127",
@@ -797,7 +836,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/1127/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Griffin"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "1138",
@@ -817,7 +857,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/1138/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Dice Cup"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "1152",
@@ -837,7 +878,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/1152/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Bloomfield Brewhouse"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "1177",
@@ -857,14 +899,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/1177/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "1204",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Crowd Of Favours",
     "address": "",
-    "latitude": "53.79636199999999",
+    "latitude": "53.796362",
     "longitude": "-1.5377174",
     "date": "25-Jan-26",
     "time": "7.15",
@@ -877,7 +920,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/1204/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Crowd Of Favours"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "1232",
@@ -897,14 +941,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/1232/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Islander Bar & Grille"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "1261",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Bayhorse",
     "address": "",
-    "latitude": "53.66854300000001",
+    "latitude": "53.668543",
     "longitude": "-2.6756183",
     "date": "",
     "time": "",
@@ -917,7 +962,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/1261/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Bayhorse"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "1272",
@@ -937,14 +983,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/1272/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Hare & Hounds, Ramsbottom"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "1278",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Swan",
     "address": "College Road, Abbots Langley, WD5 0NR Thursday Prizes, Cash prizes | £3 to play | Max 8 per team | Age 18+",
-    "latitude": "51.70320299999999",
+    "latitude": "51.703203",
     "longitude": "-0.4097804",
     "date": "22-Jan-26",
     "time": "8pm",
@@ -957,7 +1004,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/1278/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Swan"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "1282",
@@ -977,7 +1025,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/1282/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "1316",
@@ -997,7 +1046,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/1316/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Butty"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "1344",
@@ -1017,7 +1067,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/1344/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Fox Pub & Kitchen"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "1358",
@@ -1037,7 +1088,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/1358/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Woodside"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "1374",
@@ -1057,7 +1109,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/1374/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "1510",
@@ -1077,14 +1130,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/1510/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "REGGIE'S"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "1538",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Acorn",
     "address": "Village Road, Bebington, Wirral, CH63 8PT 20.00 Thursday 22 Jan 2026Prizes, Vouchers for Sizzling Pubs food and drink and vari | £2.00 to play | Max No per team | Age 18+",
-    "latitude": "53.355520711349314",
+    "latitude": "53.35552071",
     "longitude": "-3.025166988",
     "date": "22-Jan-26",
     "time": "20",
@@ -1097,7 +1151,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/1538/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Acorn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "1562",
@@ -1117,7 +1172,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/1562/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Brewhouse And Kitchen"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "1595",
@@ -1137,7 +1193,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/1595/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Iconic Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "1664",
@@ -1157,7 +1214,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/1664/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Rosatos"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "1741",
@@ -1177,7 +1235,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/1741/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Head Of Steam"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "1744",
@@ -1197,14 +1256,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/1744/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Blackadder"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "1760",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Bristol Pear",
     "address": "676 Bristol Road, Selly Oak, Birmingham, B29 6BJ 20.15 Monday 26 Jan 2026Prizes, Lots of money, food and alcohol | £2 to play | Age 18+",
-    "latitude": "52.44314439999999",
+    "latitude": "52.4431444",
     "longitude": "-1.9363422",
     "date": "26-Jan-26",
     "time": "20.15",
@@ -1217,7 +1277,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/1760/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Bristol Pear"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "1832",
@@ -1237,7 +1298,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/1832/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Hambleton Sports and Social"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "1899",
@@ -1257,7 +1319,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/1899/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Summit"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "1914",
@@ -1277,7 +1340,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/1914/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Thursday Trivia Night"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "1915",
@@ -1297,7 +1361,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/1915/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Quiz night"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "1951",
@@ -1317,14 +1382,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/1951/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Huntington Sports Club"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "2032",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Ravelston House Hotel",
     "address": "182 North High Street, Musselburgh, EH21 6BH 7 Thursday Prizes, £30 meal voucher | £3 to play | Max 6 per team | Age 18+",
-    "latitude": "55.94378829999999",
+    "latitude": "55.9437883",
     "longitude": "-3.064788",
     "date": "22-Jan-26",
     "time": "30pm",
@@ -1337,7 +1403,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/2032/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Ravelston House Hotel"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "2075",
@@ -1357,7 +1424,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/2075/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Oil Well Craft Beer"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "2080",
@@ -1377,7 +1445,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/2080/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Pepperoncini"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "2144",
@@ -1397,14 +1466,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/2144/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Mount"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "2149",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Parkside Tavern",
     "address": "Merrion Street, Leeds, LS2 8JE 19:30 Tuesday 27 Jan 2026Prizes, tbc | £2 (£1 for students and f to play | Max 8 per team",
-    "latitude": "53.80057350000001",
+    "latitude": "53.8005735",
     "longitude": "-1.5415525",
     "date": "27-Jan-26",
     "time": "19:30",
@@ -1417,7 +1487,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/2149/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Parkside Tavern"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "2164",
@@ -1437,7 +1508,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/2164/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Summit Hotel"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "2174",
@@ -1457,7 +1529,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/2174/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Smithy Pond"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "2192",
@@ -1477,7 +1550,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/2192/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Clarendon"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "2196",
@@ -1497,7 +1571,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/2196/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Old Punch Bowl"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "2211",
@@ -1517,7 +1592,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/2211/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Railway"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "2217",
@@ -1537,7 +1613,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/2217/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Panini's Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "2285",
@@ -1557,7 +1634,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/2285/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Green Leafe Pub"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "2313",
@@ -1577,7 +1655,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/2313/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Thursday Coal yard Burnley"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "2369",
@@ -1597,14 +1676,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/2369/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Virginia B"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "2469",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Glenside Pub",
     "address": "",
-    "latitude": "53.29974139999999",
+    "latitude": "53.2997414",
     "longitude": "-6.2681124",
     "date": "",
     "time": "",
@@ -1617,7 +1697,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/2469/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Glenside Pub"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "2473",
@@ -1637,7 +1718,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/2473/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Trafalgar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "2537",
@@ -1657,7 +1739,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/2537/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Duke and Rye"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "2562",
@@ -1677,7 +1760,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/2562/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Sarsen Stones"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "2580",
@@ -1697,7 +1781,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/2580/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Nathan Bill's Bar & Restaura"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "2590",
@@ -1717,7 +1802,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/2590/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Three Legged Mare"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "2592",
@@ -1737,7 +1823,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/2592/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "King & Queen"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "2656",
@@ -1757,14 +1844,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/2656/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Bramley Cottage"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "2667",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Newall Green",
     "address": "",
-    "latitude": "53.38437144149656",
+    "latitude": "53.38437144",
     "longitude": "-2.287237644",
     "date": "22-Jan-26",
     "time": "20:00",
@@ -1777,7 +1865,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/2667/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Newall Green"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "2697",
@@ -1797,7 +1886,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/2697/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Scoreboard Pub & Grill"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "2770",
@@ -1817,7 +1907,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/2770/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Middle Ages Brewing Company"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "2778",
@@ -1825,7 +1916,7 @@ window.eventsData = [
     "venue_name": "The Pippin",
     "address": "78 London Road, Maidstone, ME16 0DR Thursday Prizes, Cash | £3 to play | Max 8 per team",
     "latitude": "51.2801649",
-    "longitude": "0.5067259999999578",
+    "longitude": "0.506726",
     "date": "22-Jan-26",
     "time": "8.00pm",
     "repeat_day": "Thursday",
@@ -1837,7 +1928,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/2778/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Pippin"
+    "Quiz rating": "5",
+    "Host rating": "3"
   },
   {
     "event_id": "2848",
@@ -1857,14 +1949,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/2848/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The New Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "3011",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "",
     "address": "",
-    "latitude": "53.32748344688085",
+    "latitude": "53.32748345",
     "longitude": "-3.83603096",
     "date": "",
     "time": "",
@@ -1877,7 +1970,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/3011/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "3030",
@@ -1885,7 +1979,7 @@ window.eventsData = [
     "venue_name": "The Yacht",
     "address": "167 Long Lane, Bexleyheath, DA7 5AE Sunday Prizes, Cash | £3 to play | Max 6 per team | Age 18+",
     "latitude": "51.4661911",
-    "longitude": "0.1448953999999958",
+    "longitude": "0.1448954",
     "date": "25-Jan-26",
     "time": "7.30pm",
     "repeat_day": "Sunday",
@@ -1897,14 +1991,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/3030/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Yacht"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "3050",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Lilacs (Isham)",
     "address": "39 Church St, Isham, Kettering, NN14 1HD Friday",
-    "latitude": "52.35749191008046",
+    "latitude": "52.35749191",
     "longitude": "-0.698490143",
     "date": "13-Feb-26",
     "time": "8pm",
@@ -1917,7 +2012,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/3050/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Lilacs (Isham)"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "3069",
@@ -1937,7 +2033,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/3069/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Crafty Bastards"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "3093",
@@ -1945,7 +2042,7 @@ window.eventsData = [
     "venue_name": "Morrison's Irish Pub",
     "address": "",
     "latitude": "-45.0319342",
-    "longitude": "168.66011389999994",
+    "longitude": "168.6601139",
     "date": "22-Jan-26",
     "time": "19",
     "repeat_day": "Thursday",
@@ -1957,7 +2054,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/3093/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Morrison's Irish Pub"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "3095",
@@ -1977,14 +2075,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/3095/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Martin's Downtown Bar & Gril"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "3124",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Sixty Ate",
     "address": "68 Dumbarton Road, Clydebank, G81 1UG Thursday Prizes, Cash prize, booze and more | Free to play | Max 8 per team | Age 18+",
-    "latitude": "55.90154519999999",
+    "latitude": "55.9015452",
     "longitude": "-4.4081039",
     "date": "22-Jan-26",
     "time": "8pm",
@@ -1997,7 +2096,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/3124/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Sixty Ate"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "3159",
@@ -2017,7 +2117,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/3159/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Fiddler's Green Pub"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "3171",
@@ -2037,14 +2138,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/3171/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Waggonmakers Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "3259",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Three Horseshoes",
     "address": "The Street, Barrow, Bury Saint Edmunds, IP29 5AP Thursday Prizes, Cash Prizes + Play Your Cards Right | £3 to play | Max 6 per team | Age 18+",
-    "latitude": "52.24438019999999",
+    "latitude": "52.2443802",
     "longitude": "0.579419",
     "date": "29-Jan-26",
     "time": "7.30pm",
@@ -2057,7 +2159,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/3259/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Three Horseshoes"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "3393",
@@ -2077,7 +2180,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/3393/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Vine"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "3406",
@@ -2097,7 +2201,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/3406/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Donegans Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "3417",
@@ -2117,7 +2222,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/3417/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Monday - Downstairs at The Famous Cock"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "3429",
@@ -2137,7 +2243,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/3429/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Romeo's OT"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "3514",
@@ -2157,7 +2264,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/3514/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Fluid Lounge"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "3541",
@@ -2177,14 +2285,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/3541/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Monks Brook"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "3550",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "",
     "address": "131 Market St, Stoneclough, M26 1HF Sunday Prizes, £20 Bar Tab | £1 to play",
-    "latitude": "53.54608870000001",
+    "latitude": "53.5460887",
     "longitude": "-2.3691455",
     "date": "22-Feb-26",
     "time": "7:30pm",
@@ -2197,7 +2306,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/3550/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "3722",
@@ -2217,7 +2327,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/3722/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Turks Head"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "3736",
@@ -2237,7 +2348,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/3736/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Potters Wheel"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "3846",
@@ -2257,14 +2369,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/3846/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Utopia"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "3858",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Talbot Inn",
     "address": "The Talbot Inn, Towngate, Mapplewell, S75 6AS 21:00 Wednesday 21 Jan 2026Prizes, 20.00 voucher | 0.00 to play",
-    "latitude": "53.58596480000001",
+    "latitude": "53.5859648",
     "longitude": "-1.5049692",
     "date": "21-Jan-26",
     "time": "21:00",
@@ -2277,7 +2390,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/3858/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Talbot Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "3880",
@@ -2297,7 +2411,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/3880/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Downtown Olly's"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "3910",
@@ -2305,7 +2420,7 @@ window.eventsData = [
     "venue_name": "The Isle Of Ely Pub",
     "address": "Ely Leisure Village, 10 Downham Road, Ely, CB6 2FE Arrive at Sunday Prizes, 1st £30 Bar Tab, 2nd Bottle wine, 3rd £10 Bar Tab | £2 per player to play | Max 8 per team",
     "latitude": "52.4103586",
-    "longitude": "0.2510638999999628",
+    "longitude": "0.2510639",
     "date": "25-Jan-26",
     "time": "",
     "repeat_day": "Sunday",
@@ -2317,7 +2432,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/3910/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Isle Of Ely Pub"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "3915",
@@ -2337,7 +2453,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/3915/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Grace Neills"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "3927",
@@ -2357,7 +2474,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/3927/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Ebenezer Church"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "3930",
@@ -2377,7 +2495,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/3930/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Sidelines Grile"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "3934",
@@ -2397,7 +2516,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/3934/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Tuesday Night Quiz & Rock 'n' Roll Bingo"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "3954",
@@ -2417,7 +2537,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/3954/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Fourth Corner"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "3957",
@@ -2437,7 +2558,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/3957/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Nosey Parker"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "3987",
@@ -2457,14 +2579,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/3987/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Angel Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4106",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Clancy's Pub And Irish Cantina",
     "address": "",
-    "latitude": "36.74787920000001",
+    "latitude": "36.7478792",
     "longitude": "-108.1702845",
     "date": "",
     "time": "",
@@ -2477,7 +2600,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4106/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Clancy's Pub And Irish Cantina"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4118",
@@ -2497,7 +2621,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4118/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Ec"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4119",
@@ -2505,7 +2630,7 @@ window.eventsData = [
     "venue_name": "Mojo Music Club",
     "address": "",
     "latitude": "44.4313014",
-    "longitude": "26.10229079999999",
+    "longitude": "26.1022908",
     "date": "",
     "time": "",
     "repeat_day": "",
@@ -2517,7 +2642,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4119/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Mojo Music Club"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4122",
@@ -2537,7 +2663,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4122/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "5801 Video Lounge"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4125",
@@ -2557,7 +2684,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4125/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Boiler Bar & Grill"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4153",
@@ -2577,7 +2705,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4153/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Forge Tavern"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4183",
@@ -2597,7 +2726,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4183/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Beeches"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4185",
@@ -2617,7 +2747,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4185/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Angel"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4196",
@@ -2637,7 +2768,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4196/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Baker Street"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4238",
@@ -2657,14 +2789,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4238/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Guide Post"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4246",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Tabanco by Ambiente",
     "address": "Walmgate, York, YO1 9TY 16:00 Sunday 1 Feb 2026Prizes, Vouchers | Free to play | Max 6 per team",
-    "latitude": "53.956558123032025",
+    "latitude": "53.95655812",
     "longitude": "-1.074978424",
     "date": "01-Feb-26",
     "time": "16:00",
@@ -2677,14 +2810,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4246/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Tabanco by Ambiente"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4322",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The dodger",
     "address": "Chepstow Road, Newport, NP19 8EA 19.00 Thursday 29 Jan 2026Prizes, £50 in vouchers | £1 to play | Max 4 per team | Age 18+",
-    "latitude": "51.59088928166605",
+    "latitude": "51.59088928",
     "longitude": "-2.988957167",
     "date": "29-Jan-26",
     "time": "19",
@@ -2697,14 +2831,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4322/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The dodger"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4379",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Rose Of Lancaster",
     "address": "7 Haigh Lane, Chadderton, Oldham, OL1 2TQ Tuesday Prizes, £30 voucher | 0 to play",
-    "latitude": "53.55189129999999",
+    "latitude": "53.5518913",
     "longitude": "-2.1677223",
     "date": "27-Jan-26",
     "time": "9pm",
@@ -2717,7 +2852,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4379/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Rose Of Lancaster"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4409",
@@ -2737,7 +2873,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4409/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Rustic Kitchen"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4416",
@@ -2757,14 +2894,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4416/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Shipping Forecast"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4433",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Minworth Club and Lodge Quiz",
     "address": "Minworth Social Club & Institute Ltd, Robinsons Way, Sutton Coldfield, B76 9BB Wednesday Prizes, £25 bar tab | £2 to play",
-    "latitude": "52.52697449974713",
+    "latitude": "52.5269745",
     "longitude": "-1.766602745",
     "date": "21-Jan-26",
     "time": "7:00pm",
@@ -2777,7 +2915,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4433/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Minworth Club and Lodge Quiz"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4487",
@@ -2797,7 +2936,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4487/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Twelve Whiskey BBQ"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4535",
@@ -2817,14 +2957,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4535/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Queens, Lytham"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4546",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Sheldon Arms",
     "address": "Lord Sheldon Way, Greater Manchester, Ashton Under Lyne, OL6 7UB 8.30 Thursday 22 Jan 2026Prizes, £30 voucher for 1st, £15 for 2nd | Free to play | Max 6 per team | Age 18+",
-    "latitude": "53.481067736041226",
+    "latitude": "53.48106774",
     "longitude": "-2.124116421",
     "date": "22-Jan-26",
     "time": "8.3",
@@ -2837,14 +2978,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4546/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Sheldon Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4548",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Sunday Night Quiz at The Buck Inn",
     "address": "59 Green Lane, Sale, Sale, M33 5PN Sunday Prizes, £50 in vouchers | Free to play | Max 6 per team | Age 18+",
-    "latitude": "53.42971259999999",
+    "latitude": "53.4297126",
     "longitude": "-2.3426763",
     "date": "25-Jan-26",
     "time": "8pm",
@@ -2857,14 +2999,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4548/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Sunday Night Quiz at The Buck Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4561",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Sunday Speed Quiz",
     "address": "Cavendish Road, Idle, Bradford, BD10 9LE Sunday Prizes, £25 on Member Card | Free to play | Max 5 per team | Age 18+",
-    "latitude": "53.83067308623453",
+    "latitude": "53.83067309",
     "longitude": "-1.730118692",
     "date": "25-Jan-26",
     "time": "6.45pm",
@@ -2877,7 +3020,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4561/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Sunday Speed Quiz"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4586",
@@ -2897,7 +3041,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4586/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Briar Rose"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4587",
@@ -2917,14 +3062,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4587/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Speed Quizzing Trivia at The Lantern"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4590",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "",
     "address": "",
-    "latitude": "53.309268890229106",
+    "latitude": "53.30926889",
     "longitude": "-6.305369139",
     "date": "",
     "time": "",
@@ -2937,7 +3083,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4590/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4598",
@@ -2957,7 +3104,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4598/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "the white horse pub"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4656",
@@ -2977,14 +3125,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4656/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "william jessop"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4662",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Olton Tavern",
     "address": "Lode Lane, Solihull, B928NU 7:30 Sunday 25 Jan 2026Prizes, £25 Gift Card + Jackpot Round | £4 per team to play | Max 6 per team | Age 16+",
-    "latitude": "52.439145088392955",
+    "latitude": "52.43914509",
     "longitude": "-1.782735586",
     "date": "25-Jan-26",
     "time": "07:30",
@@ -2997,7 +3146,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4662/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Olton Tavern"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4680",
@@ -3017,7 +3167,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4680/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Formby Auld Dubliner"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4715",
@@ -3025,7 +3176,7 @@ window.eventsData = [
     "venue_name": "Tiger Moth",
     "address": "Highview Drive, Chatham, ME5 9UJ 8.00 Thursday 22 Jan 2026Prizes, cash | £3 to play",
     "latitude": "51.352087",
-    "longitude": "0.5088716999999999",
+    "longitude": "0.5088717",
     "date": "22-Jan-26",
     "time": "8",
     "repeat_day": "Thursday",
@@ -3037,7 +3188,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4715/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Tiger Moth"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4749",
@@ -3057,7 +3209,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4749/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Quiz Night at The Horns Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4784",
@@ -3077,7 +3230,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4784/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Foresters Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4798",
@@ -3085,7 +3239,7 @@ window.eventsData = [
     "venue_name": "Dead Pigeon",
     "address": "The Dead Pigeon, 378 High Street, Rochester, ME1 1DJ Monday Prizes, Cash | £3 to play",
     "latitude": "51.3832673",
-    "longitude": "0.5160078000000112",
+    "longitude": "0.5160078",
     "date": "26-Jan-26",
     "time": "8pm",
     "repeat_day": "Monday",
@@ -3097,14 +3251,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4798/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Dead Pigeon"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4810",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "THE DOCKYARD",
     "address": "",
-    "latitude": "50.79627699999999",
+    "latitude": "50.796277",
     "longitude": "-1.0931082",
     "date": "",
     "time": "",
@@ -3117,7 +3272,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4810/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "THE DOCKYARD"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4815",
@@ -3137,7 +3293,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4815/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Cornhill"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4865",
@@ -3157,7 +3314,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4865/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Chieftain"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4880",
@@ -3177,14 +3335,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4880/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Central Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4892",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Salford University",
     "address": "",
-    "latitude": "53.48862028902944",
+    "latitude": "53.48862029",
     "longitude": "-2.273278008",
     "date": "02-Feb-26",
     "time": "21:00",
@@ -3197,7 +3356,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4892/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Salford University"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4900",
@@ -3217,7 +3377,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4900/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Wednesday Quiz Night at The No. 10 Bar &"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4929",
@@ -3237,7 +3398,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4929/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Horsefly Brewing Company"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4937",
@@ -3257,7 +3419,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4937/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Lower House"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4939",
@@ -3277,14 +3440,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4939/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Whittletaps Cheltenham"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4943",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Millies Public House & Kitc",
     "address": "133 Kingsway, Belfast, BT17 9RY 21:00 Thursday 22 Jan 2026Prizes, great prizes and fun | Free to play",
-    "latitude": "54.55199859698368",
+    "latitude": "54.5519986",
     "longitude": "-6.001329793",
     "date": "22-Jan-26",
     "time": "21:00",
@@ -3297,7 +3461,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4943/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Millies Public House & Kitc"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "4996",
@@ -3317,14 +3482,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/4996/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Albion"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5021",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Arcade",
     "address": "49 Mill Street, Cannock, WS11 0DR 20:00 Wednesday 21 Jan 2026Prizes, Cash Prize | £1 to play | Max 6 per team",
-    "latitude": "52.68834149999999",
+    "latitude": "52.6883415",
     "longitude": "-2.0261987",
     "date": "21-Jan-26",
     "time": "20:00",
@@ -3337,15 +3503,16 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5021/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Arcade"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5029",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "",
     "address": "",
-    "latitude": "49.03850094699756",
-    "longitude": "19.71594214439392",
+    "latitude": "49.03850095",
+    "longitude": "19.71594214",
     "date": "",
     "time": "",
     "repeat_day": "",
@@ -3357,14 +3524,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5029/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5044",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Slanj-A-Va",
     "address": "",
-    "latitude": "56.11648941716667",
+    "latitude": "56.11648942",
     "longitude": "-3.936278522",
     "date": "",
     "time": "",
@@ -3377,7 +3545,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5044/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Slanj-A-Va"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5069",
@@ -3397,7 +3566,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5069/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "El Gran Patron"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5135",
@@ -3417,7 +3587,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5135/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Oven"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5144",
@@ -3437,7 +3608,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5144/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Star"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5156",
@@ -3457,7 +3629,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5156/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Dorset Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5167",
@@ -3477,7 +3650,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5167/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Legendary Lion Quiz, Moulton"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5175",
@@ -3497,7 +3671,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5175/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Avenue Bar & Grill"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5219",
@@ -3517,14 +3692,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5219/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Fulwood Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5248",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Dysarts Arms",
     "address": "Huddersfield Road, Mossley, Ashton-under-Lyne, OL5 9BT Wednesday Prizes, £25 voucher | £2 pp for meal inc quiz e to play | Max 6 per team | Age 16+",
-    "latitude": "53.52757960680902",
+    "latitude": "53.52757961",
     "longitude": "-2.025024891",
     "date": "21-Jan-26",
     "time": "7.30pm",
@@ -3537,7 +3713,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5248/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Dysarts Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5256",
@@ -3557,14 +3734,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5256/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Ale Mary's"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5353",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "",
     "address": "radcliffe road, Gamston, Nottingham, NG2 6NP Wednesday Prizes, Cash & Vouchers | £3 to play | Age none+",
-    "latitude": "52.93175160000001",
+    "latitude": "52.9317516",
     "longitude": "-1.0992541",
     "date": "21-Jan-26",
     "time": "8pm",
@@ -3577,14 +3755,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5353/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5382",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Railway",
     "address": "Station Road, Burgess Hill, RH15 9DQ 20.30 Tuesday 27 Jan 2026Prizes, Cash Prizes (paid into Bank or PayPal) | £3 (contactless preferred to play | Max 6 per team | Age 18+",
-    "latitude": "50.95423705979076",
+    "latitude": "50.95423706",
     "longitude": "-0.127725792",
     "date": "27-Jan-26",
     "time": "20.3",
@@ -3597,14 +3776,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5382/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Railway"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5388",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Laughing Chili Quiz Night",
     "address": "57 Thames Street, Sunbury-on-Thames, TW16 5QF Friday Prizes, Prizes include bar tab and other prizes | £5 to play | Max 8 per team | Age 14+",
-    "latitude": "51.40661989999999",
+    "latitude": "51.4066199",
     "longitude": "-0.405073",
     "date": "23-Jan-26",
     "time": "8.30pm",
@@ -3617,7 +3797,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5388/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Laughing Chili Quiz Night"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5499",
@@ -3637,14 +3818,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5499/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Nursery Tavern"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5515",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Nags Head",
     "address": "Green Lane, Crosby, L23 1TJ 20:00 Wednesday 21 Jan 2026Prizes, £20 Voucher, Cash prizes, Bottle wine + Free drink | £0 to play | Max 6 per team | Age 18+",
-    "latitude": "53.50133539999999",
+    "latitude": "53.5013354",
     "longitude": "-3.0004029",
     "date": "21-Jan-26",
     "time": "20:00",
@@ -3657,7 +3839,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5515/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Nags Head"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5518",
@@ -3677,7 +3860,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5518/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Heroes"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5532",
@@ -3697,7 +3881,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5532/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Victoria Inn (Fannys)"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5536",
@@ -3717,14 +3902,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5536/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Bus Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5612",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Wulstan",
     "address": "Dimsdale Parade East, Newcastle-under-Lyme, ST5 8BU Sunday Prizes, Drinks and meals vouchers and 'Play Your Cards Rig | £2 to play",
-    "latitude": "53.031387642668804",
+    "latitude": "53.03138764",
     "longitude": "-2.223165035",
     "date": "25-Jan-26",
     "time": "8:00pm",
@@ -3737,14 +3923,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5612/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Wulstan"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5616",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Old Market Tav with Rou",
     "address": "Old Market Place, Altrincham, WA14 4DN Wednesday Prizes, £25 Bar Voucher (1st) £10 Random Team | £1.00 to play | Max 6 per team | Age 18+",
-    "latitude": "53.38920892265149",
+    "latitude": "53.38920892",
     "longitude": "-2.350575328",
     "date": "21-Jan-26",
     "time": "8.30pm",
@@ -3757,14 +3944,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5616/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Old Market Tav with Rou"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5639",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Bramford Arms (Hungry Horse",
     "address": "Park Road, Woodsetton, Dudley, DY1 4JH Thursday Prizes, £25 BAR TAB | FREE to play | Max 8 per team",
-    "latitude": "52.53389754537765",
+    "latitude": "52.53389755",
     "longitude": "-2.096790075",
     "date": "22-Jan-26",
     "time": "7.30pm",
@@ -3777,14 +3965,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5639/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Bramford Arms (Hungry Horse"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5661",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Phoenix Bar and Eatery",
     "address": "The Hundred, Romsey, SO51 8BW Wednesday Prizes, Cash and drinks! | £1 to play | Max 6 per team",
-    "latitude": "50.98896899200539",
+    "latitude": "50.98896899",
     "longitude": "-1.497674681",
     "date": "28-Jan-26",
     "time": "8pm",
@@ -3797,7 +3986,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5661/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Phoenix Bar and Eatery"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5671",
@@ -3817,7 +4007,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5671/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Robin Hood"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5685",
@@ -3837,7 +4028,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5685/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Upper George"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5718",
@@ -3857,7 +4049,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5718/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Quiz Night"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5728",
@@ -3877,7 +4070,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5728/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "10th Street Saloon"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5736",
@@ -3897,7 +4091,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5736/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Red Onion"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5744",
@@ -3917,7 +4112,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5744/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Elephant Pub and Bakehouse"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5805",
@@ -3937,7 +4133,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5805/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Micker Brook"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5808",
@@ -3957,14 +4154,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5808/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Four Horsemen P"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5816",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "",
     "address": "",
-    "latitude": "53.70794820738194",
+    "latitude": "53.70794821",
     "longitude": "-6.327722669",
     "date": "",
     "time": "",
@@ -3977,14 +4175,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5816/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5825",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Grace Arms",
     "address": "Stanney Lane, Ellesmere Port, CH65 9AH Wednesday Prizes, Cash Prizes | £2 to play | Max 8 per team | Age 18+",
-    "latitude": "53.272957601681995",
+    "latitude": "53.2729576",
     "longitude": "-2.899253368",
     "date": "21-Jan-26",
     "time": "8.30pm",
@@ -3997,14 +4196,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5825/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Grace Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5835",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Rose Villa Tavern",
     "address": "Warstone Lane, Birmingham, B18 6JW 20:15 Tuesday 27 Jan 2026Prizes, Cash prize + bar tabs | £3 to play | Max 6 per team | Age 18+",
-    "latitude": "52.48719029999999",
+    "latitude": "52.4871903",
     "longitude": "-1.9122575",
     "date": "27-Jan-26",
     "time": "20:15",
@@ -4017,14 +4217,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5835/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Rose Villa Tavern"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5842",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Sports Bar Corralejo",
     "address": "",
-    "latitude": "28.728227298408935",
+    "latitude": "28.7282273",
     "longitude": "-13.86541128",
     "date": "",
     "time": "",
@@ -4037,7 +4238,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5842/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Sports Bar Corralejo"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5865",
@@ -4057,7 +4259,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5865/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Blackstar Bar and grill"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5866",
@@ -4077,7 +4280,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5866/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Blackstar Bar and grill"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5936",
@@ -4097,7 +4301,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5936/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Anvil Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5945",
@@ -4117,7 +4322,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5945/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Paddy's Irish Pub"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5948",
@@ -4137,7 +4343,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5948/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Grafton Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5956",
@@ -4157,7 +4364,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5956/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Lock 1 Distilling Co."
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5965",
@@ -4177,7 +4385,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5965/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Sean O' Casey's"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5967",
@@ -4197,7 +4406,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5967/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Pond Barn Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5984",
@@ -4217,7 +4427,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5984/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Coaches Burger B"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "5999",
@@ -4237,14 +4448,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/5999/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Chambers"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6026",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Tom Foolery",
     "address": "179 High street, Boston Spa, Wetherby, LS23 6BD 20.00 Tuesday 27 Jan 2026Prizes, £100 bar tab | 0 to play | Max 5 per team | Age 18+",
-    "latitude": "53.90473979999999",
+    "latitude": "53.9047398",
     "longitude": "-1.3458853",
     "date": "27-Jan-26",
     "time": "20",
@@ -4257,7 +4469,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6026/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Tom Foolery"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6034",
@@ -4277,14 +4490,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6034/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Thirsty Fish"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6040",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Romeo's OT Medina",
     "address": "",
-    "latitude": "41.15656583174491",
+    "latitude": "41.15656583",
     "longitude": "-81.86163139",
     "date": "",
     "time": "",
@@ -4297,7 +4511,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6040/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Romeo's OT Medina"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6066",
@@ -4317,7 +4532,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6066/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Square Brewery"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6068",
@@ -4337,7 +4553,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6068/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Rudy's Pub & Grill"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6079",
@@ -4357,7 +4574,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6079/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Rock Sports Bar & Grill"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6085",
@@ -4377,7 +4595,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6085/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Urban Tap (Shadyside)"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6089",
@@ -4397,14 +4616,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6089/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Urban Tap - South Side"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6106",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Kings Arms Bebington",
     "address": "",
-    "latitude": "53.36445903702134",
+    "latitude": "53.36445904",
     "longitude": "-3.0163908",
     "date": "",
     "time": "",
@@ -4417,14 +4637,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6106/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Kings Arms Bebington"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6121",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Pizza Shoppe",
     "address": "",
-    "latitude": "42.04890890000001",
+    "latitude": "42.0489089",
     "longitude": "-72.5193761",
     "date": "",
     "time": "",
@@ -4437,7 +4658,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6121/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Pizza Shoppe"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6131",
@@ -4457,7 +4679,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6131/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Maple Leaf Pub"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6155",
@@ -4477,7 +4700,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6155/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Backstage Brewing Company"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6159",
@@ -4497,7 +4721,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6159/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Square Nightclub"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6174",
@@ -4517,14 +4742,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6174/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "U Pick 6 Public House"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6177",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "U Pick 6 Harbor House",
     "address": "",
-    "latitude": "42.14756139999999",
+    "latitude": "42.1475614",
     "longitude": "-80.001461",
     "date": "",
     "time": "",
@@ -4537,14 +4763,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6177/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "U Pick 6 Harbor House"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6203",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Primos BBQ-Willow Market",
     "address": "",
-    "latitude": "44.24207719999999",
+    "latitude": "44.2420772",
     "longitude": "-85.396693",
     "date": "",
     "time": "",
@@ -4557,14 +4784,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6203/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Primos BBQ-Willow Market"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6206",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Bull's Head",
     "address": "504 Manchester Road,, Tyldesley, M29 7BP 8.pm Wednesday Prizes, meal vouchers 1st, 2nd, mystery prize for 3rd, luc | £1 each player to play | Max 8 per team | Age 18 (+",
-    "latitude": "53.50187529999999",
+    "latitude": "53.5018753",
     "longitude": "-2.4530868",
     "date": "21-Jan-26",
     "time": "",
@@ -4577,7 +4805,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6206/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Bull's Head"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6213",
@@ -4597,14 +4826,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6213/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Winchester Gate"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6217",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Oxgang Bar & Rooms",
     "address": "17 Oxgang Road, Grangemouth, FK3 9BY 20.00 Sunday 15 Feb 2026Prizes, £40 in vouchers | 0 to play | Max 4 per team | Age 18+",
-    "latitude": "56.01576000000001",
+    "latitude": "56.01576",
     "longitude": "-3.7086789",
     "date": "15-Feb-26",
     "time": "20",
@@ -4617,7 +4847,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6217/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Oxgang Bar & Rooms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6220",
@@ -4637,7 +4868,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6220/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Prince of Wales"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6222",
@@ -4657,7 +4889,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6222/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "West Hill Bar & Grill"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6223",
@@ -4677,14 +4910,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6223/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Dragonfly"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6225",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Raz's Quiz Night",
     "address": "The Commercial, 48 Chapeltown, Pudsey, LS28 8BS Tuesday Prizes, Beer tokens | £5 per team to play | Max 6 per team",
-    "latitude": "53.79219086167442",
+    "latitude": "53.79219086",
     "longitude": "-1.672067642",
     "date": "27-Jan-26",
     "time": "8.15pm",
@@ -4697,7 +4931,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6225/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Raz's Quiz Night"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6228",
@@ -4717,7 +4952,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6228/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Shepherds Crook"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6230",
@@ -4737,14 +4973,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6230/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Harvest Mouse, Wirral"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6237",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Royal Oak",
     "address": "440 Barlow Moor Road, Royal Oak Hotel, Chorlton-cum-Hardy, M21 0BQ 8.30 Thursday 22 Jan 2026",
-    "latitude": "53.44284589999999",
+    "latitude": "53.4428459",
     "longitude": "-2.277277",
     "date": "22-Jan-26",
     "time": "8.3",
@@ -4757,7 +4994,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6237/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Royal Oak"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6238",
@@ -4777,14 +5015,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6238/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Bridgewater"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6254",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Harvey",
     "address": "The Harvey, West Swindon District Centre, Swindon, SN5 7DL 20.00 Thursday 22 Jan 2026Prizes, £30 Food and drink voucher | £1.00 to play | Max 6 per team | Age 18+",
-    "latitude": "51.55845657515194",
+    "latitude": "51.55845658",
     "longitude": "-1.829534769",
     "date": "22-Jan-26",
     "time": "20",
@@ -4797,7 +5036,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6254/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Harvey"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6262",
@@ -4817,14 +5057,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6262/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Abbys"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6263",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Back East Bar and Grill",
     "address": "",
-    "latitude": "38.96809580000001",
+    "latitude": "38.9680958",
     "longitude": "-104.7829533",
     "date": "",
     "time": "",
@@ -4837,14 +5078,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6263/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Back East Bar and Grill"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6281",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The White Hart Gosport",
     "address": "",
-    "latitude": "50.792101321117485",
+    "latitude": "50.79210132",
     "longitude": "-1.138646007",
     "date": "",
     "time": "",
@@ -4857,7 +5099,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6281/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The White Hart Gosport"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6285",
@@ -4877,7 +5120,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6285/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Mario's South Side Saloon"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6298",
@@ -4897,7 +5141,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6298/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Victoria Hotel, Maybank"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6304",
@@ -4917,14 +5162,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6304/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Mario's East Side Saloon"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6310",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Soak Bar and Grill",
     "address": "163 Bristol Road, Birmingham, B29 6AF 8:30 Monday 26 Jan 2026£2 to play | Max 6 per team | Age 18+",
-    "latitude": "52.44544904622077",
+    "latitude": "52.44544905",
     "longitude": "-1.934267013",
     "date": "26-Jan-26",
     "time": "08:30",
@@ -4937,14 +5183,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6310/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Soak Bar and Grill"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6313",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Lucombe Oak",
     "address": "Cowick Street, ST Thomas, Exeter, EX41DG Wednesday Prizes, £10/£50 In Cash | £1 to play | Max 6 per team | Age 18+",
-    "latitude": "50.717001229932144",
+    "latitude": "50.71700123",
     "longitude": "-3.540900965",
     "date": "21-Jan-26",
     "time": "8PM",
@@ -4957,14 +5204,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6313/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Lucombe Oak"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6315",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Black Bull",
     "address": "Hull Road, York, YO10 3LF 20:30 Sunday 25 Jan 2026£1.50 to play",
-    "latitude": "53.953667619257985",
+    "latitude": "53.95366762",
     "longitude": "-1.043679714",
     "date": "25-Jan-26",
     "time": "20:30",
@@ -4977,7 +5225,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6315/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Black Bull"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6329",
@@ -4997,14 +5246,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6329/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "John Brunt VC"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6333",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "South Pacific Sports Bar",
     "address": "",
-    "latitude": "47.563621565214675",
+    "latitude": "47.56362157",
     "longitude": "-122.6261053",
     "date": "",
     "time": "",
@@ -5017,7 +5267,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6333/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "South Pacific Sports Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6335",
@@ -5037,7 +5288,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6335/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Black Horse"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6347",
@@ -5057,14 +5309,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6347/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Bears Paw, Frodsham"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6353",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Church on the Hill",
     "address": "16 Algie Street, Shawlands, Glasgow, G41 3DJ Monday Prizes, £50 vouchers for winner £30 vouchers for 2nd | FREE to play | Max 6 per team | Age 18+",
-    "latitude": "55.82768429999999",
+    "latitude": "55.8276843",
     "longitude": "-4.2716711",
     "date": "26-Jan-26",
     "time": "8pm",
@@ -5077,7 +5330,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6353/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Church on the Hill"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6356",
@@ -5097,7 +5351,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6356/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Bar Square, Ballina"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6366",
@@ -5117,14 +5372,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6366/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Wardrobe"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6379",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Walkabout Plymouth",
     "address": "Union Street, Plymouth, PL1 2SU Sunday Prizes, £10/£50 In Cash | £1 to play | Max 6 per team | Age 18+",
-    "latitude": "50.36972569943036",
+    "latitude": "50.3697257",
     "longitude": "-4.147210121",
     "date": "25-Jan-26",
     "time": "7pm",
@@ -5137,7 +5393,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6379/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Walkabout Plymouth"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6400",
@@ -5157,7 +5414,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6400/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Longford Tap"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6415",
@@ -5177,14 +5435,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6415/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Front 9"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6416",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Auricle",
     "address": "",
-    "latitude": "40.79976899999999",
+    "latitude": "40.799769",
     "longitude": "-81.376598",
     "date": "",
     "time": "",
@@ -5197,7 +5456,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6416/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Auricle"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6427",
@@ -5217,7 +5477,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6427/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Wednesday"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6428",
@@ -5237,14 +5498,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6428/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Thursday"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6434",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Nickelodeon",
     "address": "Bentley Bridge Park, Wednesfield, Wolverhampton, WV11 1BP Thursday Free to play",
-    "latitude": "52.59697421707307",
+    "latitude": "52.59697422",
     "longitude": "-2.091543674",
     "date": "22-Jan-26",
     "time": "8.30pm",
@@ -5257,7 +5519,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6434/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Nickelodeon"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6444",
@@ -5277,14 +5540,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6444/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Brew York"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6450",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Seahorse",
     "address": "King's Parade, Marine Point, Wallasey, CH45 2HZ 20.00 Tuesday 27 Jan 2026Prizes, Hungry Horse vouchers for food and drink | £2.00 to play | Max No per team | Age 18+",
-    "latitude": "53.44067204569586",
+    "latitude": "53.44067205",
     "longitude": "-3.04532088",
     "date": "27-Jan-26",
     "time": "20",
@@ -5297,7 +5561,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6450/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Seahorse"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6462",
@@ -5317,7 +5582,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6462/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Bull & Royal Preston"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6463",
@@ -5337,7 +5603,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6463/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Seabridge"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6472",
@@ -5357,7 +5624,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6472/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Streetbridge Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6478",
@@ -5377,7 +5645,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6478/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Stonewell Tap"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6499",
@@ -5397,7 +5666,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6499/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Hussey Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6500",
@@ -5417,7 +5687,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6500/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "So Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6504",
@@ -5437,7 +5708,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6504/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Keymaster (Hungry Horse)"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6508",
@@ -5457,7 +5729,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6508/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Big Fat Quizbox Wembley"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6520",
@@ -5477,14 +5750,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6520/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Chupac"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6534",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Carlton Tavern",
     "address": "140 Acomb Road, Holgate, York, YO24 4HA 8.30 Friday 23 Jan 2026Prizes, Vouchers | £1 to play | Max 8 per team | Age 18+",
-    "latitude": "53.955930175213794",
+    "latitude": "53.95593018",
     "longitude": "-1.11783612",
     "date": "23-Jan-26",
     "time": "8.3",
@@ -5497,7 +5771,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6534/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Carlton Tavern"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6536",
@@ -5517,7 +5792,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6536/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "THE SCARLET TAP"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6546",
@@ -5537,14 +5813,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6546/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Stu's"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6553",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Salmon of Knowledge",
     "address": "Wilmslow Road, Didsbury, Manchester, M20 6QZ 7.30 Thursday 22 Jan 2026Prizes, Cash prize and £50 bar tab | 2 to play",
-    "latitude": "53.41816631942497",
+    "latitude": "53.41816632",
     "longitude": "-2.231453061",
     "date": "22-Jan-26",
     "time": "7.3",
@@ -5557,14 +5834,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6553/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Salmon of Knowledge"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6558",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Rich Hod & Sam's Spectacular Speed Quiz",
     "address": "Running & Table Tennis C, Windmill Hill, Pudsey, LS28 8JQ 20:00 Saturday 7 Feb 2026Prizes, £25 bar voucher for 1st place plus prizes for the | Free to play",
-    "latitude": "53.790327539037825",
+    "latitude": "53.79032754",
     "longitude": "-1.675629616",
     "date": "07-Feb-26",
     "time": "20:00",
@@ -5577,14 +5855,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6558/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Rich Hod & Sam's Spectacular Speed Quiz"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6563",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Polhill Arms",
     "address": "25 Wilden Road, Renhold, Bedford, MK41 0JP Thursday Prizes, Cash and many other prizes, plus the Safe Cracker | £2 to play | Max 6 per team | Age 18+",
-    "latitude": "52.16170504966028",
+    "latitude": "52.16170505",
     "longitude": "-0.420033932",
     "date": "22-Jan-26",
     "time": "8PM",
@@ -5597,7 +5876,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6563/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Polhill Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6566",
@@ -5617,7 +5897,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6566/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Gardeners Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6581",
@@ -5637,14 +5918,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6581/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Alewerks Brewin"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6592",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Big Fat Quizbox Croydon",
     "address": "99 George Street, Croydon, CR0 1LD Monday Prizes, £50 & £25 Bar Tab / Streetfood / Novelties | £2 + booking fee to play | Max 6 per team | Age 18+",
-    "latitude": "51.37500199999999",
+    "latitude": "51.375002",
     "longitude": "-0.093645",
     "date": "26-Jan-26",
     "time": "7pm",
@@ -5657,7 +5939,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6592/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Big Fat Quizbox Croydon"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6614",
@@ -5677,14 +5960,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6614/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Sunday"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6618",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Adelphi",
     "address": "43 Fylde Road, Preston, PR1 7DP 20:30 Monday 26 Jan 2026",
-    "latitude": "53.76279269113521",
+    "latitude": "53.76279269",
     "longitude": "-2.706327438",
     "date": "26-Jan-26",
     "time": "20:30",
@@ -5697,7 +5981,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6618/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Adelphi"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6620",
@@ -5717,14 +6002,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6620/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Shooters pool and sports ba"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6623",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Oak tree",
     "address": "Crow Lane East, Newton-le-Willows, WA12 9UY 8.30 Thursday 22 Jan 2026",
-    "latitude": "53.45851770355039",
+    "latitude": "53.4585177",
     "longitude": "-2.62326479",
     "date": "22-Jan-26",
     "time": "8.3",
@@ -5737,14 +6023,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6623/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Oak tree"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6647",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Telegraph Inn",
     "address": "Telegraph Inn, 25-27 Mount Pleasant Road, Wallasey, CH45 5EN Tuesday Prizes, Whatever’s collected from players | £1 to play | Max 8 per team | Age 18+",
-    "latitude": "53.43138889999999",
+    "latitude": "53.4313889",
     "longitude": "-3.0444444",
     "date": "27-Jan-26",
     "time": "9pm",
@@ -5757,7 +6044,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6647/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Telegraph Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6670",
@@ -5777,7 +6065,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6670/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The dick turpin"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6681",
@@ -5797,7 +6086,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6681/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Sky Blue Tavern"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6692",
@@ -5817,7 +6107,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6692/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Crown, Horwich"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6693",
@@ -5837,7 +6128,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6693/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "THE SHAWSIDE SPORTS"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6702",
@@ -5857,7 +6149,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6702/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Dirty Duck (Warwick SU)"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6709",
@@ -5877,7 +6170,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6709/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Hungry Fox"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6739",
@@ -5897,7 +6191,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6739/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Babbacombe Inn on Mondays"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6747",
@@ -5917,7 +6212,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6747/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Falcon"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6786",
@@ -5937,7 +6233,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6786/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Mc Mahons Bar & Lounge"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6794",
@@ -5957,14 +6254,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6794/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Hawkhill Tavern"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6804",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Portside on Tri-Lakes",
     "address": "",
-    "latitude": "41.240843590416695",
+    "latitude": "41.24084359",
     "longitude": "-85.44310927",
     "date": "",
     "time": "",
@@ -5977,7 +6275,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6804/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Portside on Tri-Lakes"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6808",
@@ -5997,15 +6296,16 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6808/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Thursday"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6812",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Three Sheets To The Wind",
     "address": "Three sheets to the wind, 173 High Street, Rochester, ME2 4TH Tuesday Prizes, Entry pot to winner | £3 to play | Max 6 per team | Age 18+",
-    "latitude": "51.38597045608544",
-    "longitude": "0.5074498057365417",
+    "latitude": "51.38597046",
+    "longitude": "0.507449806",
     "date": "27-Jan-26",
     "time": "8pm",
     "repeat_day": "Tuesday",
@@ -6017,7 +6317,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6812/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Three Sheets To The Wind"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6823",
@@ -6037,7 +6338,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6823/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Thursday Quiz Night at The Newton Arms!"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6836",
@@ -6057,14 +6359,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6836/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6850",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Venue, Bucks",
     "address": "Bucks, The Venue, Bucks Student's Union, Queen Alexandra Road, High Wycombe, HP11 2JZ 18:00 Sunday 8 Feb 2026Prizes, Cash Prizes | FREE for Bucks Students to play | Max 8 per team | Age 18+",
-    "latitude": "51.628365798496006",
+    "latitude": "51.6283658",
     "longitude": "-0.752875576",
     "date": "08-Feb-26",
     "time": "18:00",
@@ -6077,7 +6380,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6850/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Venue, Bucks"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6902",
@@ -6097,7 +6401,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6902/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Watermans Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6903",
@@ -6117,7 +6422,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6903/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Butcher's Arms, Forsbro"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6904",
@@ -6137,7 +6443,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6904/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Crown and Anchor"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6907",
@@ -6157,7 +6464,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6907/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Ocean Creek Resort"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6916",
@@ -6177,7 +6485,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6916/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Eden bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6931",
@@ -6197,7 +6506,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6931/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "TJ Ryan's Pub"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6938",
@@ -6217,7 +6527,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6938/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Last Crumb Pub"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6947",
@@ -6237,7 +6548,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6947/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6962",
@@ -6257,14 +6569,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6962/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Wheatsheaf Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6970",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The county",
     "address": "",
-    "latitude": "53.73726419476204",
+    "latitude": "53.73726419",
     "longitude": "-2.965546846",
     "date": "",
     "time": "",
@@ -6277,7 +6590,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6970/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The county"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "6999",
@@ -6297,14 +6611,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/6999/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7012",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Billsburg Brewer",
     "address": "",
-    "latitude": "37.22682229999999",
+    "latitude": "37.2268223",
     "longitude": "-76.7792538",
     "date": "",
     "time": "",
@@ -6317,14 +6632,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7012/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Billsburg Brewer"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7021",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Disco Spoons",
     "address": "The Hedley Verity, Leeds, LS1 3HQ Tuesday Prizes, Cash, Gift Cards & Drinks! | £2 to play | Max 6 per team | Age 18+",
-    "latitude": "53.80196919999999",
+    "latitude": "53.8019692",
     "longitude": "-1.5458361",
     "date": "03-Feb-26",
     "time": "8pm",
@@ -6337,14 +6653,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7021/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Disco Spoons"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7026",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Ranken Arms",
     "address": "Queen's Street, Ranken Arms, Hoddlesden, BB3 3NQ 8:30 Thursday 22 Jan 2026Prizes, £100 | £2 to play | Max 6 per team | Age 18+",
-    "latitude": "53.69562660285966",
+    "latitude": "53.6956266",
     "longitude": "-2.431690693",
     "date": "22-Jan-26",
     "time": "08:30",
@@ -6357,14 +6674,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7026/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Ranken Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7027",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Fletcher's Arms",
     "address": "445 Stockport Road, Denton, Manchester, M34 6EG Thursday Prizes, £75 in Bar Vouchers split between the top three te | Free to play | Max op per team | Age 18++",
-    "latitude": "53.44437870922045",
+    "latitude": "53.44437871",
     "longitude": "-2.115297318",
     "date": "22-Jan-26",
     "time": "9pm",
@@ -6377,7 +6695,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7027/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Fletcher's Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7035",
@@ -6397,14 +6716,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7035/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Wild Horse Bar & Grill"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7052",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Tramway",
     "address": "167-169 Victoria Road West, The Tramway, Cleveleys, FY5 3LB Tuesday Prizes, Bar drinks vouchers: £15 (1st place), £10 (2nd Pla | Free to play | Age 18+",
-    "latitude": "53.87620774134928",
+    "latitude": "53.87620774",
     "longitude": "-3.034383059",
     "date": "27-Jan-26",
     "time": "8pm",
@@ -6417,14 +6737,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7052/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Tramway"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7056",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "",
     "address": "Chellaston Park, Snelsmoor Lane, Chellaston, DE73 6TQ 20:00 Friday 6 Mar 2026",
-    "latitude": "52.87510929870064",
+    "latitude": "52.8751093",
     "longitude": "-1.426600816",
     "date": "06-Mar-26",
     "time": "20:00",
@@ -6437,14 +6758,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7056/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7057",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Weavers",
     "address": "1 Park Street, Aylesbury, HP20 1BX Monday Prizes, Progressive Jackpot, 1st, 2nd, Lucky 7th Prizes | £2 to play | Max 6 per team | Age 18+",
-    "latitude": "51.82022857435231",
+    "latitude": "51.82022857",
     "longitude": "-0.805912614",
     "date": "26-Jan-26",
     "time": "8pm",
@@ -6457,7 +6779,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7057/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Weavers"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7077",
@@ -6477,7 +6800,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7077/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Tribal Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7086",
@@ -6497,14 +6821,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7086/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "John Gilbert"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7088",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "",
     "address": "",
-    "latitude": "53.547840063946694",
+    "latitude": "53.54784006",
     "longitude": "-2.393815466",
     "date": "",
     "time": "",
@@ -6517,7 +6842,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7088/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7105",
@@ -6537,7 +6863,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7105/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Parrs Wood"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7122",
@@ -6557,7 +6884,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7122/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Thursdays"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7138",
@@ -6577,7 +6905,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7138/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Hop Pole"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7142",
@@ -6597,7 +6926,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7142/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "the northern way"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7157",
@@ -6617,14 +6947,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7157/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7165",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Old Bell Inn",
     "address": "233-235 Causewayside, Edinburgh, EH9 1PH Tuesday Prizes, £30 in bar vouchers | £2 to play | Age 18+",
-    "latitude": "55.93495129999999",
+    "latitude": "55.9349513",
     "longitude": "-3.1790661",
     "date": "27-Jan-26",
     "time": "8pm",
@@ -6637,7 +6968,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7165/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Old Bell Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7183",
@@ -6657,7 +6989,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7183/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Bowling Green (J"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7191",
@@ -6677,14 +7010,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7191/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Cookhouse Rainhill"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7199",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The GOAT",
     "address": "32-33 Prince Street, Bridlington, YO15 2NP Sunday Prizes, Cash Prizes | Free to play | Max 8 per team | Age 18+",
-    "latitude": "54.08145159999999",
+    "latitude": "54.0814516",
     "longitude": "-0.1895758",
     "date": "25-Jan-26",
     "time": "8pm",
@@ -6697,7 +7031,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7199/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The GOAT"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7213",
@@ -6717,7 +7052,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7213/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Bunker Glasgow"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7218",
@@ -6737,7 +7073,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7218/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Caledonia Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7225",
@@ -6757,14 +7094,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7225/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Citizen Crust !"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7227",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Rathcoole Inn",
     "address": "",
-    "latitude": "53.28096508774361",
+    "latitude": "53.28096509",
     "longitude": "-6.470293011",
     "date": "",
     "time": "",
@@ -6777,7 +7115,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7227/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Rathcoole Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7231",
@@ -6797,14 +7136,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7231/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "spare time"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7232",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Gin and Juice",
     "address": "2-4 Middleton Road, Royton, Oldham, OL2 5PB Thursday Prizes, 1st £25 voucher, 2nd Bottle of wine, 3rd 2 cocktai | free to play | Max 6 per team | Age 18+",
-    "latitude": "53.56515049999999",
+    "latitude": "53.5651505",
     "longitude": "-2.1219831",
     "date": "22-Jan-26",
     "time": "8:30pm",
@@ -6817,7 +7157,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7232/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Gin and Juice"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7236",
@@ -6837,7 +7178,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7236/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Severn Gorge"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7254",
@@ -6857,14 +7199,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7254/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Celebrations"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7259",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Sin \\u00c9",
     "address": "",
-    "latitude": "53.346007889114674",
+    "latitude": "53.34600789",
     "longitude": "-6.269519611",
     "date": "",
     "time": "",
@@ -6877,14 +7220,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7259/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Sin \\u00c9"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7268",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Corner House",
     "address": "Second Avenue, Burton upon Trent, Burton-on-Trent, DE14 2WF 20.00 Thursday 22 Jan 2026Prizes, 1st £50 2nd £20 3rd Bottle of wine | £1.00 to play",
-    "latitude": "52.79565516671569",
+    "latitude": "52.79565517",
     "longitude": "-1.6679913",
     "date": "22-Jan-26",
     "time": "20",
@@ -6897,7 +7241,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7268/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Corner House"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7274",
@@ -6917,7 +7262,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7274/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Champs Sports Bar And Resta"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7275",
@@ -6937,7 +7283,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7275/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7282",
@@ -6957,7 +7304,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7282/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Triple Point Brewery & Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7295",
@@ -6965,7 +7313,7 @@ window.eventsData = [
     "venue_name": "The Light Cinema",
     "address": "",
     "latitude": "51.340689",
-    "longitude": "0.7384423999999999",
+    "longitude": "0.7384424",
     "date": "",
     "time": "",
     "repeat_day": "",
@@ -6977,7 +7325,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7295/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Light Cinema"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7299",
@@ -6997,14 +7346,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7299/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "GOAT City Pub Nor"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7301",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "THE GRANGE WAKEFIELD",
     "address": "Briestfield Road, Grange Moor, Wakefield, WF4 4DX Saturday Prizes, 1st £20 - 2nd £10 + Prize Bingo | £1pp to play | Max 4 per team | Age 18+",
-    "latitude": "53.64041539999999",
+    "latitude": "53.6404154",
     "longitude": "-1.6661075",
     "date": "31-Jan-26",
     "time": "8.30pm",
@@ -7017,7 +7367,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7301/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "THE GRANGE WAKEFIELD"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7304",
@@ -7037,7 +7388,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7304/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Snug Christchu"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7316",
@@ -7057,7 +7409,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7316/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Valhalla York"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7318",
@@ -7077,14 +7430,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7318/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Friday"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7330",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Groomsport Inn",
     "address": "26 Main Street, Groomsport, Bangor, BT196JR 19:30 Wednesday 21 Jan 2026Prizes, Bar / Restaurant Voucher | £2 to play | Max N/ per team | Age 18+",
-    "latitude": "54.67579750336596",
+    "latitude": "54.6757975",
     "longitude": "-5.617318153",
     "date": "21-Jan-26",
     "time": "19:30",
@@ -7097,7 +7451,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7330/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Groomsport Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7340",
@@ -7117,14 +7472,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7340/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "New Amsterdam"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7357",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Lugger",
     "address": "West Street, Chickerell, Weymouth, DT3 4DY 19.30 Wednesday 28 Jan 2026Prizes, Cash & Food Vouchers | £2 to play | Max 6 per team | Age N/A+",
-    "latitude": "50.62450949999999",
+    "latitude": "50.6245095",
     "longitude": "-2.5069547",
     "date": "28-Jan-26",
     "time": "19.3",
@@ -7137,7 +7493,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7357/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Lugger"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7359",
@@ -7157,7 +7514,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7359/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Spice Ship"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7361",
@@ -7177,14 +7535,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7361/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Piries Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7362",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Belle Vue!",
     "address": "Whitegate Drive, Blackpool, FY3 9DQ Friday Prizes, Prizes from pot | £2 to play | Age 18+",
-    "latitude": "53.815955133044255",
+    "latitude": "53.81595513",
     "longitude": "-3.036356905",
     "date": "23-Jan-26",
     "time": "7:30pm",
@@ -7197,7 +7556,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7362/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Belle Vue!"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7372",
@@ -7217,7 +7577,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7372/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Red's American Grill"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7378",
@@ -7237,7 +7598,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7378/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Raven Social"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7384",
@@ -7257,14 +7619,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7384/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Crown, Lymm"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7390",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Fox",
     "address": "18 West Portland Street, Troon, KA10 6AB 7.30 Tuesday 27 Jan 2026Prizes, £75 In vouchers | 0 to play | Max na per team | Age 18+",
-    "latitude": "55.54340954218829",
+    "latitude": "55.54340954",
     "longitude": "-4.664834717",
     "date": "27-Jan-26",
     "time": "7.3",
@@ -7277,7 +7640,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7390/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Fox"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7404",
@@ -7297,7 +7661,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7404/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Cock and Bull Coolock"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7410",
@@ -7317,14 +7682,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7410/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Coach & Four"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7422",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Vintage Liquid Taphouse",
     "address": "1 Bridge Cross Road, Burntwood, WS7 2BU 1930 Wednesday Prizes, £20 first prize £10 second prize | to play | Max 6 per team | Age 18+",
-    "latitude": "52.68115839999999",
+    "latitude": "52.6811584",
     "longitude": "-1.93119",
     "date": "21-Jan-26",
     "time": "3.5",
@@ -7337,7 +7703,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7422/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Vintage Liquid Taphouse"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7429",
@@ -7357,7 +7724,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7429/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7430",
@@ -7377,14 +7745,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7430/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "ship inn freckleton"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7456",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Roma's",
     "address": "4 Regent Street, Newtownards, BT23 4LH Sunday",
-    "latitude": "54.59381680000001",
+    "latitude": "54.5938168",
     "longitude": "-5.6977161",
     "date": "25-Jan-26",
     "time": "7:30pm",
@@ -7397,7 +7766,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7456/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Roma's"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7468",
@@ -7417,7 +7787,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7468/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Ravenite"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7470",
@@ -7437,7 +7808,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7470/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Old Wharf Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7514",
@@ -7457,7 +7829,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7514/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Wednesday"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7525",
@@ -7477,7 +7850,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7525/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Archie's on Carson"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7529",
@@ -7497,7 +7871,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7529/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Red Lion"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7552",
@@ -7517,14 +7892,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7552/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Great Northern"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7555",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Bay Horse",
     "address": "The Bay Horse, 39-40 Fore Bondgate, Bishop Auckland, DL14 7PE Thursday £1 to play | Max 6 per team",
-    "latitude": "54.66525339189249",
+    "latitude": "54.66525339",
     "longitude": "-1.677064598",
     "date": "22-Jan-26",
     "time": "8pm",
@@ -7537,7 +7913,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7555/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Bay Horse"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7559",
@@ -7557,14 +7934,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7559/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "kearsleyandringleyconclub"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7573",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Walnut Tree",
     "address": "Heworth Village, Heworth, York, YO31 1AN Thursday Prizes, Prizes to be won! | £2 to play | Max 6 per team | Age 18+",
-    "latitude": "53.966986488143185",
+    "latitude": "53.96698649",
     "longitude": "-1.05542779",
     "date": "22-Jan-26",
     "time": "8pm",
@@ -7577,7 +7955,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7573/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Walnut Tree"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7599",
@@ -7597,7 +7976,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7599/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "First Edition"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7611",
@@ -7617,7 +7997,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7611/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Legend's"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7638",
@@ -7637,7 +8018,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7638/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Red Goat"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7672",
@@ -7657,14 +8039,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7672/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Huntsman"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7689",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Malt Brewhouse",
     "address": "Town Street, Horsforth, Leeds, LS18 4AQ Thursday Prizes, Bar Tabs to be won | Free to play | Max 6 per team | Age 18+",
-    "latitude": "53.84135201580913",
+    "latitude": "53.84135202",
     "longitude": "-1.635841727",
     "date": "22-Jan-26",
     "time": "7.30PM",
@@ -7677,14 +8060,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7689/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Malt Brewhouse"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7694",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "455 Bar & Bowling",
     "address": "455 Bar and Bowling, Upper Heyford, Bicester, OX25 5HD Wednesday £2 to play | Age none+",
-    "latitude": "51.92860125361562",
+    "latitude": "51.92860125",
     "longitude": "-1.264500618",
     "date": "21-Jan-26",
     "time": "8pm",
@@ -7697,7 +8081,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7694/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "455 Bar & Bowling"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7701",
@@ -7717,7 +8102,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7701/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Crown"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7707",
@@ -7737,14 +8123,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7707/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Legend's"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7709",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Saltine Warrior",
     "address": "",
-    "latitude": "43.05069289999999",
+    "latitude": "43.0506929",
     "longitude": "-76.1544972",
     "date": "",
     "time": "",
@@ -7757,7 +8144,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7709/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Saltine Warrior"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7712",
@@ -7777,7 +8165,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7712/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Machair"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7724",
@@ -7797,7 +8186,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7724/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Bubba's Gourmet Burghers"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7731",
@@ -7817,7 +8207,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7731/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Coach & Horses"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7733",
@@ -7837,14 +8228,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7733/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Nightingale"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7745",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Strings Smartphone Quiz",
     "address": "9 Bowling Green Lane, Newport, PO31 1RR 1930 Tuesday Prizes, Bar tabs & event tickets | Free to play | Age 16+",
-    "latitude": "50.69786344042762",
+    "latitude": "50.69786344",
     "longitude": "-1.294438955",
     "date": "27-Jan-26",
     "time": "",
@@ -7857,14 +8249,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7745/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Strings Smartphone Quiz"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7751",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Game Changer",
     "address": "",
-    "latitude": "42.86359531452635",
+    "latitude": "42.86359531",
     "longitude": "-71.35258555",
     "date": "",
     "time": "",
@@ -7877,15 +8270,16 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7751/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Game Changer"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7756",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Broadview Winebar",
     "address": "116-118 Bridge Road, Oulton Broad, Lowestoft, NR33 9JT Tuesday Prizes, Prizes Nibbles Raffle | £2.00 to play | Max 6 per team",
-    "latitude": "52.47419923939695",
-    "longitude": "1.7103199054213647",
+    "latitude": "52.47419924",
+    "longitude": "1.710319905",
     "date": "27-Jan-26",
     "time": "7.30pm",
     "repeat_day": "Tuesday",
@@ -7897,7 +8291,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7756/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Broadview Winebar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7761",
@@ -7917,14 +8312,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7761/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7762",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "",
     "address": "",
-    "latitude": "51.895593652266484",
+    "latitude": "51.89559365",
     "longitude": "-8.472860698",
     "date": "",
     "time": "",
@@ -7937,7 +8333,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7762/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7765",
@@ -7957,7 +8354,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7765/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Cow Shed at The Ship In"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7766",
@@ -7977,7 +8375,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7766/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Shepherds Rest"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7771",
@@ -7997,14 +8396,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7771/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The New Inn, Churwell"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7772",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Doyen",
     "address": "829 Lisburn Road, Belfast, BT9 7GY Thursday Prizes, Prizes for the top 5 teams | Free to play",
-    "latitude": "54.56824959999999",
+    "latitude": "54.5682496",
     "longitude": "-5.9688775",
     "date": "29-Jan-26",
     "time": "9pm",
@@ -8017,14 +8417,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7772/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Doyen"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7783",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Old Lloyds Arms",
     "address": "76 Victoria Street South, Freshney Place, Grimsby, DN31 1BL 16:00 Sunday 25 Jan 2026Prizes, £50 bar tab | 1 to play | Max 6 per team | Age 18+",
-    "latitude": "53.56547908738445",
+    "latitude": "53.56547909",
     "longitude": "-0.084516406",
     "date": "25-Jan-26",
     "time": "16:00",
@@ -8037,7 +8438,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7783/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Old Lloyds Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7802",
@@ -8057,14 +8459,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7802/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "AVA Winebar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7819",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Iron Smoke",
     "address": "",
-    "latitude": "43.10503550000001",
+    "latitude": "43.1050355",
     "longitude": "-77.4431256",
     "date": "03-Feb-26",
     "time": "07:00",
@@ -8077,7 +8480,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7819/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Iron Smoke"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7829",
@@ -8097,7 +8501,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7829/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Skeff Bar, Galway"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7850",
@@ -8117,7 +8522,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7850/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Ashton Club"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7862",
@@ -8137,7 +8543,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7862/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "William Camden"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7875",
@@ -8157,7 +8564,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7875/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Mooch Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7877",
@@ -8177,7 +8585,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7877/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Progression Brewing"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7878",
@@ -8197,7 +8606,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7878/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Brody's Burgers and Beer"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7880",
@@ -8217,7 +8627,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7880/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Cookhouse Liverpool"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7886",
@@ -8237,14 +8648,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7886/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Gade & Goose"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7893",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Meier's Creek Brewing Company",
     "address": "",
-    "latitude": "42.91965568165484",
+    "latitude": "42.91965568",
     "longitude": "-75.86631417",
     "date": "",
     "time": "",
@@ -8257,7 +8669,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7893/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Meier's Creek Brewing Company"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7907",
@@ -8277,7 +8690,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7907/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Whitefort"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7927",
@@ -8297,7 +8711,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7927/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "wolseys"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7955",
@@ -8317,7 +8732,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7955/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "BOXPARK Shoreditch"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7966",
@@ -8337,7 +8753,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7966/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "the lodge bridlington"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7975",
@@ -8357,7 +8774,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7975/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Alverley Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7976",
@@ -8377,7 +8795,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7976/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Old Red House"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7978",
@@ -8397,7 +8816,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7978/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Tempest on Tithebarn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "7992",
@@ -8417,7 +8837,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/7992/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Glenowen Belfast"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8005",
@@ -8437,7 +8858,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8005/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Merlin"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8009",
@@ -8457,7 +8879,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8009/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Turnpike Tavern"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8011",
@@ -8477,14 +8900,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8011/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Sliding Rock"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8019",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Union Street",
     "address": "8-14 Union Street, Belfast, BT1 2JF Wednesday Prizes, £50 Bar Tab/Vouchers, £30 Restaurant Voucher, Vodk | Max 6 per team | Age 18+",
-    "latitude": "54.60335477140692",
+    "latitude": "54.60335477",
     "longitude": "-5.932128382",
     "date": "21-Jan-26",
     "time": "9PM",
@@ -8497,7 +8921,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8019/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Union Street"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8021",
@@ -8517,7 +8942,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8021/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Atlon"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8033",
@@ -8537,14 +8963,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8033/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Boopalu's"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8042",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Bottle Tower Pub",
     "address": "",
-    "latitude": "53.295022537231084",
+    "latitude": "53.29502254",
     "longitude": "-6.256906986",
     "date": "22-Jan-26",
     "time": "9.3",
@@ -8557,7 +8984,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8042/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Bottle Tower Pub"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8052",
@@ -8577,7 +9005,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8052/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Merchant"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8054",
@@ -8597,7 +9026,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8054/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Light Addlestone"
+    "Quiz rating": "#N/A",
+    "Host rating": "3"
   },
   {
     "event_id": "8056",
@@ -8617,14 +9047,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8056/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Whitakers Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8059",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Sportsmans",
     "address": "254 Darwen Road, Bromley Cross, Bolton, BL7 9JG Monday Prizes, £30 bar tab | Free to play | Max 8 per team | Age 18+",
-    "latitude": "53.61654369999999",
+    "latitude": "53.6165437",
     "longitude": "-2.4215769",
     "date": "26-Jan-26",
     "time": "8pm",
@@ -8637,7 +9068,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8059/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Sportsmans"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8083",
@@ -8657,7 +9089,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8083/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Aston Student Union"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8088",
@@ -8677,7 +9110,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8088/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Bud's Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8100",
@@ -8685,7 +9119,7 @@ window.eventsData = [
     "venue_name": "Barleys Bar (Limassol)",
     "address": "",
     "latitude": "34.69979325",
-    "longitude": "33.100323379039764",
+    "longitude": "33.10032338",
     "date": "26-Jan-26",
     "time": "20:00",
     "repeat_day": "Monday",
@@ -8697,15 +9131,16 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8100/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Barleys Bar (Limassol)"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8101",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The BUCC (Erimi)",
     "address": "",
-    "latitude": "34.674546844037806",
-    "longitude": "32.91903018951416",
+    "latitude": "34.67454684",
+    "longitude": "32.91903019",
     "date": "27-Jan-26",
     "time": "20:00",
     "repeat_day": "Tuesday",
@@ -8717,7 +9152,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8101/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The BUCC (Erimi)"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8103",
@@ -8737,14 +9173,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8103/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Old House At Home"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8114",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Royal Pier",
     "address": "Marine Terrace, Aberystwyth, SY23 2AZ Thursday",
-    "latitude": "52.415650377231344",
+    "latitude": "52.41565038",
     "longitude": "-4.087473697",
     "date": "29-Jan-26",
     "time": "8pm",
@@ -8757,7 +9194,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8114/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Royal Pier"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8117",
@@ -8777,7 +9215,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8117/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Shortlands Tavern"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8127",
@@ -8797,7 +9236,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8127/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Sundays"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8134",
@@ -8817,7 +9257,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8134/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Mews Wetherby"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8139",
@@ -8837,7 +9278,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8139/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Miners Arms Bedworth"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8156",
@@ -8857,14 +9299,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8156/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Drunken Rabbit Brewing"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8174",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Ship  Inn",
     "address": "24 High Street, Ship Inn, Emsworth, PO10 7AW Monday Prizes, Cash & other | £3 to play | Max 6 per team | Age 18+",
-    "latitude": "50.84658630000001",
+    "latitude": "50.8465863",
     "longitude": "-0.9363995",
     "date": "26-Jan-26",
     "time": "8pm",
@@ -8877,14 +9320,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8174/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Ship  Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8190",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Counting House, Goole",
     "address": "Goole, 54a Aire Street, Goole, DN14 5QE 20:00 Thursday 12 Feb 2026",
-    "latitude": "53.70267880000001",
+    "latitude": "53.7026788",
     "longitude": "-0.8708495",
     "date": "12-Feb-26",
     "time": "20:00",
@@ -8897,7 +9341,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8190/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Counting House, Goole"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8196",
@@ -8917,7 +9362,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8196/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Wiend Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8219",
@@ -8937,7 +9383,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8219/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Treehouse Ayr"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8220",
@@ -8957,7 +9404,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8220/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Racks Williams"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8222",
@@ -8977,7 +9425,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8222/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Black Shirt Brewing Co."
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8227",
@@ -8997,7 +9446,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8227/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Stonemasons Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8230",
@@ -9017,7 +9467,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8230/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Blue Cat Bar & Grill"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8234",
@@ -9037,7 +9488,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8234/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Looking Glass"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8239",
@@ -9057,14 +9509,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8239/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Wellington Hotel"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8240",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Berretto lounge",
     "address": "Redrock, Stockport, SK1 1SA Wednesday Prizes, Every round has a prize voucher | free to play",
-    "latitude": "53.41179409999999",
+    "latitude": "53.4117941",
     "longitude": "-2.1620892",
     "date": "28-Jan-26",
     "time": "8pm",
@@ -9077,7 +9530,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8240/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Berretto lounge"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8244",
@@ -9097,7 +9551,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8244/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Sundays"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8248",
@@ -9117,7 +9572,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8248/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Antonio's Pizza B"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8250",
@@ -9137,7 +9593,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8250/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Replay It Live ! en duo aux 3 Brasseurs"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8253",
@@ -9157,7 +9614,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8253/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "CASK Bispham"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8256",
@@ -9177,7 +9635,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8256/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Roadrunner Pub"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8262",
@@ -9197,7 +9656,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8262/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Neepsend Social Cl"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8267",
@@ -9217,7 +9677,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8267/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Wine & Wallop"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8270",
@@ -9237,7 +9698,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8270/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Grosvenor Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8271",
@@ -9257,7 +9719,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8271/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Greendale Oak"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8274",
@@ -9277,7 +9740,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8274/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Medina Eagles"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8296",
@@ -9297,7 +9761,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8296/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Thursday"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8297",
@@ -9317,14 +9782,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8297/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The George"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8300",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "MadFrans Quiz - MUST BOOK (madfrans.com)",
     "address": "Wellington Place, Leeds, LS1 4EQ Wednesday Prizes, Vouchers & stuff, plus cash donation to charity | Free to play | Max 5 per team | Age 18+",
-    "latitude": "53.79507441211201",
+    "latitude": "53.79507441",
     "longitude": "-1.555370092",
     "date": "28-Jan-26",
     "time": "6pm",
@@ -9337,14 +9803,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8300/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "MadFrans Quiz - MUST BOOK (madfrans.com)"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8301",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Clarendon Arms",
     "address": "44 Castle Hill, Clarendon Arms, Kenilworth, CV8 1NB 19:30 Thursday 29 Jan 2026Prizes, £30 Pub Voucher, £20 Pub Voucher, Bonus Prizes | £1 per player then £1 per to play | Age Fami+",
-    "latitude": "52.34875007449362",
+    "latitude": "52.34875007",
     "longitude": "-1.589702368",
     "date": "29-Jan-26",
     "time": "19:30",
@@ -9357,14 +9824,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8301/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Clarendon Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8309",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Millhouse",
     "address": "194 Newcastle Avenue, Worksop, S80 1NN 20:30 Thursday 22 Jan 2026",
-    "latitude": "53.30311649999999",
+    "latitude": "53.3031165",
     "longitude": "-1.1360126",
     "date": "22-Jan-26",
     "time": "20:30",
@@ -9377,14 +9845,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8309/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Millhouse"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8347",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Keelings, Donabate",
     "address": "",
-    "latitude": "53.48754761580693",
+    "latitude": "53.48754762",
     "longitude": "-6.148459911",
     "date": "22-Jan-26",
     "time": "9.3",
@@ -9397,14 +9866,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8347/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Keelings, Donabate"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8370",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "",
     "address": "Unit 11 Fargo Village, Far Gosford Street, Coventry, CV1 5ED 20:00 Thursday 19 Feb 2026Prizes, £50 in vouchers | £2 to play | Max 6 per team | Age 18+",
-    "latitude": "52.40780480000001",
+    "latitude": "52.4078048",
     "longitude": "-1.4956548",
     "date": "19-Feb-26",
     "time": "20:00",
@@ -9417,7 +9887,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8370/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8371",
@@ -9437,15 +9908,16 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8371/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Butchers Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8381",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Cricketers",
     "address": "88 High Street, Cricketers Inn, Rainham, ME8 7JH Monday Prizes, Cash | £3 to play | Max 6 per team | Age 18+",
-    "latitude": "51.36319659999999",
-    "longitude": "0.6080568000000001",
+    "latitude": "51.3631966",
+    "longitude": "0.6080568",
     "date": "26-Jan-26",
     "time": "7.30pm",
     "repeat_day": "Monday",
@@ -9457,14 +9929,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8381/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Cricketers"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8382",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Crafty Swine",
     "address": "",
-    "latitude": "53.38935828579675",
+    "latitude": "53.38935829",
     "longitude": "-2.91816836",
     "date": "",
     "time": "",
@@ -9477,7 +9950,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8382/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Crafty Swine"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8418",
@@ -9497,14 +9971,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8418/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Jug Handle Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8421",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Queens Arms Oxton",
     "address": "1 Storeton Road, Birkenhead, Prenton, CH43 5TL Monday Prizes, £100 CASH % 25% off food for ALL teams & players. | £2 to play | Max 6 per team | Age 18+",
-    "latitude": "53.37857341853033",
+    "latitude": "53.37857342",
     "longitude": "-3.045669794",
     "date": "26-Jan-26",
     "time": "8PM",
@@ -9517,7 +9992,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8421/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Queens Arms Oxton"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8428",
@@ -9537,14 +10013,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8428/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Brack's Grille"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8442",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "O'Flaherty's",
     "address": "",
-    "latitude": "55.13593566522905",
+    "latitude": "55.13593567",
     "longitude": "-7.454845905",
     "date": "22-Jan-26",
     "time": "9.3",
@@ -9557,7 +10034,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8442/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "O'Flaherty's"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8444",
@@ -9577,7 +10055,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8444/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Twin Creeks Brewing"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8478",
@@ -9597,14 +10076,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8478/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Salutation"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8487",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Lass O'Gowrie",
     "address": "36 Charles Street, Manchester, M1 7DB Thursday",
-    "latitude": "53.47409609999999",
+    "latitude": "53.4740961",
     "longitude": "-2.2378514",
     "date": "22-Jan-26",
     "time": "8.30pm",
@@ -9617,7 +10097,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8487/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Lass O'Gowrie"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8489",
@@ -9637,7 +10118,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8489/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Hearth"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8490",
@@ -9657,7 +10139,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8490/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Black Horse, Tonge Fold"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8496",
@@ -9677,7 +10160,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8496/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Carcroft Club"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8520",
@@ -9697,7 +10181,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8520/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Belay My Last Barrack"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8530",
@@ -9717,14 +10202,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8530/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Squire Lounge & Patio"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8532",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Fiveways",
     "address": "292 Ditchling Road, Brighton, BN1 6JG 20.30 Thursday 22 Jan 2026Prizes, Cash Prizes | £3 No cash.. contactless to play | Max 6 per team | Age 18+",
-    "latitude": "50.84344061046842",
+    "latitude": "50.84344061",
     "longitude": "-0.134432316",
     "date": "22-Jan-26",
     "time": "20.3",
@@ -9737,7 +10223,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8532/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Fiveways"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8533",
@@ -9757,14 +10244,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8533/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Stevie D's Rivers"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8534",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Barbaras Broad Street",
     "address": "",
-    "latitude": "52.474997707226315",
+    "latitude": "52.47499771",
     "longitude": "-1.914319396",
     "date": "",
     "time": "",
@@ -9777,14 +10265,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8534/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Barbaras Broad Street"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8542",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Surfside Charlies",
     "address": "",
-    "latitude": "33.60687360000001",
+    "latitude": "33.6068736",
     "longitude": "-78.988159",
     "date": "22-Jan-26",
     "time": "07:00",
@@ -9797,7 +10286,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8542/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Surfside Charlies"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8595",
@@ -9817,7 +10307,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8595/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Snug and Chatter"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8618",
@@ -9837,7 +10328,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8618/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Wellington - Ashton"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8640",
@@ -9857,7 +10349,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8640/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Royal Hotel"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8651",
@@ -9877,7 +10370,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8651/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Urmston Working Men's Club"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8656",
@@ -9897,14 +10391,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8656/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Beverley Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8671",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Bull's Head Old Glossop",
     "address": "Church Street, Glossop, SK13 7RN 8:30 Tuesday 27 Jan 2026",
-    "latitude": "53.450768354191275",
+    "latitude": "53.45076835",
     "longitude": "-1.938968897",
     "date": "27-Jan-26",
     "time": "08:30",
@@ -9917,14 +10412,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8671/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Bull's Head Old Glossop"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8672",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Blackbirds",
     "address": "15-17 Parliament Square, Hertford, SG14 1EX Thursday Prizes, £20 Bar Tab + Chance to win £500+ Jackpot prize | £1 to play | Age 18+",
-    "latitude": "51.79544110000001",
+    "latitude": "51.7954411",
     "longitude": "-0.0781847",
     "date": "22-Jan-26",
     "time": "8pm",
@@ -9937,7 +10433,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8672/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Blackbirds"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8678",
@@ -9957,7 +10454,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8678/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Brixham Sea Anglers Club"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8680",
@@ -9977,14 +10475,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8680/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Boland's of Stillorgan"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8684",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Wilder's Pizza",
     "address": "",
-    "latitude": "27.49221989999999",
+    "latitude": "27.4922199",
     "longitude": "-82.5750638",
     "date": "",
     "time": "",
@@ -9997,7 +10496,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8684/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Wilder's Pizza"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8692",
@@ -10017,7 +10517,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8692/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Chantry"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8694",
@@ -10037,14 +10538,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8694/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Swan"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8702",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Lodge",
     "address": "Grange Road, The Lodge, Alvaston, DE24 0JW Tuesday £1 to play",
-    "latitude": "52.89186216057748",
+    "latitude": "52.89186216",
     "longitude": "-1.423501968",
     "date": "27-Jan-26",
     "time": "7.00pm",
@@ -10057,7 +10559,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8702/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Lodge"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8704",
@@ -10077,7 +10580,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8704/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Lost Friend Brewing Company"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8727",
@@ -10097,7 +10601,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8727/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Station"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8728",
@@ -10117,7 +10622,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8728/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Tawny Owl"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8732",
@@ -10137,7 +10643,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8732/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Granta"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8735",
@@ -10157,7 +10664,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8735/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Red Lion (The Cat)"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8736",
@@ -10177,15 +10685,16 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8736/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Jolly Postie"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8739",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Loca",
     "address": "",
-    "latitude": "24.50130530975633",
-    "longitude": "54.389684200286865",
+    "latitude": "24.50130531",
+    "longitude": "54.3896842",
     "date": "",
     "time": "",
     "repeat_day": "",
@@ -10197,7 +10706,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8739/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Loca"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8743",
@@ -10217,14 +10727,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8743/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Scottie's Pub"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8752",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Old Roebuck",
     "address": "42 Victoria Street, Altrincham, WA14 1ET 20:30 Tuesday 27 Jan 2026Prizes, £40 bar tab for winner. Rolling PYCR jackpot. | £2 (inc. bonus PYCR game) to play | Max 8 per team | Age 18+",
-    "latitude": "53.389413671632724",
+    "latitude": "53.38941367",
     "longitude": "-2.349722385",
     "date": "27-Jan-26",
     "time": "20:30",
@@ -10237,14 +10748,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8752/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Old Roebuck"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8753",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Castle Glanmire",
     "address": "",
-    "latitude": "51.92851223040703",
+    "latitude": "51.92851223",
     "longitude": "-8.389509468",
     "date": "",
     "time": "",
@@ -10257,7 +10769,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8753/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Castle Glanmire"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8773",
@@ -10277,7 +10790,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8773/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Monty's Public House"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8782",
@@ -10297,7 +10811,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8782/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "White Horse London Colney"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8789",
@@ -10317,7 +10832,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8789/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Rose & Crown Hartwell"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8798",
@@ -10337,7 +10853,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8798/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Lu & Carl's"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8801",
@@ -10357,7 +10874,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8801/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Pic's Pub and Pizzeria"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8809",
@@ -10377,7 +10895,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8809/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Slain's Castle"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8812",
@@ -10397,14 +10916,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8812/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Masion Sur Mer"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8814",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Wednesday",
     "address": "",
-    "latitude": "53.44333469999999",
+    "latitude": "53.4433347",
     "longitude": "-1.9500581",
     "date": "",
     "time": "",
@@ -10417,7 +10937,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8814/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Wednesday"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8815",
@@ -10437,14 +10958,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8815/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Rody Bolands"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8820",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Barologist",
     "address": "11 Parliament Street, Harrogate, HG1 2QU Thursday Prizes, 1st, 2nd, 3rd prizes | £2 to play | Max 6 per team | Age 18+",
-    "latitude": "53.993238412678195",
+    "latitude": "53.99323841",
     "longitude": "-1.542894179",
     "date": "22-Jan-26",
     "time": "8pm",
@@ -10457,7 +10979,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8820/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Barologist"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8842",
@@ -10477,7 +11000,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8842/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Connolly's - The Sheds"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8843",
@@ -10497,7 +11021,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8843/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Hunters Moon"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8850",
@@ -10517,7 +11042,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8850/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Buffalo Creek Brewing"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8861",
@@ -10537,14 +11063,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8861/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "THE BAILLIE"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8863",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "IRON RAM \\u00b7 Feel Good Quiz \\u00b7 Sundays",
     "address": "",
-    "latitude": "52.924206264258125",
+    "latitude": "52.92420626",
     "longitude": "-1.477601397",
     "date": "",
     "time": "",
@@ -10557,7 +11084,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8863/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "IRON RAM \\u00b7 Feel Good Quiz \\u00b7 Sundays"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8869",
@@ -10577,14 +11105,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8869/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Twin Birch Golf Club"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8870",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Arcola inn & Ale",
     "address": "",
-    "latitude": "41.10366546023186",
+    "latitude": "41.10366546",
     "longitude": "-85.29500842",
     "date": "",
     "time": "",
@@ -10597,7 +11126,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8870/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Arcola inn & Ale"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8876",
@@ -10617,7 +11147,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8876/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Three Piggies"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8877",
@@ -10637,14 +11168,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8877/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Brown Hare"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8880",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Martello Bray",
     "address": "",
-    "latitude": "53.20200879999999",
+    "latitude": "53.2020088",
     "longitude": "-6.0979558",
     "date": "",
     "time": "",
@@ -10657,7 +11189,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8880/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Martello Bray"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8902",
@@ -10677,14 +11210,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8902/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Blind Monkey"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8903",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Jolly Carter",
     "address": "1 Clarendon Place, Hyde, SK14 2ND Sunday",
-    "latitude": "53.45161491003766",
+    "latitude": "53.45161491",
     "longitude": "-2.076926175",
     "date": "25-Jan-26",
     "time": "7pm",
@@ -10697,7 +11231,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8903/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Jolly Carter"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8905",
@@ -10717,7 +11252,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8905/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Wednesday"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8917",
@@ -10737,14 +11273,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8917/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Gober's Deco Lounge Trivia"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8930",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Samuel Hall",
     "address": "",
-    "latitude": "52.98141962598125",
+    "latitude": "52.98141963",
     "longitude": "-1.146451235",
     "date": "",
     "time": "",
@@ -10757,7 +11294,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8930/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Samuel Hall"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8937",
@@ -10777,15 +11315,16 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8937/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Beach House"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8938",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Carpenters Arms",
     "address": "Three Elm Lane, Tonbridge, TN11 0AD Tuesday Prizes, Cash Prize! | £3 to play | Max 7 per team",
-    "latitude": "51.21298631676182",
-    "longitude": "0.31515955924987793",
+    "latitude": "51.21298632",
+    "longitude": "0.315159559",
     "date": "10-Feb-26",
     "time": "8pm",
     "repeat_day": "Tuesday",
@@ -10797,14 +11336,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8938/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Carpenters Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8941",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Nags Head",
     "address": "",
-    "latitude": "53.48335757262864",
+    "latitude": "53.48335757",
     "longitude": "-2.335699208",
     "date": "27-Jan-26",
     "time": "8.3",
@@ -10817,15 +11357,16 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8941/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Nags Head"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8942",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "THE YARD",
     "address": "35a Newnham Street, Ely, CB7 4PE Arrive at Wednesday Prizes, 1st Place £30, 2nd Place £20, 3rd Place £10 | £2 per player to play | Max 8 per team",
-    "latitude": "52.40118170258846",
-    "longitude": "0.2658390998840332",
+    "latitude": "52.4011817",
+    "longitude": "0.2658391",
     "date": "21-Jan-26",
     "time": "",
     "repeat_day": "Wednesday",
@@ -10837,7 +11378,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8942/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "THE YARD"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "8998",
@@ -10857,7 +11399,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/8998/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "the farmers arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9009",
@@ -10877,14 +11420,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9009/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Greedy Banker"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9020",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Highway Speedquizzing Night",
     "address": "Willerby Road, Hull, HU5 5LH Sunday Prizes, £50.00 Voucher for 1st place | £2.00 to play | Max 6 per team",
-    "latitude": "53.75361462285398",
+    "latitude": "53.75361462",
     "longitude": "-0.416804552",
     "date": "25-Jan-26",
     "time": "7:30pm",
@@ -10897,7 +11441,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9020/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Highway Speedquizzing Night"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9032",
@@ -10917,7 +11462,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9032/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Vic's Bar Prestwick"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9049",
@@ -10937,14 +11483,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9049/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Uno Pizzeria & Gr"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9054",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Bill And Coo",
     "address": "2-4 The Hillock, Harwood, Bolton, BL2 3HP Tuesday Prizes, £25 bar tab | £0 to play | Age 18+",
-    "latitude": "53.60492439999999",
+    "latitude": "53.6049244",
     "longitude": "-2.3949691",
     "date": "27-Jan-26",
     "time": "8pm",
@@ -10957,7 +11504,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9054/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Bill And Coo"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9057",
@@ -10977,7 +11525,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9057/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "STONEGATE YARD YORK"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9064",
@@ -10997,14 +11546,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9064/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Ballast Point"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9075",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Met Quiz",
     "address": "10 Wolverhampton Street, Walsall, WS2 8LR Thursday Prizes, £30 bar tab for 1st, £20 bar tab for 2nd, £10 for | Free Entry to play",
-    "latitude": "52.58594309999999",
+    "latitude": "52.5859431",
     "longitude": "-1.9865697",
     "date": "29-Jan-26",
     "time": "8:00pm",
@@ -11017,14 +11567,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9075/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Met Quiz"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9081",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "810 Billiards & Bowling",
     "address": "",
-    "latitude": "33.81750254495054",
+    "latitude": "33.81750254",
     "longitude": "-78.69248271",
     "date": "",
     "time": "",
@@ -11037,14 +11588,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9081/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "810 Billiards & Bowling"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9088",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Victoria",
     "address": "48 John Bright Street, Birmingham, B1 1BN Wednesday",
-    "latitude": "52.47609689999999",
+    "latitude": "52.4760969",
     "longitude": "-1.9007425",
     "date": "21-Jan-26",
     "time": "7:30pm",
@@ -11057,7 +11609,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9088/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Victoria"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9099",
@@ -11077,7 +11630,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9099/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Light Redhill"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9102",
@@ -11097,7 +11651,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9102/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "O'Neills- Kingston"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9104",
@@ -11117,14 +11672,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9104/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Sun Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9105",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Dog & Partridge",
     "address": "221 Church Street, Eccles, Manchester, M30 0LZ Thursday Prizes, Gallon of beer | free to play | Max 6 per team | Age 18+",
-    "latitude": "53.48304691760905",
+    "latitude": "53.48304692",
     "longitude": "-2.344669104",
     "date": "29-Jan-26",
     "time": "8pm",
@@ -11137,7 +11693,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9105/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Dog & Partridge"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9107",
@@ -11157,14 +11714,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9107/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "RedHawk Grille"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9127",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "TimberVault",
     "address": "TimberVault, 12 Derrys Cross, Plymouth, PL1 2TE Wednesday Prizes, Family Activity Voucher | 1 to play | Max 6 per team | Age 18+",
-    "latitude": "50.37020039999999",
+    "latitude": "50.3702004",
     "longitude": "-4.1465399",
     "date": "21-Jan-26",
     "time": "7:00pm",
@@ -11177,7 +11735,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9127/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "TimberVault"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9132",
@@ -11197,14 +11756,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9132/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Scoreboard"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9136",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "OSheas Corner",
     "address": "",
-    "latitude": "52.98062509365336",
+    "latitude": "52.98062509",
     "longitude": "-6.046482325",
     "date": "21-Jan-26",
     "time": "8.3",
@@ -11217,7 +11777,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9136/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "OSheas Corner"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9158",
@@ -11237,7 +11798,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9158/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Jessica O'Marleys"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9168",
@@ -11257,7 +11819,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9168/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "LyonSmith Brewing Company"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9178",
@@ -11277,14 +11840,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9178/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Billsburg Brewery"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9180",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Ormskirk Market",
     "address": "Aughton Street, Ormskirk, L393BH Sunday",
-    "latitude": "53.56512720000001",
+    "latitude": "53.5651272",
     "longitude": "-2.8890652",
     "date": "25-Jan-26",
     "time": "7pm",
@@ -11297,7 +11861,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9180/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Ormskirk Market"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9186",
@@ -11317,14 +11882,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9186/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "THE THREE TUNS YORK"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9190",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "FY6",
     "address": "",
-    "latitude": "53.84819763359924",
+    "latitude": "53.84819763",
     "longitude": "-2.991363108",
     "date": "",
     "time": "",
@@ -11337,7 +11903,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9190/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "FY6"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9193",
@@ -11357,14 +11924,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9193/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Nacional de Cuba"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9199",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Hop House",
     "address": "44 High Street, Bangor, BT20 5AZ Friday Prizes, £40 in bar vouchers, £20 in bar vouchers, bottle o | £2 to play",
-    "latitude": "54.66338562928965",
+    "latitude": "54.66338563",
     "longitude": "-5.665222406",
     "date": "23-Jan-26",
     "time": "7pm",
@@ -11377,7 +11945,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9199/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Hop House"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9205",
@@ -11397,14 +11966,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9205/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Primanti Bros. Pleasant H"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9216",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Prince Rupert",
     "address": "46 Stodman Street, Newark-on-Trent, Newark, NG24 1AW Thursday Prizes, Cash | £1 per player to play | Max 4 per team",
-    "latitude": "53.07638675800307",
+    "latitude": "53.07638676",
     "longitude": "-0.812162161",
     "date": "22-Jan-26",
     "time": "6.30pm",
@@ -11417,15 +11987,16 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9216/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Prince Rupert"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9221",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Hollywood CAFE",
     "address": "",
-    "latitude": "49.19882625776832",
-    "longitude": "21.652936935424805",
+    "latitude": "49.19882626",
+    "longitude": "21.65293694",
     "date": "31-Jan-26",
     "time": "20:00",
     "repeat_day": "Saturday",
@@ -11437,14 +12008,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9221/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Hollywood CAFE"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9230",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Market Square Tavern",
     "address": "MArket Square Tavern, Queen St, Bingley, BD16 2JS 20:00 Thursday 22 Jan 2026Prizes, 20 | 0 to play | Max 8 per team | Age 18+",
-    "latitude": "53.84835586395477",
+    "latitude": "53.84835586",
     "longitude": "-1.839126348",
     "date": "22-Jan-26",
     "time": "20:00",
@@ -11457,7 +12029,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9230/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Market Square Tavern"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9257",
@@ -11477,7 +12050,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9257/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Old Packet House"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9262",
@@ -11497,7 +12071,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9262/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Sun Inn Everton"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9264",
@@ -11517,14 +12092,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9264/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "EVERY TUESDAY AT THE BLUEBELL FARM WORCE"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9275",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Duke's A",
     "address": "",
-    "latitude": "37.39823909999999",
+    "latitude": "37.3982391",
     "longitude": "-76.5267862",
     "date": "",
     "time": "",
@@ -11537,7 +12113,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9275/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Duke's A"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9288",
@@ -11557,14 +12134,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9288/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Uplands Soc  Club"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9299",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "the bellringer",
     "address": "Kettering Drive, Stoke-on-Trent, ST2 9ND Sunday £1 to play",
-    "latitude": "53.01524797194405",
+    "latitude": "53.01524797",
     "longitude": "-2.150605917",
     "date": "25-Jan-26",
     "time": "8:30pm",
@@ -11577,7 +12155,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9299/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "the bellringer"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9304",
@@ -11597,7 +12176,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9304/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Oakholm Brewing"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9306",
@@ -11617,7 +12197,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9306/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "An Br\\u00f3g Bar + Kitchen"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9321",
@@ -11637,7 +12218,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9321/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Met"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9328",
@@ -11657,7 +12239,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9328/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Glossop Cricket Club"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9338",
@@ -11677,7 +12260,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9338/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9346",
@@ -11697,14 +12281,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9346/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Coterie"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9367",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Stack Seaburn",
     "address": "Whitburn Road, Seaburn, Sunderland, SR6 8AA Tuesday Prizes, £220 | Free to play | Max no per team | Age None+",
-    "latitude": "54.936375941894184",
+    "latitude": "54.93637594",
     "longitude": "-1.369589567",
     "date": "27-Jan-26",
     "time": "7:30pm",
@@ -11717,7 +12302,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9367/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Stack Seaburn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9387",
@@ -11737,7 +12323,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9387/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Luci's Pizza B"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9401",
@@ -11757,7 +12344,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9401/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Mighty Coffee"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9404",
@@ -11777,7 +12365,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9404/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "the blackbird"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9407",
@@ -11797,14 +12386,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9407/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Canal Duke"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9409",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Comet Santry",
     "address": "The Comet Bar, 243 swords road, santry, D09YW35 Thursday Prizes, €50 Voucher 1st prize | free to play",
-    "latitude": "53.38858187277013",
+    "latitude": "53.38858187",
     "longitude": "-6.246038675",
     "date": "22-Jan-26",
     "time": "9pm",
@@ -11817,14 +12407,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9409/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Comet Santry"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9419",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Laurels, Perrystown",
     "address": "",
-    "latitude": "53.30787732726001",
+    "latitude": "53.30787733",
     "longitude": "-6.319716337",
     "date": "",
     "time": "",
@@ -11837,7 +12428,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9419/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Laurels, Perrystown"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9420",
@@ -11857,7 +12449,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9420/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Hickleton Golf Club"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9431",
@@ -11877,14 +12470,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9431/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Holy Moley Brewing Company"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9442",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Red Lion Coleshill Quiz",
     "address": "11 Coventry Road, Coleshill, Birmingham, B46 3BB Sunday Prizes, £50 bar tab, bottle of spirits and bottle of wine | £2 per person to play | Age 18+",
-    "latitude": "52.49561577420902",
+    "latitude": "52.49561577",
     "longitude": "-1.704942379",
     "date": "25-Jan-26",
     "time": "7:00pm",
@@ -11897,14 +12491,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9442/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Red Lion Coleshill Quiz"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9465",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Pound & The Attic",
     "address": "",
-    "latitude": "53.45939298483446",
+    "latitude": "53.45939298",
     "longitude": "-6.220518199",
     "date": "",
     "time": "",
@@ -11917,7 +12512,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9465/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Pound & The Attic"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9471",
@@ -11937,14 +12533,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9471/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Castle Tavern"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9473",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Markie Dan's",
     "address": "",
-    "latitude": "56.41834055600635",
+    "latitude": "56.41834056",
     "longitude": "-5.474839211",
     "date": "25-Jan-26",
     "time": "9.3",
@@ -11957,14 +12554,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9473/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Markie Dan's"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9489",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Mclarens on the Corn",
     "address": "Morningside Road, Morningside, Edinburgh, EH10 4DD Sunday Prizes, £50 voucher for winner £30 voucher for 2nd | FREE to play | Max 6 per team | Age 18+",
-    "latitude": "55.93432872072101",
+    "latitude": "55.93432872",
     "longitude": "-3.210421801",
     "date": "25-Jan-26",
     "time": "7.30pm",
@@ -11977,7 +12575,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9489/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Mclarens on the Corn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9491",
@@ -11997,7 +12596,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9491/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Tiki Underground"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9494",
@@ -12017,14 +12617,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9494/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Ring O'Bells"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9504",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Edinburgh Street",
     "address": "Leith Street, Edinburgh, EH1 3AU 2000 Wednesday FREE to play",
-    "latitude": "55.95583261206497",
+    "latitude": "55.95583261",
     "longitude": "-3.186513261",
     "date": "21-Jan-26",
     "time": "",
@@ -12037,7 +12638,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9504/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Edinburgh Street"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9505",
@@ -12057,15 +12659,16 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9505/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "279 bar and grill"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9507",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Porter's English Pub",
     "address": "",
-    "latitude": "24.46996306119457",
-    "longitude": "54.37236785888672",
+    "latitude": "24.46996306",
+    "longitude": "54.37236786",
     "date": "",
     "time": "",
     "repeat_day": "",
@@ -12077,7 +12680,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9507/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Porter's English Pub"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9510",
@@ -12097,7 +12701,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9510/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Leeds Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9522",
@@ -12117,14 +12722,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9522/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Bar Twenty One"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9523",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Bull - Borough Green",
     "address": "Bradley Road, Borough Green, Newmarket, CB8 9NH Wednesday Prizes, Bar Vouchers | £3 to play | Max 6 per team | Age 18+",
-    "latitude": "52.17450411718847",
+    "latitude": "52.17450412",
     "longitude": "0.394209623",
     "date": "04-Feb-26",
     "time": "7.30pm",
@@ -12137,7 +12743,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9523/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Bull - Borough Green"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9533",
@@ -12157,7 +12764,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9533/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Barretts Alehouse"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9536",
@@ -12177,7 +12785,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9536/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Bobbin"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9568",
@@ -12197,7 +12806,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9568/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Fox Creek Tavern"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9577",
@@ -12217,14 +12827,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9577/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "ONE BRUCE STREET"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9579",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Hardwick Arms, Sedgefie",
     "address": "North End, Sedgefield, Stockton-on-Tees, TS21 2AZ 8:30 Thursday 22 Jan 20262.00 to play | Max 5 per team",
-    "latitude": "54.65399587391183",
+    "latitude": "54.65399587",
     "longitude": "-1.451804638",
     "date": "22-Jan-26",
     "time": "08:30",
@@ -12237,14 +12848,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9579/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Hardwick Arms, Sedgefie"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9581",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Lutley Oak",
     "address": "Stourbridge Road, Halesowen, Birmingham, B63 3QT 7.30 Tuesday 27 Jan 2026Prizes, £20 | free to play",
-    "latitude": "52.45438189999999",
+    "latitude": "52.4543819",
     "longitude": "-2.0715177",
     "date": "27-Jan-26",
     "time": "7.3",
@@ -12257,7 +12869,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9581/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Lutley Oak"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9597",
@@ -12277,7 +12890,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9597/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Barrett's Alehous"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9600",
@@ -12297,14 +12911,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9600/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "SUN OUTDOORS MYRTLE BEACH"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9615",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Manor",
     "address": "",
-    "latitude": "52.90326899999999",
+    "latitude": "52.903269",
     "longitude": "-1.251589",
     "date": "",
     "time": "",
@@ -12317,14 +12932,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9615/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Manor"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9627",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Lost In Lark Lane",
     "address": "",
-    "latitude": "53.38105669999999",
+    "latitude": "53.3810567",
     "longitude": "-2.9460054",
     "date": "",
     "time": "",
@@ -12337,7 +12953,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9627/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Lost In Lark Lane"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9634",
@@ -12357,14 +12974,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9634/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Cowgirl Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9644",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Blue Bell",
     "address": "Nottingham Road, Beeston, NG9 6DN Friday Prizes, £20, £10, bottle of wine | £0 to play",
-    "latitude": "52.90725853753172",
+    "latitude": "52.90725854",
     "longitude": "-1.235790253",
     "date": "23-Jan-26",
     "time": "8.00pm",
@@ -12377,7 +12995,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9644/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Blue Bell"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9653",
@@ -12397,7 +13016,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9653/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Tavern"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9659",
@@ -12417,14 +13037,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9659/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Garrison2"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9665",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Croft Bar and Restauran",
     "address": "22 Lugar Place, Glasgow, G44 5HB Monday Prizes, £20 Voucher Plus Cash Jackpot | FREE to play | Max 6 per team | Age 18+",
-    "latitude": "55.81535315239443",
+    "latitude": "55.81535315",
     "longitude": "-4.227311611",
     "date": "02-Feb-26",
     "time": "8.45pm",
@@ -12437,14 +13058,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9665/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Croft Bar and Restauran"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9668",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Wednesday",
     "address": "321 Deansgate, Manchester, M3 4LQ Wednesday",
-    "latitude": "53.47507479999999",
+    "latitude": "53.4750748",
     "longitude": "-2.2511889",
     "date": "21-Jan-26",
     "time": "8pm",
@@ -12457,7 +13079,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9668/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Wednesday"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9674",
@@ -12477,14 +13100,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9674/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Chaplins & The Cellar Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9681",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Nailmaker Tap 2",
     "address": "Unit 2b, Gateway Plaza, Sackville Street, Barnsley, S70 2RD Thursday Prizes, Open the box to win, raffle tickets are 50p, with | Free entry to play | Max 4 per team | Age 18+",
-    "latitude": "53.55380498548999",
+    "latitude": "53.55380499",
     "longitude": "-1.486640825",
     "date": "22-Jan-26",
     "time": "7pm",
@@ -12497,7 +13121,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9681/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Nailmaker Tap 2"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9682",
@@ -12517,7 +13142,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9682/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Bald Eagle - Beer & Food Co"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9683",
@@ -12537,7 +13163,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9683/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Cherry Gardens"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9689",
@@ -12557,14 +13184,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9689/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Hogarths"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9695",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Station 2 Bar",
     "address": "",
-    "latitude": "43.166187644562946",
+    "latitude": "43.16618764",
     "longitude": "-83.52482292",
     "date": "",
     "time": "",
@@ -12577,14 +13205,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9695/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Station 2 Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9701",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Compasses",
     "address": "45 Little Mount Sion, Royal Tunbridge Wells, Tunbridge Wells, TN1 1YP Wednesday Prizes, Cash | £3 to play | Max 6 per team | Age 18+",
-    "latitude": "51.12726199999999",
+    "latitude": "51.127262",
     "longitude": "0.2634258",
     "date": "21-Jan-26",
     "time": "7.30pm",
@@ -12597,7 +13226,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9701/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Compasses"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9711",
@@ -12617,7 +13247,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9711/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Park Inn Hotel"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9715",
@@ -12637,7 +13268,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9715/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Wamesit Lanes"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9719",
@@ -12657,14 +13289,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9719/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Queens Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9723",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Lion",
     "address": "70A High Street, Waddesdon, Aylesbury, HP18 0LB Sunday Prizes, TBC - Pub Prizes | £2.50 to play | Max 4 per team | Age 16+",
-    "latitude": "51.845893056244215",
+    "latitude": "51.84589306",
     "longitude": "-0.923248529",
     "date": "25-Jan-26",
     "time": "7pm",
@@ -12677,14 +13310,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9723/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Lion"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9726",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Wentworth",
     "address": "46 Thornes Lane, Wakefield, WF2 5RL 19:00 Sunday 25 Jan 2026Prizes, £25 Voucher / OTB for £50 Cash | £0 to play | Max 4 per team",
-    "latitude": "53.673856588185345",
+    "latitude": "53.67385659",
     "longitude": "-1.493010431",
     "date": "25-Jan-26",
     "time": "19:00",
@@ -12697,7 +13331,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9726/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Wentworth"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9728",
@@ -12717,7 +13352,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9728/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Back East Monument"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9737",
@@ -12737,14 +13373,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9737/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Thursdays 7:30pm. +350  200 66666"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9752",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Lightning club",
     "address": "",
-    "latitude": "53.74977519999999",
+    "latitude": "53.7497752",
     "longitude": "-2.8862281",
     "date": "",
     "time": "",
@@ -12757,7 +13394,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9752/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Lightning club"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9761",
@@ -12777,7 +13415,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9761/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Casa Video & Film Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9764",
@@ -12797,7 +13436,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9764/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Cutler"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9765",
@@ -12817,7 +13457,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9765/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Barrelman"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9777",
@@ -12837,7 +13478,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9777/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Chup"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9800",
@@ -12857,7 +13499,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9800/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Quarry House"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9809",
@@ -12877,7 +13520,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9809/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "White Horse"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9811",
@@ -12897,7 +13541,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9811/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Halfway House - Chorley"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9825",
@@ -12917,14 +13562,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9825/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Garricks Head"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9829",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "DIVERSO",
     "address": "",
-    "latitude": "48.80636819999999",
+    "latitude": "48.8063682",
     "longitude": "19.6437801",
     "date": "23-Jan-26",
     "time": "19:00",
@@ -12937,14 +13583,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9829/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "DIVERSO"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9831",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "CASK Layton",
     "address": "Layton Road, Blackpool, FY3 8EA Wednesday Prizes, £20 bar voucher for winners, Bottle of wine 2nd pl | Free to play | Max 6 per team",
-    "latitude": "53.82724265217525",
+    "latitude": "53.82724265",
     "longitude": "-3.031539917",
     "date": "21-Jan-26",
     "time": "8pm",
@@ -12957,14 +13604,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9831/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "CASK Layton"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9839",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Trivia Night at Wrecking Crew",
     "address": "",
-    "latitude": "41.14043112917056",
+    "latitude": "41.14043113",
     "longitude": "-81.86376572",
     "date": "",
     "time": "",
@@ -12977,14 +13625,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9839/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Trivia Night at Wrecking Crew"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9842",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Stone Boat",
     "address": "",
-    "latitude": "53.32072439498492",
+    "latitude": "53.32072439",
     "longitude": "-6.292274594",
     "date": "",
     "time": "",
@@ -12997,7 +13646,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9842/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Stone Boat"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9864",
@@ -13017,14 +13667,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9864/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Three Swords"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9865",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "croston sports club",
     "address": "Westhead Road, Croston, Leyland, PR26 9RR Monday free to play | Age 12+",
-    "latitude": "53.66243560794708",
+    "latitude": "53.66243561",
     "longitude": "-2.778071165",
     "date": "26-Jan-26",
     "time": "7.30pm",
@@ -13037,7 +13688,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9865/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "croston sports club"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9866",
@@ -13057,14 +13709,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9866/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Madden's Lounge"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9874",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "THE OAK UPTON SNODSBURY ON THE 2ND SUNDA",
     "address": "",
-    "latitude": "52.18856239564856",
+    "latitude": "52.1885624",
     "longitude": "-2.090277672",
     "date": "",
     "time": "",
@@ -13077,7 +13730,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9874/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "THE OAK UPTON SNODSBURY ON THE 2ND SUNDA"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9881",
@@ -13085,7 +13739,7 @@ window.eventsData = [
     "venue_name": "Gas Pub & Grill",
     "address": "",
     "latitude": "-26.75970315",
-    "longitude": "27.82688856124878",
+    "longitude": "27.82688856",
     "date": "",
     "time": "",
     "repeat_day": "",
@@ -13097,7 +13751,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9881/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Gas Pub & Grill"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9903",
@@ -13117,7 +13772,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9903/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Cinderlands Warehouse"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9910",
@@ -13137,7 +13793,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9910/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Punch and Judy Tonbridge"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9912",
@@ -13157,14 +13814,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9912/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Eagles Bar at Kingsmi"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9913",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Roebuck",
     "address": "Derby Street, Leek, ST13 5AB Thursday Prizes, Prizes Top 2 Team | £2 to play | Max 6- per team | Age 16+",
-    "latitude": "53.10565800712028",
+    "latitude": "53.10565801",
     "longitude": "-2.023984194",
     "date": "22-Jan-26",
     "time": "8pm",
@@ -13177,7 +13835,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9913/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Roebuck"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9916",
@@ -13197,14 +13856,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9916/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Kitty O'Sheas - West End"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9927",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Northern Social",
     "address": "275 Bury New Road, Whitefield, Manchester, M45 8QP Thursday Prizes, £75 Bar Tab | Free to play | Age 18+",
-    "latitude": "53.55302829999999",
+    "latitude": "53.5530283",
     "longitude": "-2.2973093",
     "date": "22-Jan-26",
     "time": "8pm",
@@ -13217,7 +13877,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9927/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Northern Social"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9934",
@@ -13237,7 +13898,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9934/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9936",
@@ -13257,7 +13919,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9936/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Ackhorne"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9944",
@@ -13277,15 +13940,16 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9944/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Goat City Pub, WB"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9946",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Kaviare\\u0148 \\",
     "address": "",
-    "latitude": "48.848519002594045",
-    "longitude": "21.31694515396729",
+    "latitude": "48.848519",
+    "longitude": "21.31694515",
     "date": "22-Jan-26",
     "time": "19:00",
     "repeat_day": "Thursday",
@@ -13297,7 +13961,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9946/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Kaviare\\u0148 \\"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9947",
@@ -13317,14 +13982,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9947/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Pelican Lounge"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9952",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Deramore Arms",
     "address": "Main Street, Heslington, York, YO10 5EA Tuesday £2 to play | Max 6 per team",
-    "latitude": "53.94396299650727",
+    "latitude": "53.943963",
     "longitude": "-1.043690443",
     "date": "27-Jan-26",
     "time": "8pm",
@@ -13337,7 +14003,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9952/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Deramore Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9971",
@@ -13357,7 +14024,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9971/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Crooked Billet"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9972",
@@ -13377,7 +14045,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9972/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Revolution Ipswich"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9981",
@@ -13397,14 +14066,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9981/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Westmoor Social Club"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9985",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "BALTIC FLEET PUB",
     "address": "Briercliffe Road, Burnley, BB10 1UX Thursday Prizes, £20 beer token | free to play | Max 6 per team | Age 18+",
-    "latitude": "53.80414460000001",
+    "latitude": "53.8041446",
     "longitude": "-2.2307296",
     "date": "22-Jan-26",
     "time": "8pm",
@@ -13417,7 +14087,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9985/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "BALTIC FLEET PUB"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9987",
@@ -13437,14 +14108,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9987/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Seagoe Hotel"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9992",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Campus Glasgow",
     "address": "",
-    "latitude": "55.866299599423854",
+    "latitude": "55.8662996",
     "longitude": "-4.269966781",
     "date": "",
     "time": "",
@@ -13457,7 +14129,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9992/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Campus Glasgow"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9994",
@@ -13477,15 +14150,16 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9994/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Jeckyl & Hyde"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "9999",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "McGettigan's Science Park",
     "address": "",
-    "latitude": "25.07456006594011",
-    "longitude": "55.23955821990967",
+    "latitude": "25.07456007",
+    "longitude": "55.23955822",
     "date": "",
     "time": "",
     "repeat_day": "",
@@ -13497,14 +14171,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/9999/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "McGettigan's Science Park"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10002",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Chapel House",
     "address": "The Chapel House, Astley Street, Dukinfield, SK16 4QD Tuesday Prizes, Cash Prizes to be won | £2.00 to play | Max 6 per team | Age 18+",
-    "latitude": "53.47843719698982",
+    "latitude": "53.4784372",
     "longitude": "-2.097610831",
     "date": "27-Jan-26",
     "time": "8PM",
@@ -13517,7 +14192,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10002/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Chapel House"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10006",
@@ -13537,7 +14213,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10006/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Red Lion"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10007",
@@ -13557,14 +14234,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10007/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Crozet Pizza at Buddhist"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10011",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Beeswing",
     "address": "208 Smithdown Road, Liverpool, L15 3JT Monday Prizes, £30 for winner, £15 2nd place | £1 to play | Age 18+",
-    "latitude": "53.39053149999999",
+    "latitude": "53.3905315",
     "longitude": "-2.9307241",
     "date": "26-Jan-26",
     "time": "8pm",
@@ -13577,14 +14255,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10011/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Beeswing"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10027",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Highfield!",
     "address": "Highfield Road, Blackpool, FY43LA Tuesday £2 to play",
-    "latitude": "53.78899654362189",
+    "latitude": "53.78899654",
     "longitude": "-3.025478125",
     "date": "27-Jan-26",
     "time": "7:30pm",
@@ -13597,7 +14276,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10027/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Highfield!"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10028",
@@ -13617,7 +14297,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10028/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Denbigh Castle"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10038",
@@ -13637,14 +14318,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10038/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Doncaster Town Moor Golf Cl"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10058",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Parker's Grille & Ta",
     "address": "",
-    "latitude": "42.66064963492629",
+    "latitude": "42.66064963",
     "longitude": "-77.05335259",
     "date": "",
     "time": "",
@@ -13657,7 +14339,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10058/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Parker's Grille & Ta"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10065",
@@ -13677,7 +14360,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10065/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Abington Depot"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10067",
@@ -13697,14 +14381,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10067/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Anne Arms Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10069",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Roost",
     "address": "",
-    "latitude": "53.38101175617066",
+    "latitude": "53.38101176",
     "longitude": "-6.592376232",
     "date": "",
     "time": "",
@@ -13717,14 +14402,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10069/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Roost"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10073",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Shepwells",
     "address": "Bilston Lane, Willenhall, Willenhall, WV13 2QF Tuesday Prizes, 1st place £25 voucher + 2nd place Bottle of wine | Free to play to play | Max 6 per team | Age 18++",
-    "latitude": "52.582995353388654",
+    "latitude": "52.58299535",
     "longitude": "-2.043163089",
     "date": "27-Jan-26",
     "time": "8.00pm",
@@ -13737,7 +14423,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10073/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Shepwells"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10094",
@@ -13757,14 +14444,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10094/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Red Willow Macclesfield"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10095",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Old Colliery",
     "address": "Wester Shawfair, Danderhall, Dalkeith, EH22 1FD 730 Tuesday 3 to play",
-    "latitude": "55.906523979639566",
+    "latitude": "55.90652398",
     "longitude": "-3.100719452",
     "date": "27-Jan-26",
     "time": "",
@@ -13777,7 +14465,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10095/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Old Colliery"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10099",
@@ -13797,7 +14486,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10099/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "McCafferty's Wafi"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10124",
@@ -13817,7 +14507,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10124/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Social 8"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10125",
@@ -13837,14 +14528,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10125/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Brewhouse Dis"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10126",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "",
     "address": "",
-    "latitude": "54.634616827774316",
+    "latitude": "54.63461683",
     "longitude": "-5.936661959",
     "date": "",
     "time": "",
@@ -13857,15 +14549,16 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10126/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10127",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Topgolf",
     "address": "",
-    "latitude": "25.08184813827713",
-    "longitude": "55.16055643558502",
+    "latitude": "25.08184814",
+    "longitude": "55.16055644",
     "date": "",
     "time": "",
     "repeat_day": "",
@@ -13877,7 +14570,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10127/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Topgolf"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10143",
@@ -13897,14 +14591,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10143/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "the Barn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10147",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Cooper Rose",
     "address": "2-4 Albion Place, Sunderland, SR1 3NG 20:00 Wednesday 21 Jan 2026Prizes, for 1st, 2nd and 3rd! | £1 to play | Age 18+",
-    "latitude": "54.90344750232229",
+    "latitude": "54.9034475",
     "longitude": "-1.387820542",
     "date": "21-Jan-26",
     "time": "20:00",
@@ -13917,14 +14612,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10147/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Cooper Rose"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10156",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Fox Inn, Stourton",
     "address": "Stourton, Bridgnorth Road, The Fox Inn, Stourton, DY7 5BL 19:00 Sunday 25 Jan 2026Prizes, £50 1st Prize and more..... | £3.50 to play | Max 6 per team | Age 18+",
-    "latitude": "52.46559740000001",
+    "latitude": "52.4655974",
     "longitude": "-2.2343757",
     "date": "25-Jan-26",
     "time": "19:00",
@@ -13937,7 +14633,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10156/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Fox Inn, Stourton"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10172",
@@ -13957,7 +14654,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10172/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Peggy Kelly's"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10177",
@@ -13977,7 +14675,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10177/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Hops and Berry"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10178",
@@ -13985,7 +14684,7 @@ window.eventsData = [
     "venue_name": "Snooty Fox",
     "address": "",
     "latitude": "24.455119",
-    "longitude": "54.39463250000001",
+    "longitude": "54.3946325",
     "date": "",
     "time": "",
     "repeat_day": "",
@@ -13997,14 +14696,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10178/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Snooty Fox"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10191",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Boat House",
     "address": "Ferry Road, Irlam, Manchester, M44 6DN Wednesday Prizes, £50 in vouchers - Spot Prizes and a Jackpot Game u | Free to play | Age 18+",
-    "latitude": "53.44604649925115",
+    "latitude": "53.4460465",
     "longitude": "-2.412089109",
     "date": "21-Jan-26",
     "time": "8:30pm",
@@ -14017,7 +14717,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10191/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Boat House"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10194",
@@ -14037,7 +14738,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10194/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Wednesday"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10200",
@@ -14057,14 +14759,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10200/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Spyglass and Kettle"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10205",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Royal Oak",
     "address": "Manor Lane, Halesowen, B62 8PZ 19:00 Sunday 1 Feb 2026Prizes, Bar Tab & Prizes To Be Won | FREE to play | Max 8 per team",
-    "latitude": "52.45426702519363",
+    "latitude": "52.45426703",
     "longitude": "-2.022653818",
     "date": "01-Feb-26",
     "time": "19:00",
@@ -14077,7 +14780,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10205/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Royal Oak"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10212",
@@ -14097,7 +14801,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10212/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "ChaserZ"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10214",
@@ -14117,7 +14822,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10214/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "McGettigan's Production Cit"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10222",
@@ -14137,7 +14843,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10222/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10223",
@@ -14157,7 +14864,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10223/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Red Lion Askern"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10224",
@@ -14177,7 +14885,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10224/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Bechers Brook"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10225",
@@ -14197,7 +14906,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10225/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Fisherman"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10227",
@@ -14217,14 +14927,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10227/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "New Line Pub"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10232",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Cold Town House",
     "address": "4 Grassmarket, Edinburgh, EH1 2JU Wednesday Prizes, £50 voucher for winner, 2nd- £30 voucher, 3rd- 6 p | FREE to play | Max N/ per team | Age 18+",
-    "latitude": "55.947355515978515",
+    "latitude": "55.94735552",
     "longitude": "-3.197815418",
     "date": "21-Jan-26",
     "time": "8pm",
@@ -14237,7 +14948,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10232/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Cold Town House"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10238",
@@ -14257,7 +14969,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10238/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Bar Home"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10243",
@@ -14277,7 +14990,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10243/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Flaherty's"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10249",
@@ -14297,7 +15011,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10249/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Classroom of Champions"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10254",
@@ -14317,7 +15032,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10254/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Church Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10257",
@@ -14337,7 +15053,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10257/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "TGI Fridays"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10263",
@@ -14357,14 +15074,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10263/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Red Bull"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10273",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "",
     "address": "",
-    "latitude": "51.88554443871161",
+    "latitude": "51.88554444",
     "longitude": "-8.499888182",
     "date": "",
     "time": "",
@@ -14377,14 +15095,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10273/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10274",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "",
     "address": "",
-    "latitude": "51.913038050056876",
+    "latitude": "51.91303805",
     "longitude": "-8.171440959",
     "date": "",
     "time": "",
@@ -14397,7 +15116,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10274/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10279",
@@ -14417,14 +15137,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10279/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Elizabethan"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10286",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Horseshoe Sywel",
     "address": "2 Overstone Road, The Horseshoe, Sywell, NN6 0AW Tuesday Prizes, Bar Tab | £1 per player to play | Max 6 per team | Age 15+",
-    "latitude": "52.29765376727593",
+    "latitude": "52.29765377",
     "longitude": "-0.79898715",
     "date": "27-Jan-26",
     "time": "8pm",
@@ -14437,7 +15158,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10286/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Horseshoe Sywel"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10288",
@@ -14457,14 +15179,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10288/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Zephyr"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10298",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Friendly Bar",
     "address": "",
-    "latitude": "37.941942043967785",
+    "latitude": "37.94194204",
     "longitude": "-0.725682999",
     "date": "",
     "time": "",
@@ -14477,7 +15200,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10298/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Friendly Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10299",
@@ -14497,14 +15221,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10299/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Casa Video & F"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10313",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Leaping Salmon",
     "address": "",
-    "latitude": "51.896989930725624",
+    "latitude": "51.89698993",
     "longitude": "-8.415644023",
     "date": "",
     "time": "",
@@ -14517,14 +15242,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10313/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Leaping Salmon"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10322",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Sport Relax Centrum",
     "address": "",
-    "latitude": "49.29604639999999",
+    "latitude": "49.2960464",
     "longitude": "20.6829797",
     "date": "",
     "time": "",
@@ -14537,7 +15263,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10322/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Sport Relax Centrum"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10329",
@@ -14557,14 +15284,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10329/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Peppi's Bar & Grill"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10330",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Ivy Bar",
     "address": "",
-    "latitude": "37.94202091039195",
+    "latitude": "37.94202091",
     "longitude": "-0.725178123",
     "date": "22-Jan-26",
     "time": "20:00",
@@ -14577,7 +15305,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10330/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Ivy Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10331",
@@ -14597,7 +15326,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10331/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Cross Keys"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10335",
@@ -14617,14 +15347,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10335/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10347",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Jolly Fenman",
     "address": "Blackfen Road, Sidcup, DA15 8SW Sunday Prizes, Cash | £3 to play | Max 6 per team | Age 18+",
-    "latitude": "51.45053770000001",
+    "latitude": "51.4505377",
     "longitude": "0.103035",
     "date": "01-Feb-26",
     "time": "7pm",
@@ -14637,7 +15368,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10347/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Jolly Fenman"
+    "Quiz rating": "#N/A",
+    "Host rating": "3"
   },
   {
     "event_id": "10349",
@@ -14657,7 +15389,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10349/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Stanhope Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10351",
@@ -14677,7 +15410,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10351/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Little Venice"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10363",
@@ -14697,14 +15431,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10363/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Ferryhill House SpeedQuiz"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10376",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Pier 5",
     "address": "Dock Head Road, Saint Mary's Island, Chatham, ME4 4ZL 7.30 Monday 26 Jan 2026Prizes, Cash | £3 to play | Max 6 per team",
-    "latitude": "51.40160100000001",
+    "latitude": "51.401601",
     "longitude": "0.5340864",
     "date": "26-Jan-26",
     "time": "7.3",
@@ -14717,7 +15452,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10376/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Pier 5"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10393",
@@ -14737,7 +15473,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10393/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Fox, Palmers Green"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10402",
@@ -14757,7 +15494,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10402/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Tuesdays"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10408",
@@ -14777,14 +15515,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10408/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Ingram Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10409",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "",
     "address": "",
-    "latitude": "52.383817929946304",
+    "latitude": "52.38381793",
     "longitude": "-2.236050328",
     "date": "",
     "time": "",
@@ -14797,7 +15536,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10409/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10410",
@@ -14817,14 +15557,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10410/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Big Fat Quiz of 2025"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10434",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "",
     "address": "Main Road, Hull, HU11 4AA Friday Prizes, tbc | 2.00 to play | Max 6 per team | Age 18+",
-    "latitude": "53.77905076994618",
+    "latitude": "53.77905077",
     "longitude": "-0.24790585",
     "date": "20-Feb-26",
     "time": "8:00pm",
@@ -14837,14 +15578,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10434/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10438",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Piper's Pub, Hoole",
     "address": "Hoole, Pipers Lane, Hoole, Chester, CH2 3LS Wednesday Prizes, £25 Bar Tab, a Bottle of Wine, and Open The Box! | £1 to play | Max 6 per team",
-    "latitude": "53.20321790556328",
+    "latitude": "53.20321791",
     "longitude": "-2.855994701",
     "date": "21-Jan-26",
     "time": "8pm",
@@ -14857,14 +15599,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10438/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Piper's Pub, Hoole"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10439",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Ruchita",
     "address": "10 Station Approach West, Earlswood, Redhill, RH1 6HP 19:30 Sunday 1 Feb 2026Free to play to play | Max 7 per team",
-    "latitude": "51.22756810000001",
+    "latitude": "51.2275681",
     "longitude": "-0.1713004",
     "date": "01-Feb-26",
     "time": "19:30",
@@ -14877,7 +15620,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10439/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Ruchita"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10451",
@@ -14897,14 +15641,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10451/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Thistle"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10455",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Bridge Inn",
     "address": "Dane Road, Sale, M33 7QH Wednesday Prizes, 1st - £20 Voucher 2nd - £10 Voucher 3rd - £10 BOGO | FREE to play | Max 6 per team | Age 18+",
-    "latitude": "53.43063771764487",
+    "latitude": "53.43063772",
     "longitude": "-2.313126326",
     "date": "21-Jan-26",
     "time": "8.00pm",
@@ -14917,7 +15662,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10455/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Bridge Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10465",
@@ -14937,7 +15683,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10465/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Keg & Barrel Brewing Comp"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10466",
@@ -14957,14 +15704,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10466/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10477",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "BOXPARK Liverpool",
     "address": "Brewery Village, Beaufort Street, Liverpool, L8 5XJ Thursday Prizes, 1st Place £50 Bar Tab £25 Bar Tab Runner Up Prize | Max 6 per team | Age 18+",
-    "latitude": "53.394017179163235",
+    "latitude": "53.39401718",
     "longitude": "-2.978404061",
     "date": "22-Jan-26",
     "time": "7pm",
@@ -14977,7 +15725,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10477/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "BOXPARK Liverpool"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10497",
@@ -14997,7 +15746,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10497/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Queens"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10499",
@@ -15017,15 +15767,16 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10499/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Phoenix Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10501",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Rainham Arms",
     "address": "120 Wakeley Road, Rainham, Gillingham, ME8 8NP 7.30 Thursday 22 Jan 2026Prizes, Cash | £3 to play | Max 6 per team",
-    "latitude": "51.36499449999999",
-    "longitude": "0.6215246999999999",
+    "latitude": "51.3649945",
+    "longitude": "0.6215247",
     "date": "22-Jan-26",
     "time": "7.3",
     "repeat_day": "Thursday",
@@ -15037,7 +15788,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10501/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Rainham Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10502",
@@ -15057,14 +15809,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10502/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Personal Best"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10510",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "B Rox Painesville",
     "address": "",
-    "latitude": "41.68709820000001",
+    "latitude": "41.6870982",
     "longitude": "-81.2898952",
     "date": "",
     "time": "",
@@ -15077,7 +15830,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10510/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "B Rox Painesville"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10519",
@@ -15097,7 +15851,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10519/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Dead Low Brewery"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10520",
@@ -15117,7 +15872,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10520/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "LSB Business Bay"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10523",
@@ -15137,14 +15893,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10523/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10524",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Knights Table",
     "address": "Knight Stainforth Hall, Little Stainforth, Settle, BD24 0DP Friday Prizes, Food & Drink Vouchers | Free to play | Max 6 per team | Age None+",
-    "latitude": "54.09996971592612",
+    "latitude": "54.09996972",
     "longitude": "-2.285102822",
     "date": "30-Jan-26",
     "time": "8:30pm",
@@ -15157,14 +15914,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10524/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Knights Table"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10537",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Sunday",
     "address": "",
-    "latitude": "53.56917379999999",
+    "latitude": "53.5691738",
     "longitude": "-2.3116753",
     "date": "",
     "time": "",
@@ -15177,7 +15935,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10537/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Sunday"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10539",
@@ -15197,7 +15956,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10539/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "EIGHTEEN 08"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10542",
@@ -15217,7 +15977,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10542/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Oktogon"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10543",
@@ -15237,7 +15998,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10543/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Swatters Carr"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10550",
@@ -15257,14 +16019,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10550/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "McHenry VFW Post #4600"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10556",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Catchpenny",
     "address": "Lane End, Fitzwilliam, Pontefract, WF9 5AZ Sunday Free to play to play",
-    "latitude": "53.63724689886926",
+    "latitude": "53.6372469",
     "longitude": "-1.380672455",
     "date": "25-Jan-26",
     "time": "8pm",
@@ -15277,7 +16040,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10556/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Catchpenny"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10563",
@@ -15297,7 +16061,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10563/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "La Cantina"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10569",
@@ -15317,14 +16082,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10569/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Skogen"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10579",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Welles & Cross",
     "address": "17 Welles Street, Welles & Cross, Sandbach, CW11 1GT Wednesday",
-    "latitude": "53.14525099999999",
+    "latitude": "53.145251",
     "longitude": "-2.3641037",
     "date": "21-Jan-26",
     "time": "7:30pm",
@@ -15337,7 +16103,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10579/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Welles & Cross"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10592",
@@ -15357,7 +16124,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10592/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "David Lloyd"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10614",
@@ -15377,7 +16145,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10614/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Black Banks Bar & Grill"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10620",
@@ -15397,7 +16166,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10620/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Generous Briton"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10632",
@@ -15417,14 +16187,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10632/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Solomons Tap Room"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10642",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Corner Flag",
     "address": "",
-    "latitude": "38.06021399999999",
+    "latitude": "38.060214",
     "longitude": "-0.783485",
     "date": "",
     "time": "",
@@ -15437,14 +16208,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10642/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Corner Flag"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10655",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Crows Nest",
     "address": "Moorfield Road, Widnes, WA8 3HU Tuesday",
-    "latitude": "53.38013489999999",
+    "latitude": "53.3801349",
     "longitude": "-2.7102466",
     "date": "27-Jan-26",
     "time": "8:30pm",
@@ -15457,7 +16229,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10655/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Crows Nest"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10662",
@@ -15477,7 +16250,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10662/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Stack Lincoln"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10665",
@@ -15497,14 +16271,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10665/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "New Florence"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10667",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Haymarket",
     "address": "84 Royal Avenue, Belfast, BT1 1DJ 2000 Wednesday Prizes, vouchers and drinks | free to play | Max 6 per team | Age 18++",
-    "latitude": "54.601959184097886",
+    "latitude": "54.60195918",
     "longitude": "-5.931705236",
     "date": "21-Jan-26",
     "time": "",
@@ -15517,14 +16292,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10667/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Haymarket"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10684",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "",
     "address": "57-59 Stockport Road East, Bredbury, Stockport, SK6 2AA 19:30 Wednesday 21 Jan 2026Prizes, 1st £20 bar tab, 2nd £10 bar tab | 0 to play | Max 6 per team | Age 18+",
-    "latitude": "53.423484252643895",
+    "latitude": "53.42348425",
     "longitude": "-2.110404968",
     "date": "21-Jan-26",
     "time": "19:30",
@@ -15537,7 +16313,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10684/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10718",
@@ -15557,7 +16334,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10718/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Kingpins Bowl"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10732",
@@ -15577,7 +16355,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10732/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Sun"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10737",
@@ -15597,7 +16376,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10737/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Hot Rod Diner"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10746",
@@ -15617,14 +16397,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10746/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "B Rox Highland Heights"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10769",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Wednesday",
     "address": "",
-    "latitude": "53.53802409999999",
+    "latitude": "53.5380241",
     "longitude": "-2.1509712",
     "date": "",
     "time": "",
@@ -15637,7 +16418,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10769/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Wednesday"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10772",
@@ -15657,14 +16439,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10772/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Red's Kitchen + T"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10789",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Reardens",
     "address": "",
-    "latitude": "51.89742409999999",
+    "latitude": "51.8974241",
     "longitude": "-8.4780317",
     "date": "",
     "time": "",
@@ -15677,7 +16460,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10789/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Reardens"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10791",
@@ -15697,7 +16481,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10791/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Noir Hampton"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10792",
@@ -15717,7 +16502,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10792/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Growler Stop"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10793",
@@ -15737,7 +16523,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10793/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Old Farmhouse"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10806",
@@ -15757,14 +16544,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10806/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Wild Goose Saloon"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10819",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Chlachain Inn",
     "address": "",
-    "latitude": "57.004826965012086",
+    "latitude": "57.00482697",
     "longitude": "-5.829416513",
     "date": "22-Jan-26",
     "time": "8.3",
@@ -15777,14 +16565,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10819/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Chlachain Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10822",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Amber rooms",
     "address": "The Rushes, Loughborough, LE11 5BE 2000 Thursday £5 to play | Age 18+",
-    "latitude": "52.77373232566073",
+    "latitude": "52.77373233",
     "longitude": "-1.209365129",
     "date": "22-Jan-26",
     "time": "",
@@ -15797,14 +16586,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10822/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Amber rooms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10833",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Tree house",
     "address": "The Tree House, Gas Street Car Park, Haworth, BD22 8NQ 20:00 Tuesday 27 Jan 2026Prizes, 20 | 0 to play | Max 6 per team | Age 18+",
-    "latitude": "53.83074431977426",
+    "latitude": "53.83074432",
     "longitude": "-1.947788",
     "date": "27-Jan-26",
     "time": "20:00",
@@ -15817,15 +16607,16 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10833/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Tree house"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10839",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Coachworks Ashford",
     "address": "",
-    "latitude": "51.144853924700904",
-    "longitude": "0.8753228187561035",
+    "latitude": "51.14485392",
+    "longitude": "0.875322819",
     "date": "",
     "time": "",
     "repeat_day": "",
@@ -15837,7 +16628,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10839/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Coachworks Ashford"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10844",
@@ -15857,7 +16649,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10844/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Alp & Horn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10852",
@@ -15877,7 +16670,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10852/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Spacebar Cocktails & Arcade"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10857",
@@ -15897,7 +16691,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10857/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Main St. Pub"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10858",
@@ -15917,14 +16712,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10858/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Rose Orchard Kings Head"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10869",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "THE SANDBROOK",
     "address": "Sandbrook Way, Sandbrook Park, Rochdale, OL11 1RY 8.00 Thursday 29 Jan 2026Prizes, £20 voucher 2 x £10 voucher | FREE to play | Age 18+",
-    "latitude": "53.60084583449567",
+    "latitude": "53.60084583",
     "longitude": "-2.163426876",
     "date": "29-Jan-26",
     "time": "8",
@@ -15937,7 +16733,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10869/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "THE SANDBROOK"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10871",
@@ -15957,7 +16754,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10871/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Up In Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10875",
@@ -15977,7 +16775,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10875/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Thirtsy Beaver Smithfield"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10886",
@@ -15985,7 +16784,7 @@ window.eventsData = [
     "venue_name": "Waggon at Hale",
     "address": "179 Capstone Road, Wagon At Hale, Chatham, ME5 7PP 7.30 Thursday 22 Jan 2026Prizes, Cash | £3 to play | Max 6 per team",
     "latitude": "51.3630546",
-    "longitude": "0.5550092999999999",
+    "longitude": "0.5550093",
     "date": "22-Jan-26",
     "time": "7.3",
     "repeat_day": "Thursday",
@@ -15997,14 +16796,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10886/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Waggon at Hale"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10899",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Bowery",
     "address": "701 Lisburn Road, Belfast, BT9 7GU Wednesday Prizes, Top 3 Prizes and Second from Bottom !!! | Free to play",
-    "latitude": "54.572447248969944",
+    "latitude": "54.57244725",
     "longitude": "-5.960329771",
     "date": "21-Jan-26",
     "time": "8.00pm",
@@ -16017,14 +16817,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10899/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Bowery"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10901",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Belfry Bar",
     "address": "",
-    "latitude": "54.27106044911667",
+    "latitude": "54.27106045",
     "longitude": "-8.471290469",
     "date": "",
     "time": "",
@@ -16037,7 +16838,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10901/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Belfry Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10905",
@@ -16057,7 +16859,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10905/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10907",
@@ -16077,7 +16880,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10907/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10912",
@@ -16097,7 +16901,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10912/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Quizz Night at Temper & Brown"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10913",
@@ -16117,7 +16922,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10913/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Kesgrave Bell"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10915",
@@ -16137,7 +16943,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10915/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Twelve Cafe Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10916",
@@ -16157,7 +16964,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10916/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Black Boy"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10918",
@@ -16177,14 +16985,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10918/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Roundup"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10923",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "",
     "address": "The Swan Public House, Grendon Underwood, Aylesbury, HP18 0SW Wednesday Prizes, TBC | £3 to play | Age 16+",
-    "latitude": "51.88010727823484",
+    "latitude": "51.88010728",
     "longitude": "-1.007963419",
     "date": "21-Jan-26",
     "time": "8pm",
@@ -16197,14 +17006,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10923/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10931",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Jolly Butcher",
     "address": "40 Petersfield Drive, Jolly Butcher, Manchester, M23 9PS Thursday Prizes, Cash prizes from pool of entry fees. More players, | £2 to play | Age 18+",
-    "latitude": "53.39977927788366",
+    "latitude": "53.39977928",
     "longitude": "-2.303346653",
     "date": "22-Jan-26",
     "time": "8pm",
@@ -16217,14 +17027,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10931/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Jolly Butcher"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10932",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "",
     "address": "",
-    "latitude": "54.79874912160125",
+    "latitude": "54.79874912",
     "longitude": "-7.781635523",
     "date": "",
     "time": "",
@@ -16237,7 +17048,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10932/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10934",
@@ -16257,7 +17069,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10934/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "PINZ"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10945",
@@ -16277,7 +17090,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10945/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Townley arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10949",
@@ -16297,7 +17111,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10949/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Black Board Congamond"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10960",
@@ -16317,14 +17132,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10960/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Chel\\u00f3na Bar (RAF Akrotiri)"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10962",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Hop Shoppe",
     "address": "",
-    "latitude": "53.75187963473586",
+    "latitude": "53.75187963",
     "longitude": "-3.02814424",
     "date": "",
     "time": "",
@@ -16337,14 +17153,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10962/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Hop Shoppe"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10965",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "moorland inn",
     "address": "",
-    "latitude": "53.04573019999999",
+    "latitude": "53.0457302",
     "longitude": "-2.1967011",
     "date": "",
     "time": "",
@@ -16357,14 +17174,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10965/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "moorland inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10976",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Fontygary Inn",
     "address": "Fonmon Road, Rhoose, Barry, CF62 3DZ Wednesday",
-    "latitude": "51.386700265742434",
+    "latitude": "51.38670027",
     "longitude": "-3.36435914",
     "date": "21-Jan-26",
     "time": "8:30pm",
@@ -16377,7 +17195,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10976/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Fontygary Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10979",
@@ -16397,14 +17216,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10979/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Tommy Do"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10980",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Holme Hall Inn",
     "address": "Linacre Road, Chesterfield, S40 4UX 8.30 Thursday 22 Jan 2026Prizes, Cash | £1 to play | Max 4 per team",
-    "latitude": "53.24755599954781",
+    "latitude": "53.247556",
     "longitude": "-1.471277475",
     "date": "22-Jan-26",
     "time": "8.3",
@@ -16417,7 +17237,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10980/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Holme Hall Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10983",
@@ -16437,7 +17258,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10983/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Oakbrook Brewing Comapany"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10992",
@@ -16457,7 +17279,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10992/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Partridge"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "10995",
@@ -16477,7 +17300,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/10995/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Black Lion"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11005",
@@ -16497,14 +17321,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11005/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Route 66"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11007",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Catch Corner",
     "address": "Acton Gate, Wolverhampton Road, Stafford, ST18 9AP Friday Prizes, 1st £15 2nd £10 | FREE to play | Age 0 - +",
-    "latitude": "52.76537100040069",
+    "latitude": "52.765371",
     "longitude": "-2.107301356",
     "date": "23-Jan-26",
     "time": "8pm",
@@ -16517,7 +17342,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11007/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Catch Corner"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11014",
@@ -16537,14 +17363,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11014/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Grey Man"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11033",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Taylor's Bar",
     "address": "",
-    "latitude": "53.27019730000001",
+    "latitude": "53.2701973",
     "longitude": "-9.0583436",
     "date": "",
     "time": "",
@@ -16557,7 +17384,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11033/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Taylor's Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11044",
@@ -16577,14 +17405,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11044/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Wee Rock Cafe"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11059",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "London Bridge",
     "address": "163 London Road, Appleton Thorn, Warrington, WA4 5BG 8.30 Sunday 25 Jan 2026",
-    "latitude": "53.36724170000001",
+    "latitude": "53.3672417",
     "longitude": "-2.5788438",
     "date": "25-Jan-26",
     "time": "8.3",
@@ -16597,7 +17426,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11059/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "London Bridge"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11062",
@@ -16617,7 +17447,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11062/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "St James' Stack"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11065",
@@ -16637,7 +17468,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11065/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Seven Bro7hers Media City"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11070",
@@ -16657,14 +17489,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11070/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "O\\u2019Dwyers Bar and Restaurant"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11076",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Lina's Lounge",
     "address": "",
-    "latitude": "42.50916931804529",
+    "latitude": "42.50916932",
     "longitude": "-90.74247837",
     "date": "",
     "time": "",
@@ -16677,15 +17510,16 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11076/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Lina's Lounge"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11077",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Grain and Hop Store",
     "address": "The Grain and Hop Store, Regent Street, Cambridge, CB2 1AB 20:00 Thursday 22 Jan 2026Prizes, Prizes for 1st, 2nd and 3rd Place | Free to play",
-    "latitude": "52.20062055408524",
-    "longitude": "0.12632131576538086",
+    "latitude": "52.20062055",
+    "longitude": "0.126321316",
     "date": "22-Jan-26",
     "time": "20:00",
     "repeat_day": "Thursday",
@@ -16697,7 +17531,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11077/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Grain and Hop Store"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11078",
@@ -16717,7 +17552,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11078/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Conrad's"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11080",
@@ -16737,14 +17573,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11080/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Stockburger"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11085",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Main St Tavern",
     "address": "",
-    "latitude": "42.09622540000001",
+    "latitude": "42.0962254",
     "longitude": "-72.3123374",
     "date": "",
     "time": "",
@@ -16757,7 +17594,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11085/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Main St Tavern"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11094",
@@ -16777,7 +17615,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11094/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Nation of Shopkeepers"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11098",
@@ -16797,7 +17636,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11098/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Jimmy's Pub"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11108",
@@ -16817,7 +17657,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11108/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Lord Kitchener"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11109",
@@ -16837,7 +17678,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11109/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Quiz Night at Bar Carouse"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11130",
@@ -16857,7 +17699,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11130/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Village Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11131",
@@ -16877,14 +17720,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11131/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Angelic"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11138",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Stagborough Arms",
     "address": "81 Lower Lickhill Road, Stourport-on-Severn, DY13 8UQ 7:00 Wednesday 21 Jan 2026£5 per team to play | Max 4 per team",
-    "latitude": "52.34646129999999",
+    "latitude": "52.3464613",
     "longitude": "-2.2919266",
     "date": "21-Jan-26",
     "time": "07:00",
@@ -16897,14 +17741,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11138/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Stagborough Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11142",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Newton Arms",
     "address": "Sprotbrough Road, Doncaster, DN5 8BP 7.30 Thursday 22 Jan 2026Prizes, Cash | £1 to play | Max 4 per team",
-    "latitude": "53.52316607490107",
+    "latitude": "53.52316607",
     "longitude": "-1.160259247",
     "date": "22-Jan-26",
     "time": "7.3",
@@ -16917,7 +17762,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11142/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Newton Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11143",
@@ -16937,7 +17783,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11143/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Brass Fox"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11150",
@@ -16957,7 +17804,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11150/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "THE OLD BANK YORK"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11153",
@@ -16977,7 +17825,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11153/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Bull Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11154",
@@ -16997,14 +17846,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11154/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Moreton Hall Community Cent"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11157",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Mabel Lane",
     "address": "",
-    "latitude": "51.814057093409225",
+    "latitude": "51.81405709",
     "longitude": "-8.392396368",
     "date": "",
     "time": "",
@@ -17017,14 +17867,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11157/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Mabel Lane"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11163",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The White Hart",
     "address": "170 Hyde Road, Woodley, Stockport, SK6 1NP Monday Prizes, 1st place: £10 bar spend, 2nd place £5 bar spend | Free to play | Max 6 per team | Age 18+",
-    "latitude": "53.42791455651978",
+    "latitude": "53.42791456",
     "longitude": "-2.095534801",
     "date": "26-Jan-26",
     "time": "8pm",
@@ -17037,7 +17888,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11163/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The White Hart"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11164",
@@ -17057,7 +17909,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11164/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Royal Oak Brampton"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11171",
@@ -17077,7 +17930,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11171/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Seven Bro7hers Ancoats"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11174",
@@ -17097,7 +17951,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11174/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Strand House - Fairview"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11182",
@@ -17117,7 +17972,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11182/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Vintage Claret"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11184",
@@ -17137,7 +17993,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11184/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Rhythm and Brews"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11189",
@@ -17157,7 +18014,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11189/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Hot Rod Diner"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11193",
@@ -17177,7 +18035,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11193/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "BOXPARK Camden"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11201",
@@ -17187,7 +18046,7 @@ window.eventsData = [
     "latitude": "53.3738107",
     "longitude": "-6.2690953",
     "date": "21-Jan-26",
-    "time": "09.00",
+    "time": "9",
     "repeat_day": "Wednesday",
     "host_name": "Peter Kearney",
     "price": "",
@@ -17197,7 +18056,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11201/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Tolka House"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11216",
@@ -17217,14 +18077,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11216/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Solution Tavern"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11227",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Happy's",
     "address": "149 Lisburn Road, Belfast, BT9 7AJ Sunday Prizes, Prizes for the Top 3! | Free Entry to play",
-    "latitude": "54.58335118809557",
+    "latitude": "54.58335119",
     "longitude": "-5.945084095",
     "date": "01-Feb-26",
     "time": "8.00pm",
@@ -17237,14 +18098,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11227/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Happy's"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11228",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Punchbowl, Stongate",
     "address": "Stonegate, 7 Stonegate, York, YO1 8AN Tuesday Prizes, Vouchers | £2 to play | Max NA per team | Age 18+",
-    "latitude": "53.96056730000001",
+    "latitude": "53.9605673",
     "longitude": "-1.0837921",
     "date": "27-Jan-26",
     "time": "8pm",
@@ -17257,14 +18119,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11228/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Punchbowl, Stongate"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11234",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "CROWN POWICK - LAST SUNDAY OF THE MONTH",
     "address": "",
-    "latitude": "52.15736108468757",
+    "latitude": "52.15736108",
     "longitude": "-2.263977528",
     "date": "",
     "time": "",
@@ -17277,7 +18140,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11234/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "CROWN POWICK - LAST SUNDAY OF THE MONTH"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11235",
@@ -17297,7 +18161,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11235/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Flying Hors"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11241",
@@ -17317,7 +18182,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11241/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Jolly Fenman"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11242",
@@ -17337,7 +18203,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11242/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Wealden Hall"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11245",
@@ -17357,7 +18224,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11245/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Ships an"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11249",
@@ -17377,7 +18245,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11249/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Red Rose"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11257",
@@ -17397,7 +18266,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11257/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Danny Mac\\u2019s Tavern"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11267",
@@ -17417,14 +18287,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11267/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Willow"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11275",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Quiz Night at Wythall Community Club",
     "address": "52 Silver Street, Wythall, Birmingham, B47 6LZ Wednesday Prizes, 1st, 2nd and 3rd places | £6 per team to play | Max 6 per team | Age 12+",
-    "latitude": "52.38396243699839",
+    "latitude": "52.38396244",
     "longitude": "-1.888457537",
     "date": "21-Jan-26",
     "time": "8.00pm",
@@ -17437,7 +18308,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11275/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Quiz Night at Wythall Community Club"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11284",
@@ -17457,14 +18329,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11284/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Battle Standard"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11286",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Terrace",
     "address": "17 New Street, York, YO1 8RA Sunday Prizes, £50 | Free to play to play | Max N/ per team | Age 18+",
-    "latitude": "53.95926559999999",
+    "latitude": "53.9592656",
     "longitude": "-1.0838058",
     "date": "25-Jan-26",
     "time": "7pm",
@@ -17477,7 +18350,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11286/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Terrace"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11290",
@@ -17497,7 +18371,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11290/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Lanigans Irish Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11291",
@@ -17517,7 +18392,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11291/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "BC Pizza"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11303",
@@ -17537,7 +18413,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11303/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Dunscar Golf Club"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11313",
@@ -17557,7 +18434,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11313/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Winning Post"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11319",
@@ -17577,14 +18455,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11319/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Crue Brew Brewery"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11320",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "",
     "address": "",
-    "latitude": "37.930193431164646",
+    "latitude": "37.93019343",
     "longitude": "-0.766403675",
     "date": "",
     "time": "",
@@ -17597,7 +18476,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11320/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11323",
@@ -17605,7 +18485,7 @@ window.eventsData = [
     "venue_name": "Druids Arms",
     "address": "24 Earl Street, Maidstone, ME14 1PP Tuesday Prizes, Cash | £3 to play | Max 6 per team",
     "latitude": "51.2749816",
-    "longitude": "0.5217833000000001",
+    "longitude": "0.5217833",
     "date": "27-Jan-26",
     "time": "8pm",
     "repeat_day": "Tuesday",
@@ -17617,14 +18497,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11323/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Druids Arms"
+    "Quiz rating": "5",
+    "Host rating": "5"
   },
   {
     "event_id": "11328",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "",
     "address": "Hatfield, The Red Lion, 89 Great North Road, Hatfield, AL9 5EU Thursday Prizes, 50% to charity, 50% split between top 2 teams | £4 to play | Max 6 per team | Age 18+",
-    "latitude": "51.77036469999999",
+    "latitude": "51.7703647",
     "longitude": "-0.216558",
     "date": "19-Feb-26",
     "time": "8:00pm",
@@ -17637,14 +18518,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11328/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11331",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Three Bridges",
     "address": "80-83 North Road, Durham, DH1 4SQ Monday Prizes, Bar Tab | Free to play | Max N/ per team | Age 18+",
-    "latitude": "54.776687005592336",
+    "latitude": "54.77668701",
     "longitude": "-1.579667539",
     "date": "26-Jan-26",
     "time": "7pm",
@@ -17657,7 +18539,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11331/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Three Bridges"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11332",
@@ -17677,15 +18560,16 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11332/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Royal London"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11333",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Presko\\u010d m\\u00far",
     "address": "",
-    "latitude": "49.304232145157776",
-    "longitude": "21.282963752746582",
+    "latitude": "49.30423215",
+    "longitude": "21.28296375",
     "date": "21-Jan-26",
     "time": "18:30",
     "repeat_day": "Wednesday",
@@ -17697,7 +18581,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11333/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Presko\\u010d m\\u00far"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11335",
@@ -17717,7 +18602,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11335/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Delaney House"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11341",
@@ -17737,14 +18623,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11341/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "MotoSonora Brewing Company"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11344",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Borderlands Brewing Sam Hug",
     "address": "",
-    "latitude": "32.227545953450594",
+    "latitude": "32.22754595",
     "longitude": "-110.9351668",
     "date": "21-Jan-26",
     "time": "06:30",
@@ -17757,7 +18644,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11344/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Borderlands Brewing Sam Hug"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11349",
@@ -17777,14 +18665,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11349/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "SpeedQuzzing with Monroe's Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11364",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Cawthorne Bottom Club BC",
     "address": "10 Tivy Dale, Cawthorne, Barnsley, S75 4EY Friday Prizes, Bar Tab | 2 to play | Max 4 per team | Age 18+",
-    "latitude": "53.56688565998377",
+    "latitude": "53.56688566",
     "longitude": "-1.575314999",
     "date": "30-Jan-26",
     "time": "7.30pm",
@@ -17797,15 +18686,16 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11364/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Cawthorne Bottom Club BC"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11366",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The BayTree (Pissouri)",
     "address": "",
-    "latitude": "34.65102845658514",
-    "longitude": "32.72397128146668",
+    "latitude": "34.65102846",
+    "longitude": "32.72397128",
     "date": "22-Jan-26",
     "time": "20:00",
     "repeat_day": "Thursday",
@@ -17817,7 +18707,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11366/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The BayTree (Pissouri)"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11367",
@@ -17837,14 +18728,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11367/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Piv\\u00e1re\\u0148 Gar\\u017eo\\u013e"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11369",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Against The Brain Quiz",
     "address": "Unit 3, Swinnow Grange Mill, Stanningley, Bramley, Leeds, LS13 4EP 19:30 Tuesday 27 Jan 2026Prizes, £50 | £10 per team inclusive of to play | Max 6 per team | Age 18+",
-    "latitude": "53.80743657557544",
+    "latitude": "53.80743658",
     "longitude": "-1.648195982",
     "date": "27-Jan-26",
     "time": "19:30",
@@ -17857,7 +18749,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11369/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Against The Brain Quiz"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11378",
@@ -17877,14 +18770,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11378/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Towne Tavern & Tr"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11386",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Sypanec kv\\u00edz",
     "address": "",
-    "latitude": "49.19715619999999",
+    "latitude": "49.1971562",
     "longitude": "21.2751099",
     "date": "29-Jan-26",
     "time": "18:00",
@@ -17897,7 +18791,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11386/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Sypanec kv\\u00edz"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11391",
@@ -17917,14 +18812,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11391/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Revels"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11402",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "tipple.",
     "address": "61 King Street, Lancaster, LA1 1RE 20:30 Monday 26 Jan 2026Prizes, £20 Bar Tabs | 0 to play | Max 6 per team | Age 18+",
-    "latitude": "54.04726390857421",
+    "latitude": "54.04726391",
     "longitude": "-2.801524401",
     "date": "26-Jan-26",
     "time": "20:30",
@@ -17937,7 +18833,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11402/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "tipple."
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11418",
@@ -17957,14 +18854,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11418/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11430",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Corner Lounge",
     "address": "629 Liverpool Road, Irlam, Manchester, M44 5BE 8.00 Thursday 22 Jan 2026Prizes, £35 Bar Tab | £1 Per Person to play | Max 8 per team | Age 18+",
-    "latitude": "53.43637709999999",
+    "latitude": "53.4363771",
     "longitude": "-2.4293418",
     "date": "22-Jan-26",
     "time": "8",
@@ -17977,14 +18875,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11430/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Corner Lounge"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11434",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Mitre",
     "address": "Shipton Road, Rawcliffe, York, YO30 5XF 20:00 Tuesday 27 Jan 2026Prizes, £30 bar tab, Round of shots, Bottle of house wine | £2 to play",
-    "latitude": "53.98326002849418",
+    "latitude": "53.98326003",
     "longitude": "-1.117512882",
     "date": "27-Jan-26",
     "time": "20:00",
@@ -17997,7 +18896,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11434/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Mitre"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11459",
@@ -18017,7 +18917,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11459/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The City Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11465",
@@ -18037,7 +18938,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11465/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Harveys Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11470",
@@ -18057,7 +18959,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11470/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Bar 3"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11471",
@@ -18077,7 +18980,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11471/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Bradys Terenure"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11474",
@@ -18097,7 +19001,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11474/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Dockyard Social"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11483",
@@ -18117,7 +19022,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11483/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "St. Williams C"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11484",
@@ -18137,7 +19043,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11484/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Ma Boyles"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11498",
@@ -18157,7 +19064,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11498/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Hatfield Chace"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11510",
@@ -18177,7 +19085,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11510/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Courtyard Leixlip"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11511",
@@ -18197,7 +19106,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11511/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Doody\\u2019s Totoket Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11521",
@@ -18217,7 +19127,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11521/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Voltron Brewing Taproom"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11532",
@@ -18225,7 +19136,7 @@ window.eventsData = [
     "venue_name": "Fox & Hounds",
     "address": "Barton Road, Thurston, Bury Saint Edmunds, IP31 3QT 7.30 Sunday 25 Jan 20263 to play | Max 6 per team | Age 18+",
     "latitude": "52.2503836",
-    "longitude": "0.8073138999999999",
+    "longitude": "0.8073139",
     "date": "25-Jan-26",
     "time": "7.3",
     "repeat_day": "Sunday",
@@ -18237,7 +19148,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11532/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Fox & Hounds"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11539",
@@ -18257,7 +19169,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11539/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Bridle Path, Whickham"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11545",
@@ -18277,7 +19190,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11545/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Horn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11548",
@@ -18297,14 +19211,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11548/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Three Canyon Beer & Wine Ga"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11557",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Velvet Coaster",
     "address": "501-507 Promenade, Blackpool, FY4 1BA Thursday Prizes, 1st: £30 bar tab, 2nd: Cocktail pitcher of choice, | £1 to charity to play | Max 6 per team | Age 16++",
-    "latitude": "53.79484627028821",
+    "latitude": "53.79484627",
     "longitude": "-3.05603385",
     "date": "22-Jan-26",
     "time": "8pm",
@@ -18317,7 +19232,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11557/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Velvet Coaster"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11559",
@@ -18337,7 +19253,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11559/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Lockoford Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11561",
@@ -18357,7 +19274,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11561/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Monday Trivia Night"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11571",
@@ -18377,14 +19295,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11571/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Junction"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11573",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Grosvenor Manchester",
     "address": "Grosvenor Street/Oxford Road, Manchester, M1 7DZ 8.30 Monday 26 Jan 2026Prizes, Winner - £50 bar tab | 2nd - Your height in beer : | FREE to play | Max op per team | Age 18++",
-    "latitude": "53.47018935851614",
+    "latitude": "53.47018936",
     "longitude": "-2.237037639",
     "date": "26-Jan-26",
     "time": "8.3",
@@ -18397,7 +19316,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11573/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Grosvenor Manchester"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11575",
@@ -18417,14 +19337,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11575/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11576",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Lake Life Brewery",
     "address": "",
-    "latitude": "42.65832150000001",
+    "latitude": "42.6583215",
     "longitude": "-77.0553716",
     "date": "",
     "time": "",
@@ -18437,7 +19358,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11576/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Lake Life Brewery"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11595",
@@ -18457,7 +19379,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11595/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Merchant"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11603",
@@ -18477,7 +19400,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11603/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Peacock"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11611",
@@ -18497,7 +19421,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11611/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Goose Wolverhampton"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11624",
@@ -18517,7 +19442,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11624/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Waters Club House & Cater"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11627",
@@ -18537,14 +19463,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11627/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Sojourn Fermentory"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11630",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Gary's Olde Towne Tavern",
     "address": "",
-    "latitude": "43.96949971015353",
+    "latitude": "43.96949971",
     "longitude": "-70.59433579",
     "date": "",
     "time": "",
@@ -18557,7 +19484,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11630/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Gary's Olde Towne Tavern"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11663",
@@ -18577,7 +19505,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11663/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Home Plate"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11680",
@@ -18597,7 +19526,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11680/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Buehler's Tap Wall"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11681",
@@ -18617,15 +19547,16 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11681/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Guest House"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11693",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Kv\\u00edz u D\\u00e1\\u0161i",
     "address": "",
-    "latitude": "49.11309645495868",
-    "longitude": "21.517120599746704",
+    "latitude": "49.11309645",
+    "longitude": "21.5171206",
     "date": "30-Jan-26",
     "time": "19:00",
     "repeat_day": "Friday",
@@ -18637,14 +19568,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11693/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Kv\\u00edz u D\\u00e1\\u0161i"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11717",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "1871 Tap Room",
     "address": "",
-    "latitude": "42.44255039999999",
+    "latitude": "42.4425504",
     "longitude": "-85.6415802",
     "date": "26-Jan-26",
     "time": "07:30",
@@ -18657,7 +19589,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11717/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "1871 Tap Room"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11720",
@@ -18677,7 +19610,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11720/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Wegman's Market Cafe"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11729",
@@ -18685,7 +19619,7 @@ window.eventsData = [
     "venue_name": "Atyrau Speedquizzers",
     "address": "",
     "latitude": "47.09977447",
-    "longitude": "51.924487352371216",
+    "longitude": "51.92448735",
     "date": "21-Jan-26",
     "time": "20:00",
     "repeat_day": "Wednesday",
@@ -18697,7 +19631,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11729/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Atyrau Speedquizzers"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11733",
@@ -18717,7 +19652,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11733/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Offside"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11738",
@@ -18737,7 +19673,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11738/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Gingers Bar and Grill"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11740",
@@ -18757,7 +19694,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11740/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Red Cat \\"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11742",
@@ -18777,7 +19715,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11742/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Colorado Pinball Pub Littleton"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11744",
@@ -18797,7 +19736,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11744/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Colorado Pinball Pub"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11745",
@@ -18817,7 +19757,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11745/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "3"
   },
   {
     "event_id": "11746",
@@ -18837,7 +19778,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11746/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Alebird"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11751",
@@ -18857,7 +19799,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11751/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The SingleCut Barn and Lodge Tap Room"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11754",
@@ -18877,7 +19820,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11754/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Brack's Grille &"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11756",
@@ -18897,14 +19841,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11756/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Twist Social Club"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11757",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Batter Rebellion Redlands",
     "address": "",
-    "latitude": "34.05584440000001",
+    "latitude": "34.0558444",
     "longitude": "-117.1823075",
     "date": "",
     "time": "",
@@ -18917,15 +19862,16 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11757/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Batter Rebellion Redlands"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11759",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Gardeners Arms - Tostock",
     "address": "Church Road, Tostock, Bury Saint Edmunds, IP30 9PA Thursday £3 to play | Max 6 per team | Age 18+",
-    "latitude": "52.23639319999999",
-    "longitude": "0.8640709999999999",
+    "latitude": "52.2363932",
+    "longitude": "0.864071",
     "date": "05-Feb-26",
     "time": "7.30pm",
     "repeat_day": "Thursday",
@@ -18937,7 +19883,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11759/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Gardeners Arms - Tostock"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11760",
@@ -18957,7 +19904,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11760/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Ship - Soham"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11767",
@@ -18977,7 +19925,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11767/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Game night at The Saloon!"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11770",
@@ -18997,7 +19946,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11770/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Ship (Gillingham)"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11780",
@@ -19017,14 +19967,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11780/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Alibi"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11782",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Stonehouse Carvery Pig & Wh",
     "address": "",
-    "latitude": "53.76643499999999",
+    "latitude": "53.766435",
     "longitude": "-2.7652974",
     "date": "",
     "time": "",
@@ -19037,14 +19988,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11782/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Stonehouse Carvery Pig & Wh"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11787",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Blue Bell",
     "address": "High Street, Gringley on the Hill, Doncaster, DN10 4RF Thursday Prizes, Cash | £2 to play | Max 6 per team",
-    "latitude": "53.40815842608263",
+    "latitude": "53.40815843",
     "longitude": "-0.893663764",
     "date": "22-Jan-26",
     "time": "7.30pm",
@@ -19057,7 +20009,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11787/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Blue Bell"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11797",
@@ -19077,7 +20030,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11797/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Caulfields Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11804",
@@ -19097,15 +20051,16 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11804/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Pen Factory"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11809",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Queens head - Stowmarket",
     "address": "Station Road West, Stowmarket, IP14 1EF 7.30 Thursday 22 Jan 20263.00 to play | Max 6 per team | Age 18+",
-    "latitude": "52.18871619999999",
-    "longitude": "0.9966615999999999",
+    "latitude": "52.1887162",
+    "longitude": "0.9966616",
     "date": "22-Jan-26",
     "time": "7.3",
     "repeat_day": "Thursday",
@@ -19117,7 +20072,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11809/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Queens head - Stowmarket"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11819",
@@ -19137,15 +20093,16 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11819/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "STACK Middlesbrough"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11820",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Black Sheep",
     "address": "",
-    "latitude": "50.81888084403962",
-    "longitude": "4.383899671345479",
+    "latitude": "50.81888084",
+    "longitude": "4.383899671",
     "date": "27-Jan-26",
     "time": "08:00",
     "repeat_day": "Tuesday",
@@ -19157,7 +20114,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11820/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Black Sheep"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11824",
@@ -19177,7 +20135,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11824/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Bottle & Co - Denby Dal"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11828",
@@ -19197,7 +20156,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11828/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Union"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11835",
@@ -19217,7 +20177,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11835/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Gardeners Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11837",
@@ -19237,14 +20198,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11837/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "6 Bells Horringer"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11842",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Flying Enterprise",
     "address": "",
-    "latitude": "51.895496636025015",
+    "latitude": "51.89549664",
     "longitude": "-8.475908654",
     "date": "21-Jan-26",
     "time": "09:30",
@@ -19257,14 +20219,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11842/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Flying Enterprise"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11843",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Malletsheugh Inn",
     "address": "Malletsheugh Inn, Malletsheugh, Auchenback, G77 6PR Thursday Prizes, £50 VOUCHER | Free to play",
-    "latitude": "55.76837920000001",
+    "latitude": "55.7683792",
     "longitude": "-4.3507432",
     "date": "22-Jan-26",
     "time": "8pm",
@@ -19277,15 +20240,16 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11843/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Malletsheugh Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11846",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Quiz Night & Bingo (Eagle & Hind)",
     "address": "Gloucester Avenue, Chelmsford, CM2 9LG 20:00 Thursday 12 Feb 2026Prizes, Cash Prize for 1st place | £3 per person to play | Max 5 per team | Age 18+",
-    "latitude": "51.71620793133115",
-    "longitude": "0.4729914665222168",
+    "latitude": "51.71620793",
+    "longitude": "0.472991467",
     "date": "12-Feb-26",
     "time": "20:00",
     "repeat_day": "Thursday",
@@ -19297,7 +20261,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11846/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Quiz Night & Bingo (Eagle & Hind)"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11848",
@@ -19317,7 +20282,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11848/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Floc. Taproom"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11854",
@@ -19337,7 +20303,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11854/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Kitty Bills"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11862",
@@ -19357,14 +20324,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11862/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11868",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Polwarth Tavern",
     "address": "Polwarth Crescent, Edinburgh, EH11 1HR Thursday Prizes, £30 tab | 0 to play | Age 18+",
-    "latitude": "55.93810261585364",
+    "latitude": "55.93810262",
     "longitude": "-3.218232393",
     "date": "22-Jan-26",
     "time": "8pm",
@@ -19377,14 +20345,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11868/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Polwarth Tavern"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11871",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Wilkies Bar",
     "address": "1-3 Henderson Street, Leith, Edinburgh, EH6 6BT Friday Prizes, £45 | £2 to play | Age 18+",
-    "latitude": "55.97204319999999",
+    "latitude": "55.9720432",
     "longitude": "-3.1731594",
     "date": "30-Jan-26",
     "time": "8pm",
@@ -19397,14 +20366,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11871/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Wilkies Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11876",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "DEYA Brewery",
     "address": "Gloucester Road, Lansdown Industrial Estate, Cheltenham, GL51 8PL Wednesday",
-    "latitude": "51.89999299999999",
+    "latitude": "51.899993",
     "longitude": "-2.0995129",
     "date": "21-Jan-26",
     "time": "7:00pm",
@@ -19417,14 +20387,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11876/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "DEYA Brewery"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11880",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "iQuiz v Kr\\u010dme V\\u00e1h",
     "address": "",
-    "latitude": "49.07659959999999",
+    "latitude": "49.0765996",
     "longitude": "19.6202599",
     "date": "22-Jan-26",
     "time": "19:00",
@@ -19437,7 +20408,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11880/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "iQuiz v Kr\\u010dme V\\u00e1h"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11883",
@@ -19457,7 +20429,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11883/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "B3Q Smokehouse"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11886",
@@ -19477,7 +20450,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11886/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Harry Beswick"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11893",
@@ -19497,7 +20471,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11893/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "George & Dragon"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11894",
@@ -19517,14 +20492,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11894/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Railway, Handforth."
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11895",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Red Lion, Hartshill",
     "address": "Hartshill, Red Lion Inn, 18 Stoke Old Road, Hartshill, Stoke-on-Trent, ST4 6ES Monday Prizes, Bar tab, bottle of wine and a bag of nuts! | £2 to play",
-    "latitude": "53.01140414946252",
+    "latitude": "53.01140415",
     "longitude": "-2.211576551",
     "date": "26-Jan-26",
     "time": "8:30pm",
@@ -19537,14 +20513,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11895/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Red Lion, Hartshill"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11899",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Walkabout Birmingham",
     "address": "Broad Street, Birmingham, B1 2DS Sunday Prizes, 1st, 2nd, 3rd Prizes | Free Entry to play",
-    "latitude": "52.477922029374454",
+    "latitude": "52.47792203",
     "longitude": "-1.91049993",
     "date": "01-Feb-26",
     "time": "7pm",
@@ -19557,7 +20534,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11899/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Walkabout Birmingham"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11905",
@@ -19577,7 +20555,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11905/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Williamsburg Win"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11906",
@@ -19597,7 +20576,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11906/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Chili's - Bellingh"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11908",
@@ -19605,7 +20585,7 @@ window.eventsData = [
     "venue_name": "",
     "address": "",
     "latitude": "51.2704083",
-    "longitude": "0.5227244999999999",
+    "longitude": "0.5227245",
     "date": "",
     "time": "",
     "repeat_day": "",
@@ -19617,7 +20597,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11908/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11926",
@@ -19637,7 +20618,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11926/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Rhythm & Rye"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11933",
@@ -19657,7 +20639,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11933/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Red Lion Crowle"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11942",
@@ -19677,7 +20660,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11942/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Missing Link Tap Room"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11951",
@@ -19697,7 +20681,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11951/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Ginger Hill"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11952",
@@ -19717,7 +20702,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11952/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Arch & Anchor, Widnes"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11954",
@@ -19737,7 +20723,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11954/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Monahan's Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11956",
@@ -19757,14 +20744,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11956/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "O'Marleys Stirling"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11966",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Golden Plover",
     "address": "45 Spa View Road, Golden Plover, Sheffield, S12 4HF 7.30 Wednesday 21 Jan 2026Prizes, Cash | £1 to play | Max 4 per team",
-    "latitude": "53.345807919778856",
+    "latitude": "53.34580792",
     "longitude": "-1.388529206",
     "date": "21-Jan-26",
     "time": "7.3",
@@ -19777,14 +20765,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11966/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Golden Plover"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11971",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Lupset",
     "address": "The Lupset, 328 Horbury Road, Wakefield, WF2 8JJ Tuesday Prizes, £30 Voucher for 1st, £15 Voucher for 2nd | Free To Play to play | Max 6 per team | Age 18+",
-    "latitude": "53.66911657954323",
+    "latitude": "53.66911658",
     "longitude": "-1.533579826",
     "date": "27-Jan-26",
     "time": "7.30PM",
@@ -19797,7 +20786,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11971/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Lupset"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11972",
@@ -19817,7 +20807,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11972/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "EPIC"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11973",
@@ -19837,14 +20828,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11973/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Ferryboat Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11978",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Doghouse",
     "address": "15-17 Church Road, Wavertree, Liverpool, L15 9EA Thursday Prizes, £30 for winner, £15 2nd place | £1 to play | Max 8 per team | Age 18+",
-    "latitude": "53.38977430000001",
+    "latitude": "53.3897743",
     "longitude": "-2.914752",
     "date": "29-Jan-26",
     "time": "7PM",
@@ -19857,14 +20849,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11978/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Doghouse"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "11983",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Uncle Tom's",
     "address": "Lodge Road, Skellow, Doncaster, DN6 8EE Friday Prizes, Cash | £1 to play | Max 4 per team",
-    "latitude": "53.58908514941579",
+    "latitude": "53.58908515",
     "longitude": "-1.181266308",
     "date": "23-Jan-26",
     "time": "8pm",
@@ -19877,7 +20870,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/11983/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Uncle Tom's"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12000",
@@ -19897,7 +20891,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12000/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "the wildwood"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12002",
@@ -19917,7 +20912,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12002/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Wilson\\u2019s Social"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12009",
@@ -19937,14 +20933,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12009/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Woodcocks"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12020",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Hug and Pint",
     "address": "171 Great Western Road, Glasgow, G4 9AW 1700 Sunday Prizes, £25 Bar Tab + 2 gig tickets!",
-    "latitude": "55.87223460000001",
+    "latitude": "55.8722346",
     "longitude": "-4.2724038",
     "date": "01-Feb-26",
     "time": "",
@@ -19957,7 +20954,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12020/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Hug and Pint"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12023",
@@ -19977,7 +20975,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12023/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Bobs Seafood"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12027",
@@ -19997,7 +20996,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12027/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Lord Clifden Quiz"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12032",
@@ -20017,7 +21017,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12032/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Lodge Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12033",
@@ -20037,14 +21038,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12033/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Regent Park Golf Club"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12035",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "White Swan",
     "address": "186 Worsley Road, Swinton, Manchester, M27 5SN Thursday",
-    "latitude": "53.50558789999999",
+    "latitude": "53.5055879",
     "longitude": "-2.3410253",
     "date": "22-Jan-26",
     "time": "8pm",
@@ -20057,7 +21059,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12035/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "White Swan"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12036",
@@ -20077,15 +21080,16 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12036/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Queens Hotel"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12038",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Revolution - Cambridge",
     "address": "Downing Street, Cambridge, Cambridge, CB2 3DS 7.30 Tuesday 27 Jan 2026Prizes, 100£ Bar Tab, Drinks, and Roll over Prize | 0 to play | Max 6 per team | Age 18+",
-    "latitude": "52.20331339771882",
-    "longitude": "0.12322475158998536",
+    "latitude": "52.2033134",
+    "longitude": "0.123224752",
     "date": "27-Jan-26",
     "time": "7.3",
     "repeat_day": "Tuesday",
@@ -20097,7 +21101,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12038/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Revolution - Cambridge"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12046",
@@ -20117,7 +21122,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12046/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Crown and Pepper Caterham"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12048",
@@ -20137,14 +21143,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12048/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Three Legged Stool"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12049",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Three Mile Inn",
     "address": "176 Great North Road, Gosforth, Newcastle upon Tyne, NE3 2DS Thursday",
-    "latitude": "55.01855699999999",
+    "latitude": "55.018557",
     "longitude": "-1.6214851",
     "date": "29-Jan-26",
     "time": "7pm",
@@ -20157,7 +21164,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12049/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Three Mile Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12054",
@@ -20177,14 +21185,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12054/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Sun Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12060",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Hastings Hotel",
     "address": "925 Spring Bank West, Kingston upon Hull, Hull, HU5 5BE Thursday Prizes, 1st: Quiz Cashpot, 2nd: 4 Free Pints, 3rd: Dairy M | £2.00 to play | Max 6 per team | Age 18+",
-    "latitude": "53.74981892977738",
+    "latitude": "53.74981893",
     "longitude": "-0.393331197",
     "date": "22-Jan-26",
     "time": "7:30pm",
@@ -20197,7 +21206,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12060/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Hastings Hotel"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12063",
@@ -20217,7 +21227,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12063/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Nine Gastropub"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12064",
@@ -20237,14 +21248,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12064/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Horse & Groom"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12070",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Albert",
     "address": "Buxton Road, Disley, Stockport, SK12 2HA Sunday",
-    "latitude": "53.36004773380943",
+    "latitude": "53.36004773",
     "longitude": "-2.033371925",
     "date": "25-Jan-26",
     "time": "7.30PM",
@@ -20257,7 +21269,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12070/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Albert"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12072",
@@ -20277,7 +21290,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12072/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Cellar Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12073",
@@ -20297,7 +21311,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12073/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Wunderbar West End"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12074",
@@ -20317,7 +21332,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12074/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Bluebell"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12077",
@@ -20337,14 +21353,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12077/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Brack's Middlebor"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12079",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Leek Bar & Grill",
     "address": "Getliffes, 24 Derby St, Leek ST13 6JF, Leek, ST13 6JF Wednesday £2 to play",
-    "latitude": "53.10636650720167",
+    "latitude": "53.10636651",
     "longitude": "-2.022160292",
     "date": "21-Jan-26",
     "time": "8pm",
@@ -20357,7 +21374,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12079/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Leek Bar & Grill"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12105",
@@ -20377,7 +21395,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12105/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Lounge At Boldmere Quiz"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12107",
@@ -20385,7 +21404,7 @@ window.eventsData = [
     "venue_name": "Druids Arms",
     "address": "24 Earl Street, Maidstone, ME14 1PP Sunday Prizes, Cash | £3 to play | Max 6 per team",
     "latitude": "51.2749816",
-    "longitude": "0.5217833000000001",
+    "longitude": "0.5217833",
     "date": "25-Jan-26",
     "time": "6pm",
     "repeat_day": "Sunday",
@@ -20397,14 +21416,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12107/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Druids Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12108",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Merchant",
     "address": "",
-    "latitude": "55.86245248302627",
+    "latitude": "55.86245248",
     "longitude": "-4.256695211",
     "date": "",
     "time": "",
@@ -20417,14 +21437,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12108/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Merchant"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12109",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Beechwood",
     "address": "",
-    "latitude": "55.82358066958833",
+    "latitude": "55.82358067",
     "longitude": "-4.248645902",
     "date": "",
     "time": "",
@@ -20437,7 +21458,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12109/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Beechwood"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12112",
@@ -20457,7 +21479,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12112/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Woodlands"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12117",
@@ -20477,7 +21500,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12117/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Lost Pines Lodge"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12120",
@@ -20497,7 +21521,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12120/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12123",
@@ -20517,14 +21542,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12123/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Palmerstown House"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12124",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "This is... Arcadia! Trivia Night",
     "address": "",
-    "latitude": "40.80036399999999",
+    "latitude": "40.800364",
     "longitude": "-81.375214",
     "date": "",
     "time": "",
@@ -20537,14 +21563,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12124/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "This is... Arcadia! Trivia Night"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12134",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Ring O Bells",
     "address": "37 Church Street, Swinton, Mexborough, S64 8EF 5:30 Thursday 22 Jan 2026£2 to play | Age 18+",
-    "latitude": "53.488185974044065",
+    "latitude": "53.48818597",
     "longitude": "-1.320440769",
     "date": "22-Jan-26",
     "time": "05:30",
@@ -20557,7 +21584,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12134/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Ring O Bells"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12135",
@@ -20577,7 +21605,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12135/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Harvies bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12148",
@@ -20585,7 +21614,7 @@ window.eventsData = [
     "venue_name": "The Club",
     "address": "",
     "latitude": "24.5137437",
-    "longitude": "54.39011259999999",
+    "longitude": "54.3901126",
     "date": "",
     "time": "",
     "repeat_day": "",
@@ -20597,7 +21626,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12148/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Club"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12149",
@@ -20617,7 +21647,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12149/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "HOSPITAL INN"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12150",
@@ -20637,7 +21668,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12150/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Admiral Sir John Borlase"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12155",
@@ -20657,7 +21689,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12155/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12160",
@@ -20677,7 +21710,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12160/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Skybokx109"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12169",
@@ -20697,7 +21731,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12169/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Beverley"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12176",
@@ -20717,7 +21752,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12176/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Medway Cafe"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12182",
@@ -20737,7 +21773,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12182/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Pipeworks Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12188",
@@ -20757,7 +21794,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12188/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Fibbers Barsha Heights"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12191",
@@ -20777,7 +21815,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12191/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "SMOKIN' PETE'S BBQ"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12192",
@@ -20797,7 +21836,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12192/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Bremi's"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12197",
@@ -20817,14 +21857,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12197/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Curiosity Liquor Emporium"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12202",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Farnworth Social Circle Cri",
     "address": "166 Piggott Street, Farnworth, Bolton, BL4 9QJ Thursday Prizes, Gallon of beer! | free to play | Max 6 per team | Age 18+",
-    "latitude": "53.54292510000001",
+    "latitude": "53.5429251",
     "longitude": "-2.4066149",
     "date": "05-Feb-26",
     "time": "8pm",
@@ -20837,7 +21878,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12202/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Farnworth Social Circle Cri"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12207",
@@ -20857,7 +21899,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12207/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Cherry Tree"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12209",
@@ -20877,14 +21920,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12209/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Shiloh Plate & Pour"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12212",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Stone's Public Hou",
     "address": "",
-    "latitude": "42.25968719999999",
+    "latitude": "42.2596872",
     "longitude": "-71.4645826",
     "date": "",
     "time": "",
@@ -20897,7 +21941,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12212/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Stone's Public Hou"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12215",
@@ -20917,7 +21962,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12215/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Manhattan"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12217",
@@ -20937,7 +21983,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12217/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "O Connells"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12231",
@@ -20957,7 +22004,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12231/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Gravity MAX Liverpool"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12236",
@@ -20977,7 +22025,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12236/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Mulhollands Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12237",
@@ -20997,7 +22046,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12237/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Giant Eagle Market"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12239",
@@ -21017,7 +22067,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12239/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Craft 60  Taphouse & Gril"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12246",
@@ -21037,14 +22088,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12246/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Geek Retreat Dudley"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12248",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Heavenly's Ashton",
     "address": "8 Old Street, Ashton-under-Lyne, OL6 6LB Thursday Prizes, Vouchers and Prizes to be won | Max 6 per team | Age 18+",
-    "latitude": "53.48866519151076",
+    "latitude": "53.48866519",
     "longitude": "-2.090884356",
     "date": "22-Jan-26",
     "time": "7.30PM",
@@ -21057,7 +22109,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12248/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Heavenly's Ashton"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12250",
@@ -21077,14 +22130,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12250/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Polwarth Tavern"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12251",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Wilkies Bar",
     "address": "1-3 Henderson Street, Leith, Edinburgh, EH6 6BT Monday Prizes, £60 | £2 to play | Age 18+",
-    "latitude": "55.97204319999999",
+    "latitude": "55.9720432",
     "longitude": "-3.1731594",
     "date": "26-Jan-26",
     "time": "8pm",
@@ -21097,7 +22151,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12251/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Wilkies Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12252",
@@ -21117,14 +22172,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12252/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Frankenstein Pub"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12253",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Boars Head Standish",
     "address": "290 Wigan Road, The Boars Head, Standish, WN6 0AD Monday Prizes, £30 Bar Tab 1st Place, 2nd place bottle of prosecc | £5 per team to play | Max 6 per team | Age 18+",
-    "latitude": "53.572536965948245",
+    "latitude": "53.57253697",
     "longitude": "-2.640602589",
     "date": "26-Jan-26",
     "time": "8.30pm",
@@ -21137,14 +22193,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12253/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Boars Head Standish"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12255",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "",
     "address": "",
-    "latitude": "53.356588478863834",
+    "latitude": "53.35658848",
     "longitude": "-6.273833066",
     "date": "",
     "time": "",
@@ -21157,7 +22214,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12255/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12257",
@@ -21177,7 +22235,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12257/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Talbot"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12265",
@@ -21197,7 +22256,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12265/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Hatfield Woodhouse Club"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12273",
@@ -21217,7 +22277,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12273/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Burger & Pizza Rooms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12278",
@@ -21237,14 +22298,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12278/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Millstream"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12280",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Tucker Reilly's",
     "address": "",
-    "latitude": "53.33509671138414",
+    "latitude": "53.33509671",
     "longitude": "-6.265449822",
     "date": "",
     "time": "",
@@ -21257,7 +22319,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12280/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Tucker Reilly's"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12283",
@@ -21265,7 +22328,7 @@ window.eventsData = [
     "venue_name": "Bar Twenty On",
     "address": "110 Risbygate Street, Bury St Edmunds, Bury Saint Edmunds, IP33 3AA Thursday Prizes, Prizes on the night | Free to play to play | Max 4 per team",
     "latitude": "52.2470392",
-    "longitude": "0.7109392999999999",
+    "longitude": "0.7109393",
     "date": "22-Jan-26",
     "time": "7pm",
     "repeat_day": "Thursday",
@@ -21277,14 +22340,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12283/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Bar Twenty On"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12285",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "SOVEREIGNS",
     "address": "Kingston Crescent, Portsmouth, PO2 8AA Thursday Prizes, £50 BAR TAB PLUS BONUS PRIZES | £2 to play | Max 6 per team | Age 18+",
-    "latitude": "50.81323461715276",
+    "latitude": "50.81323462",
     "longitude": "-1.083470943",
     "date": "29-Jan-26",
     "time": "8PM",
@@ -21297,14 +22361,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12285/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "SOVEREIGNS"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12292",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Monkseaton Arms",
     "address": "Front Street, Monkseaton, Whitley Bay, NE25 8DP Sunday",
-    "latitude": "55.04173931836628",
+    "latitude": "55.04173932",
     "longitude": "-1.46155715",
     "date": "25-Jan-26",
     "time": "6pm",
@@ -21317,7 +22382,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12292/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Monkseaton Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12299",
@@ -21337,7 +22403,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12299/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Aurora Brewing Company RO"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12303",
@@ -21357,7 +22424,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12303/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Kicker's Garden"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12305",
@@ -21377,7 +22445,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12305/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Ape & Apple"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12309",
@@ -21397,7 +22466,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12309/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Wateringbury"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12312",
@@ -21417,7 +22487,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12312/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "O\\u2019neills"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12318",
@@ -21437,14 +22508,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12318/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Robert Shaw"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12327",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The White Swan",
     "address": "57 Greenhill Main Road, White Swan, Greenhill, S8 7RB 8 Tuesday Prizes, Cash | £1 to play | Max 4 per team",
-    "latitude": "53.32714679999999",
+    "latitude": "53.3271468",
     "longitude": "-1.4829663",
     "date": "27-Jan-26",
     "time": "",
@@ -21457,7 +22529,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12327/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The White Swan"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12328",
@@ -21477,7 +22550,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12328/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Red House"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12330",
@@ -21497,7 +22571,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12330/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Lost and Found"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12337",
@@ -21517,7 +22592,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12337/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Wednesday Juan Murphys"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12342",
@@ -21525,7 +22601,7 @@ window.eventsData = [
     "venue_name": "Irish Vickers",
     "address": "",
     "latitude": "25.1946394",
-    "longitude": "55.27651409999999",
+    "longitude": "55.2765141",
     "date": "",
     "time": "",
     "repeat_day": "",
@@ -21537,7 +22613,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12342/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Irish Vickers"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12346",
@@ -21557,7 +22634,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12346/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Joes Pizza & Sports Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12351",
@@ -21577,7 +22655,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12351/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Strikes Bowl Kings Lynn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12358",
@@ -21597,7 +22676,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12358/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Cow Shed Bar & Grill"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12361",
@@ -21617,7 +22697,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12361/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "One Love Rum Kitchen"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12365",
@@ -21637,14 +22718,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12365/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Bank"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12367",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Edge Hill Students Union",
     "address": "St Helens Road, Ormskirk, L39 4QP Friday",
-    "latitude": "53.55866899999999",
+    "latitude": "53.558669",
     "longitude": "-2.8753142",
     "date": "23-Jan-26",
     "time": "8pm",
@@ -21657,7 +22739,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12367/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Edge Hill Students Union"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12372",
@@ -21677,7 +22760,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12372/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Kavanagh's Castleknock"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12374",
@@ -21697,7 +22781,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12374/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12375",
@@ -21717,7 +22802,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12375/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Dovedale Towers"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12379",
@@ -21737,7 +22823,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12379/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Mrs Robinsons"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12395",
@@ -21757,7 +22844,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12395/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Oxnoble"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12396",
@@ -21777,7 +22865,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12396/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Sam Hill"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12398",
@@ -21797,14 +22886,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12398/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12402",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Golden Beam",
     "address": "Headingley Lane, Headingley, Leeds, LS6 1BL 20:30 Wednesday 28 Jan 2026£2 to play | Max 6 per team",
-    "latitude": "53.817027255185806",
+    "latitude": "53.81702726",
     "longitude": "-1.57096982",
     "date": "28-Jan-26",
     "time": "20:30",
@@ -21817,7 +22907,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12402/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Golden Beam"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12407",
@@ -21837,7 +22928,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12407/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Bytes"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12416",
@@ -21857,14 +22949,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12416/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Donahue's Pub"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12417",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Stone's Public House",
     "address": "",
-    "latitude": "42.25968719999999",
+    "latitude": "42.2596872",
     "longitude": "-71.4645826",
     "date": "",
     "time": "",
@@ -21877,7 +22970,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12417/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Stone's Public House"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12427",
@@ -21897,14 +22991,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12427/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Herbert's Yard"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12434",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Hindley Arms",
     "address": "The Hindley Arms 124 - 126 Market Street, Hindley, Wigan, WN2 3AY Monday Prizes, £50 Bar Tab | £5 per Team to play | Max 6 per team | Age 18+",
-    "latitude": "53.53461520139604",
+    "latitude": "53.5346152",
     "longitude": "-2.579736731",
     "date": "26-Jan-26",
     "time": "8.30pm",
@@ -21917,7 +23012,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12434/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Hindley Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12435",
@@ -21937,7 +23033,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12435/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12439",
@@ -21957,7 +23054,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12439/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Styrrup"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12440",
@@ -21977,15 +23075,16 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12440/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Royal"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12441",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Quiz Night & Bingo (The Nags Head)",
     "address": "Heath Road, Ramsden Heath, Billericay, CM11 1HS 19:30 Wednesday 11 Feb 2026Prizes, Cash Prize for 1st place | £3 per person to play | Max 5 per team | Age 18+",
-    "latitude": "51.63586598725761",
-    "longitude": "0.46585679054260254",
+    "latitude": "51.63586599",
+    "longitude": "0.465856791",
     "date": "11-Feb-26",
     "time": "19:30",
     "repeat_day": "Wednesday",
@@ -21997,15 +23096,16 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12441/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Quiz Night & Bingo (The Nags Head)"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12448",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Quiz Night & Bingo (Flitch Sports Bar)",
     "address": "Unit 14 Flitch Industrial Estate, Great Dunmow, CM6 1XJ 20:00 Wednesday 4 Feb 2026Prizes, Cash Prize for 1st place | £3 per person to play | Max 5 per team | Age 18+",
-    "latitude": "51.86759633213903",
-    "longitude": "0.36661773920059204",
+    "latitude": "51.86759633",
+    "longitude": "0.366617739",
     "date": "04-Feb-26",
     "time": "20:00",
     "repeat_day": "Wednesday",
@@ -22017,7 +23117,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12448/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Quiz Night & Bingo (Flitch Sports Bar)"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12449",
@@ -22037,7 +23138,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12449/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Royal Oak Boothstown"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12450",
@@ -22057,7 +23159,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12450/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Fox Under the Hill"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12455",
@@ -22077,7 +23180,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12455/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Trailside Tavern"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12456",
@@ -22097,7 +23201,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12456/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Kingsley Local Brewing"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12457",
@@ -22105,7 +23210,7 @@ window.eventsData = [
     "venue_name": "Voerkraal",
     "address": "",
     "latitude": "-26.63364935",
-    "longitude": "27.974796295166016",
+    "longitude": "27.9747963",
     "date": "21-Jan-26",
     "time": "18:30",
     "repeat_day": "Wednesday",
@@ -22117,14 +23222,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12457/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Voerkraal"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12461",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Canalside, Falkirk",
     "address": "",
-    "latitude": "55.982628427861975",
+    "latitude": "55.98262843",
     "longitude": "-3.738516569",
     "date": "",
     "time": "",
@@ -22137,14 +23243,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12461/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Canalside, Falkirk"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12462",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Old Vicarage Hotel & Re",
     "address": "45-51 Saint Mary Street, Bridgwater, TA6 3EQ Wednesday Prizes, Vouchers and Prizes | £2 to play | Max 6 per team | Age 10+",
-    "latitude": "51.12744991085497",
+    "latitude": "51.12744991",
     "longitude": "-3.005117476",
     "date": "28-Jan-26",
     "time": "8pm",
@@ -22157,7 +23264,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12462/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Old Vicarage Hotel & Re"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12465",
@@ -22177,14 +23285,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12465/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Grove Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12466",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Pavs",
     "address": "229 Alcester Road South, King's Heath, Birmingham, B14 6DT 20:00 Wednesday 21 Jan 2026Prizes, £20 bar voucher | Free to play | Max 6 per team | Age 18+",
-    "latitude": "52.42372027137736",
+    "latitude": "52.42372027",
     "longitude": "-1.89165473",
     "date": "21-Jan-26",
     "time": "20:00",
@@ -22197,7 +23306,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12466/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Pavs"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12476",
@@ -22217,14 +23327,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12476/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Feathered Fish"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12478",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Boathouse",
     "address": "Park Road, Rushall, Walsall, WS4 1LG 8.30 Thursday 22 Jan 2026Prizes, Cash | 1 to play | Max 4 per team | Age 16+",
-    "latitude": "52.60257512245261",
+    "latitude": "52.60257512",
     "longitude": "-1.953447461",
     "date": "22-Jan-26",
     "time": "8.3",
@@ -22237,7 +23348,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12478/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Boathouse"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12479",
@@ -22257,14 +23369,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12479/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Doce Taqueria Bridgeville"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12483",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Knott End Sports and",
     "address": "Salisbury Avenue, Knott End-on-Sea, Poulton-le-Fylde, FY6 0BP Sunday Prizes, Bar Vouchers to be won | £1 to play | Max 6 per team | Age 18+",
-    "latitude": "53.928208694118695",
+    "latitude": "53.92820869",
     "longitude": "-2.989536154",
     "date": "01-Feb-26",
     "time": "7pm",
@@ -22277,7 +23390,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12483/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Knott End Sports and"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12484",
@@ -22297,7 +23411,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12484/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Coach & Horses"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12485",
@@ -22317,7 +23432,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12485/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Behind The Wall"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12487",
@@ -22337,7 +23453,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12487/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Aurora Brewing Co ROC"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12490",
@@ -22357,14 +23474,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12490/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Forth"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12498",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The West Kirby Tap",
     "address": "Grange Road, West Kirby, Wirral, CH484DY Tuesday Prizes, CASH PRIZES - BONUS RAFFLE | £2 to play | Max 6 per team | Age 18+",
-    "latitude": "53.37384055342054",
+    "latitude": "53.37384055",
     "longitude": "-3.184793239",
     "date": "27-Jan-26",
     "time": "7PM",
@@ -22377,7 +23495,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12498/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The West Kirby Tap"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12504",
@@ -22397,15 +23516,16 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12504/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12520",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Quiz Night & Bingo (The Forge)",
     "address": "1 The Pantiles, Billericay, CM12 0UA 18:00 Sunday 25 Jan 2026Prizes, Cash Prize for 1st place | £3 per person to play | Max 5 per team | Age 18+",
-    "latitude": "51.63703136849396",
-    "longitude": "0.4140495261283528",
+    "latitude": "51.63703137",
+    "longitude": "0.414049526",
     "date": "25-Jan-26",
     "time": "18:00",
     "repeat_day": "Sunday",
@@ -22417,7 +23537,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12520/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Quiz Night & Bingo (The Forge)"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12533",
@@ -22437,7 +23558,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12533/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Sunday"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12539",
@@ -22457,7 +23579,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12539/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Lunik Pub"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12550",
@@ -22477,14 +23600,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12550/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Mallard"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12560",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Sonora Moondshine",
     "address": "",
-    "latitude": "32.22095900649218",
+    "latitude": "32.22095901",
     "longitude": "-110.9680429",
     "date": "",
     "time": "",
@@ -22497,14 +23621,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12560/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Sonora Moondshine"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12567",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Moon In The Square",
     "address": "4-8 Exeter Road, The Moon In The Square, Bournemouth, BH2 5AQ Monday £2 to play | Age 18+",
-    "latitude": "50.71960573091036",
+    "latitude": "50.71960573",
     "longitude": "-1.880249977",
     "date": "26-Jan-26",
     "time": "8PM",
@@ -22517,7 +23642,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12567/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Moon In The Square"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12570",
@@ -22537,7 +23663,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12570/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Newington Temple"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12578",
@@ -22557,7 +23684,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12578/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "SOJO Bistro"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12580",
@@ -22577,14 +23705,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12580/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "OZone Bar and Grill"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12587",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Mason Arms",
     "address": "646 Prescot Road, Liverpool, Liverpool, L13 5XE Monday",
-    "latitude": "53.50719669999999",
+    "latitude": "53.5071967",
     "longitude": "-2.9019807",
     "date": "16-Feb-26",
     "time": "8pm",
@@ -22597,7 +23726,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12587/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Mason Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12588",
@@ -22617,7 +23747,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12588/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12597",
@@ -22637,14 +23768,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12597/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Crown at Worthington"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12609",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "oneills",
     "address": "231 Old Christchurch Road, Bournemouth, BH1 1JZ 21:00 Monday 26 Jan 2026Prizes, cash | £2 to play | Max 12 per team | Age 18+",
-    "latitude": "50.72212760000001",
+    "latitude": "50.7221276",
     "longitude": "-1.8672379",
     "date": "26-Jan-26",
     "time": "21:00",
@@ -22657,7 +23789,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12609/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "oneills"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12619",
@@ -22677,7 +23810,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12619/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Tuesday Azteca"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12625",
@@ -22697,7 +23831,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12625/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Core Telecom"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12631",
@@ -22717,7 +23852,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12631/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Bridge Hotel"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12637",
@@ -22737,7 +23873,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12637/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Three Blackbirds"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12640",
@@ -22757,7 +23894,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12640/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Queens"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12644",
@@ -22777,14 +23915,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12644/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Royal Seven Stars"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12645",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Counting House",
     "address": "17 High Street, Dumbarton, G82 1LS Sunday Prizes, £30 in vouchers | Free to play | Age 18+",
-    "latitude": "55.94472929892024",
+    "latitude": "55.9447293",
     "longitude": "-4.572719552",
     "date": "25-Jan-26",
     "time": "6.30pm",
@@ -22797,7 +23936,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12645/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Counting House"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12646",
@@ -22817,7 +23957,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12646/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "MACGREGORS"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12662",
@@ -22837,7 +23978,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12662/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Three Kings - Fornham"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12676",
@@ -22857,7 +23999,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12676/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "O Donnells Bar Donegal Town"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12692",
@@ -22877,7 +24020,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12692/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Sale"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12696",
@@ -22897,14 +24041,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12696/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Gravity MAX Westfield Strat"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12697",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Sandyford House",
     "address": "",
-    "latitude": "53.26952739999999",
+    "latitude": "53.2695274",
     "longitude": "-6.2243635",
     "date": "",
     "time": "",
@@ -22917,14 +24062,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12697/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Sandyford House"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12699",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Bell, Walsall Quiz",
     "address": "Walsall, Birmingham Road, Walsall, WS5 3JP Thursday Prizes, £25, £10 and £5 bar tabs | £2 to play",
-    "latitude": "52.56559531873611",
+    "latitude": "52.56559532",
     "longitude": "-1.948866396",
     "date": "22-Jan-26",
     "time": "7:30pm",
@@ -22937,7 +24083,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12699/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Bell, Walsall Quiz"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12700",
@@ -22957,7 +24104,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12700/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Tuesday Trivia Night"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12705",
@@ -22977,7 +24125,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12705/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12718",
@@ -22997,7 +24146,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12718/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12719",
@@ -23017,7 +24167,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12719/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Cambridge Tap"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12728",
@@ -23037,7 +24188,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12728/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12731",
@@ -23057,14 +24209,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12731/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "ICONS SPORTS BAR"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12732",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Ye Olde Hob Inn",
     "address": "8 Church Road, Bamber Bridge, Preston, PR5 6EN 20.30 Thursday 12 Feb 2026Prizes, £25 Gift voucher | £1 to play",
-    "latitude": "53.72165740000001",
+    "latitude": "53.7216574",
     "longitude": "-2.662322",
     "date": "12-Feb-26",
     "time": "20.3",
@@ -23077,7 +24230,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12732/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Ye Olde Hob Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12735",
@@ -23097,14 +24251,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12735/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Hop Inn Bitterne Park"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12737",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The wellington",
     "address": "",
-    "latitude": "53.64571582501751",
+    "latitude": "53.64571583",
     "longitude": "-3.005509079",
     "date": "26-Jan-26",
     "time": "18",
@@ -23117,14 +24272,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12737/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The wellington"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12738",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Holcombe Tap",
     "address": "Bolton Road West, Holcombe Brook, Ramsbottom, BL0 9NA Monday Prizes, Voucher, £50 Winner, £25 Runner Up | FREE to play | Max 8 per team | Age 18+",
-    "latitude": "53.64244994040815",
+    "latitude": "53.64244994",
     "longitude": "-2.322782278",
     "date": "26-Jan-26",
     "time": "8pm",
@@ -23137,14 +24293,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12738/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Holcombe Tap"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12739",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Swan & Cemetery, Bury",
     "address": "Bury, 406 Manchester Road, Bury, BL9 9NS Thursday Prizes, Voucher, £50 Winner, £25 Runner Up | FREE to play | Max 8 per team | Age 18+",
-    "latitude": "53.57695809250072",
+    "latitude": "53.57695809",
     "longitude": "-2.296979427",
     "date": "22-Jan-26",
     "time": "8pm",
@@ -23157,15 +24314,16 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12739/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Swan & Cemetery, Bury"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12740",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Quiz night Players Bar Ashford",
     "address": "12 Tufton Street, Ashford, TN23 1QP 7:30 Monday 16 Feb 2026Prizes, Bar Tab TBC | £2.50 to play | Max 6 per team",
-    "latitude": "51.148081826048085",
-    "longitude": "0.8719772802851278",
+    "latitude": "51.14808183",
+    "longitude": "0.87197728",
     "date": "16-Feb-26",
     "time": "07:30",
     "repeat_day": "Monday",
@@ -23177,7 +24335,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12740/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Quiz night Players Bar Ashford"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12741",
@@ -23197,14 +24356,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12741/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Main St. Pub Westnedge"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12743",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "McCormacks",
     "address": "",
-    "latitude": "53.21634710000001",
+    "latitude": "53.2163471",
     "longitude": "-6.6643891",
     "date": "",
     "time": "",
@@ -23217,7 +24377,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12743/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "McCormacks"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12745",
@@ -23237,7 +24398,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12745/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Swan Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "3"
   },
   {
     "event_id": "12747",
@@ -23257,7 +24419,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12747/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Boathouse"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12760",
@@ -23277,7 +24440,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12760/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Small Town Daiquiris"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12773",
@@ -23297,14 +24461,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12773/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "the crown"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12783",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Bru 64",
     "address": "",
-    "latitude": "42.599128309090865",
+    "latitude": "42.59912831",
     "longitude": "-76.18058324",
     "date": "",
     "time": "",
@@ -23317,14 +24482,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12783/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Bru 64"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12785",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Tradehouse",
     "address": "",
-    "latitude": "51.88816578490276",
+    "latitude": "51.88816578",
     "longitude": "-8.593061521",
     "date": "",
     "time": "",
@@ -23337,7 +24503,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12785/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Tradehouse"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12790",
@@ -23357,7 +24524,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12790/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Ashbank Carvery"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12791",
@@ -23377,7 +24545,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12791/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12799",
@@ -23397,7 +24566,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12799/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12805",
@@ -23417,14 +24587,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12805/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Good Girl Brewing Co."
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12814",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Gilmour's",
     "address": "",
-    "latitude": "55.84767126116999",
+    "latitude": "55.84767126",
     "longitude": "-4.425311756",
     "date": "22-Jan-26",
     "time": "20.3",
@@ -23437,15 +24608,16 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12814/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Gilmour's"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12815",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Quiz Night & Bingo (O'Connors)",
     "address": "7 Hall Street, Chelmsford, CM2 0HG 19:30 Tuesday 3 Feb 2026Prizes, Cash Prize for 1st place | £3 per person to play | Max 5 per team | Age 18+",
-    "latitude": "51.729593260793756",
-    "longitude": "0.47365665435791016",
+    "latitude": "51.72959326",
+    "longitude": "0.473656654",
     "date": "03-Feb-26",
     "time": "19:30",
     "repeat_day": "Tuesday",
@@ -23457,7 +24629,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12815/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Quiz Night & Bingo (O'Connors)"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12821",
@@ -23477,14 +24650,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12821/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The New Wheel"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12825",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Hub",
     "address": "The Old Town Hall Building, Victoria Square, Widnes, WA87QZ Thursday FREE TO PLAY to play | Max 6 per team",
-    "latitude": "53.36180206583444",
+    "latitude": "53.36180207",
     "longitude": "-2.731829882",
     "date": "22-Jan-26",
     "time": "8pm",
@@ -23497,14 +24671,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12825/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Hub"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12829",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Hickory's Smokehouse Solihu",
     "address": "Earlswood Common, Earlswood, Solihull, B94 5SL 20:00 Tuesday 3 Feb 2026Prizes, £100 voucher | £2 to play | Max 6 per team | Age 1+",
-    "latitude": "52.36125089999999",
+    "latitude": "52.3612509",
     "longitude": "-1.8310161",
     "date": "03-Feb-26",
     "time": "20:00",
@@ -23517,14 +24692,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12829/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Hickory's Smokehouse Solihu"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12834",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Shoreline",
     "address": "14 Boat Road, Newport-on-Tay, DD6 8EZ 19:00 Sunday 1 Feb 2026",
-    "latitude": "56.437705462178464",
+    "latitude": "56.43770546",
     "longitude": "-2.944475412",
     "date": "01-Feb-26",
     "time": "19:00",
@@ -23537,7 +24713,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12834/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Shoreline"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12847",
@@ -23557,7 +24734,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12847/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "the corner dungloe"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12872",
@@ -23577,14 +24755,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12872/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Mill Speedquizzing Night"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12873",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Crown & Shamrock",
     "address": "Antrim Road, Newtownabbey, Mallusk, BT36 4RF Thursday Prizes, £30 Bar Tab & Bottle of Wine | Free to play | Age 18+",
-    "latitude": "54.68349311842944",
+    "latitude": "54.68349312",
     "longitude": "-5.989027723",
     "date": "12-Feb-26",
     "time": "8pm",
@@ -23597,7 +24776,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12873/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Crown & Shamrock"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12877",
@@ -23617,7 +24797,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12877/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Gravity MAX Wandsworth"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12885",
@@ -23637,14 +24818,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12885/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12891",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Fisher's Pond",
     "address": "183 Main Road, Fisher's Pond, Colden Common, SO50 7HG - 21 Monday Prizes, cash | £2 to play | Max 6 per team | Age 16+",
-    "latitude": "50.98660899999999",
+    "latitude": "50.986609",
     "longitude": "-1.3053536",
     "date": "26-Jan-26",
     "time": "20:00",
@@ -23657,7 +24839,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12891/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Fisher's Pond"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12897",
@@ -23677,7 +24860,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12897/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Boulevard"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12909",
@@ -23697,7 +24881,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12909/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Willows pub"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12923",
@@ -23717,7 +24902,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12923/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Barrett's Waterfront"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12924",
@@ -23737,7 +24923,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12924/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Plymouth Public House"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12927",
@@ -23757,7 +24944,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12927/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Little B"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12950",
@@ -23777,14 +24965,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12950/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Karlin Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12952",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Knight Life Taphouse",
     "address": "13 Bournemouth Road, Poole, BH140EF Thursday Prizes, £100 prize pot | £4 to play | Max No per team | Age 16+",
-    "latitude": "50.72479933874232",
+    "latitude": "50.72479934",
     "longitude": "-1.949914598",
     "date": "29-Jan-26",
     "time": "8PM",
@@ -23797,7 +24986,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12952/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Knight Life Taphouse"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12953",
@@ -23817,7 +25007,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12953/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Old Ash Tree"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12955",
@@ -23837,14 +25028,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12955/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "kings Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12956",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Hazel Arms",
     "address": "34 Hazel Avenue, Johnstone, PA5 0BP Thursday Prizes, £25 Voucher plus roll-over jackpot. | £2 to play | Max 6 per team | Age 18+",
-    "latitude": "55.828510318789995",
+    "latitude": "55.82851032",
     "longitude": "-4.50532794",
     "date": "22-Jan-26",
     "time": "8:00PM",
@@ -23857,7 +25049,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12956/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Hazel Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12959",
@@ -23877,7 +25070,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12959/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Skogen, Bath"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12961",
@@ -23897,14 +25091,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12961/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Castle"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12963",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Straw Hat",
     "address": "",
-    "latitude": "53.26560531353454",
+    "latitude": "53.26560531",
     "longitude": "-2.923161505",
     "date": "",
     "time": "",
@@ -23917,14 +25112,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12963/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Straw Hat"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12969",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "the George",
     "address": "Station Road, Cullingworth, Bradford, BD13 5HN Wednesday £2 to play",
-    "latitude": "53.828039801152734",
+    "latitude": "53.8280398",
     "longitude": "-1.898907581",
     "date": "21-Jan-26",
     "time": "7.30pm",
@@ -23937,7 +25133,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12969/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "the George"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12973",
@@ -23957,7 +25154,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12973/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Bedford Trails Golf Course"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12974",
@@ -23977,7 +25175,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12974/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Vintage"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12975",
@@ -23997,7 +25196,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12975/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Quiz Night & Bingo (The Bell)"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12976",
@@ -24017,7 +25217,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12976/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Botanic House"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12982",
@@ -24037,7 +25238,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12982/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Stagecoach Saloon - Frankto"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12984",
@@ -24057,7 +25259,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12984/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Tinkers Junction"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12987",
@@ -24077,7 +25280,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12987/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12993",
@@ -24097,7 +25301,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12993/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Old Ash Tree"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12998",
@@ -24117,14 +25322,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12998/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Red Lion"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "12999",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "UCC New Bar",
     "address": "",
-    "latitude": "51.893887614822575",
+    "latitude": "51.89388761",
     "longitude": "-8.48990751",
     "date": "",
     "time": "",
@@ -24137,7 +25343,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/12999/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "UCC New Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13000",
@@ -24157,7 +25364,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13000/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Fibre Leeds"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13003",
@@ -24177,14 +25385,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13003/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Milly's at The Irishman"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13004",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Stick or Twist",
     "address": "Stick or Twist, Leeds, LS2 8PD 20:30 Monday 2 Feb 2026Prizes, Vouchers | £2 to play | Max 6 per team | Age 18+",
-    "latitude": "53.80270451653251",
+    "latitude": "53.80270452",
     "longitude": "-1.542986857",
     "date": "02-Feb-26",
     "time": "20:30",
@@ -24197,14 +25406,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13004/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Stick or Twist"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13006",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "luciano bar & bistro",
     "address": "Durham Way, Oakerside Park, Peterlee, SR8 1QB Sunday Prizes, cash / food & drink vouchers / cocktails etc | £1.00 to play",
-    "latitude": "54.74776466490207",
+    "latitude": "54.74776466",
     "longitude": "-1.341287018",
     "date": "25-Jan-26",
     "time": "8.00pm",
@@ -24217,14 +25427,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13006/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "luciano bar & bistro"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13012",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Mollys",
     "address": "113 Friargate, Preston, PR1 2EJ 8:00 Tuesday 27 Jan 2026Prizes, 50 | 0 to play | Max 6 per team | Age 18+",
-    "latitude": "53.76138947091874",
+    "latitude": "53.76138947",
     "longitude": "-2.704967558",
     "date": "27-Jan-26",
     "time": "08:00",
@@ -24237,7 +25448,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13012/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Mollys"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13015",
@@ -24257,14 +25469,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13015/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Riviera Cafe Bridgewate"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13018",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Picturedrome",
     "address": "The Picturedrome, 222 Kettering Road, Northampton, NN1 4BN Wednesday Prizes, £100 | £5 (£3 Earlybird offer) to play | Max 6 per team",
-    "latitude": "52.24667579920985",
+    "latitude": "52.2466758",
     "longitude": "-0.882189274",
     "date": "11-Feb-26",
     "time": "8pm",
@@ -24277,7 +25490,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13018/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Picturedrome"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13020",
@@ -24297,7 +25511,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13020/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Liberty Square Sports Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13021",
@@ -24317,14 +25532,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13021/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Berkeley"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13023",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Graingers Ratoath Inn",
     "address": "",
-    "latitude": "53.50698131669778",
+    "latitude": "53.50698132",
     "longitude": "-6.4641873",
     "date": "",
     "time": "",
@@ -24337,7 +25553,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13023/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Graingers Ratoath Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13028",
@@ -24357,7 +25574,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13028/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Step Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13029",
@@ -24377,7 +25595,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13029/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Nancy Hands Dublin"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13040",
@@ -24397,14 +25616,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13040/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Isaac Wilson - Middlesbroug"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13042",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Railway Pemberton",
     "address": "The Railway, 273 Billinge Rd, Pemberton, WN5 8DF 20:00 Monday 26 Jan 2026Prizes, 1st £30 Cash 2nd £20 Bar Tab | £5 per team to play | Max 6 per team",
-    "latitude": "53.53074239999999",
+    "latitude": "53.5307424",
     "longitude": "-2.6701359",
     "date": "26-Jan-26",
     "time": "20:00",
@@ -24417,7 +25637,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13042/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Railway Pemberton"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13044",
@@ -24437,14 +25658,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13044/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Joshua Brooks"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13046",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Dog House",
     "address": "",
-    "latitude": "54.798197567474084",
+    "latitude": "54.79819757",
     "longitude": "-7.78034486",
     "date": "",
     "time": "",
@@ -24457,7 +25679,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13046/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Dog House"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13048",
@@ -24477,14 +25700,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13048/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Log Cabin"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13057",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Sult (College Bar)",
     "address": "",
-    "latitude": "53.27805009999999",
+    "latitude": "53.2780501",
     "longitude": "-9.0580464",
     "date": "",
     "time": "",
@@ -24497,7 +25721,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13057/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Sult (College Bar)"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13060",
@@ -24517,7 +25742,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13060/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Rail Sports Pub"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13061",
@@ -24537,7 +25763,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13061/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Graduate"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13065",
@@ -24557,7 +25784,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13065/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The White Hart"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13067",
@@ -24577,7 +25805,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13067/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Golden Pickle Sports Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13070",
@@ -24597,7 +25826,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13070/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Fife Lake Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13071",
@@ -24617,7 +25847,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13071/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Clan Shots Gaming"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13076",
@@ -24637,7 +25868,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13076/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Orion"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13078",
@@ -24657,7 +25889,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13078/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Rita's Big Quiz"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13084",
@@ -24677,14 +25910,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13084/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The First Post"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13087",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Moat",
     "address": "London Road, Wrotham, TN15 7RJ Tuesday Prizes, Cash prizes | £3 to play | Max 6 per team | Age 16+",
-    "latitude": "51.30968439999999",
+    "latitude": "51.3096844",
     "longitude": "0.3152146",
     "date": "17-Feb-26",
     "time": "7:30pm",
@@ -24697,7 +25931,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13087/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Moat"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13090",
@@ -24717,7 +25952,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13090/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Tap'd on Main"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13093",
@@ -24725,7 +25961,7 @@ window.eventsData = [
     "venue_name": "Bridges Bar",
     "address": "",
     "latitude": "24.4151188",
-    "longitude": "54.49032219999999",
+    "longitude": "54.4903222",
     "date": "",
     "time": "",
     "repeat_day": "",
@@ -24737,7 +25973,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13093/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Bridges Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13096",
@@ -24757,7 +25994,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13096/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Gate Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13102",
@@ -24777,7 +26015,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13102/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Gillis Family Tavern Plymou"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13106",
@@ -24797,7 +26036,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13106/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Ten Streets Social"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13107",
@@ -24817,7 +26057,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13107/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Horse & Jockey Pub"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13109",
@@ -24837,7 +26078,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13109/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Greswolde Arms Quiz"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13119",
@@ -24857,7 +26099,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13119/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Potterrow"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13124",
@@ -24877,7 +26120,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13124/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Dusty miller"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13128",
@@ -24897,7 +26141,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13128/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Cockfield Three Horse Shoes"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13129",
@@ -24917,7 +26162,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13129/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Crown Twyford"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13131",
@@ -24937,14 +26183,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13131/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Bar Home Lichfield"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13133",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Old Market House",
     "address": "The Quay, Brixham, TQ5 8AW Wednesday Prizes, Bottle Of Wine, Chocolate, Sweets, Weekly Essentia | £1 Per Person to play | Max 6 per team | Age 18+",
-    "latitude": "50.39640490430857",
+    "latitude": "50.3964049",
     "longitude": "-3.513291478",
     "date": "21-Jan-26",
     "time": "7:30pm",
@@ -24957,7 +26204,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13133/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Old Market House"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13135",
@@ -24977,7 +26225,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13135/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Oddfellows Pullborough"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13137",
@@ -24997,7 +26246,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13137/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Greyhound"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13142",
@@ -25017,7 +26267,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13142/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Blacky"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13143",
@@ -25037,7 +26288,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13143/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Burger Bar by Wegmans, Pi"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13146",
@@ -25057,14 +26309,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13146/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Aurora Brewing Company"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13147",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Cutters Wharf",
     "address": "Lockview Road, Belfast, BT9 5FJ 21:00 Thursday 22 Jan 2026Free to play",
-    "latitude": "54.57242237209217",
+    "latitude": "54.57242237",
     "longitude": "-5.929473639",
     "date": "22-Jan-26",
     "time": "21:00",
@@ -25077,7 +26330,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13147/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Cutters Wharf"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13148",
@@ -25097,7 +26351,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13148/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "NEW REALM BREWERY - SUFFO"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13149",
@@ -25117,7 +26372,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13149/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Cove Tavern"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13152",
@@ -25137,7 +26393,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13152/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Foresters"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13154",
@@ -25157,7 +26414,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13154/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Angel Inn... Yeye"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13155",
@@ -25177,7 +26435,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13155/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Oak and Embers"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13160",
@@ -25197,7 +26456,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13160/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Phoenix Club"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13166",
@@ -25217,14 +26477,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13166/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Blackthorn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13172",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Saddle Inn",
     "address": "37 Main Street, Fulford, York, YO10 4PJ 20:45 Wednesday 21 Jan 2026Prizes, Winning team takes the pot | £2 to play",
-    "latitude": "53.93680778509605",
+    "latitude": "53.93680779",
     "longitude": "-1.072486639",
     "date": "21-Jan-26",
     "time": "20:45",
@@ -25237,7 +26498,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13172/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Saddle Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13173",
@@ -25257,7 +26519,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13173/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Kelltic Bar Kells"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13177",
@@ -25277,14 +26540,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13177/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Sweet Hut Bakery"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13185",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Monday Quiz Night at The Westbury Park P",
     "address": "Northumbria Drive, Henleaze, Bristol, BS9 4HP Monday Prizes, £60 / £30 / £15 bar tab vouchers for 1st / 2nd / 3 | £2 cash per player to play | Max 8 per team",
-    "latitude": "51.480453353376326",
+    "latitude": "51.48045335",
     "longitude": "-2.611589669",
     "date": "26-Jan-26",
     "time": "8pm",
@@ -25297,14 +26561,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13185/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Monday Quiz Night at The Westbury Park P"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13186",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Hatfield",
     "address": "130 Ormeau Road, Belfast, BT7 2EB Monday Age 18+",
-    "latitude": "54.58573555015532",
+    "latitude": "54.58573555",
     "longitude": "-5.922907591",
     "date": "26-Jan-26",
     "time": "8.00pm",
@@ -25317,7 +26582,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13186/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Hatfield"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13187",
@@ -25337,7 +26603,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13187/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Rothwell Conserv"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13188",
@@ -25357,7 +26624,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13188/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Fairfield Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13190",
@@ -25377,7 +26645,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13190/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Rock House"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13193",
@@ -25397,7 +26666,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13193/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Station One"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13201",
@@ -25417,7 +26687,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13201/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Jojo's Restaurant"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13202",
@@ -25437,7 +26708,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13202/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Revolution Brighton"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13203",
@@ -25457,15 +26729,16 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13203/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Peacock"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13210",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Hopsters Bury st Edmunds",
     "address": "",
-    "latitude": "52.24742558720915",
-    "longitude": "0.7125988659380678",
+    "latitude": "52.24742559",
+    "longitude": "0.712598866",
     "date": "11-Feb-26",
     "time": "19:00",
     "repeat_day": "Wednesday",
@@ -25477,7 +26750,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13210/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Hopsters Bury st Edmunds"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13215",
@@ -25497,14 +26771,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13215/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Grove Bar and"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13218",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Handley Tap",
     "address": "Outgang Lane, York, YO19 5UP Thursday £2 to play | Max 6 per team",
-    "latitude": "53.96174150788832",
+    "latitude": "53.96174151",
     "longitude": "-1.028573513",
     "date": "22-Jan-26",
     "time": "7pm",
@@ -25517,7 +26792,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13218/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Handley Tap"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13221",
@@ -25537,7 +26813,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13221/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Pivare\\u0148 Virma"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13223",
@@ -25557,7 +26834,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13223/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Millies Bar & Kitchen"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13226",
@@ -25577,7 +26855,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13226/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Kv\\u00edz v Holi\\u010dstve"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13231",
@@ -25597,14 +26876,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13231/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Make & Mark"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13234",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Woodvale Quiz Night",
     "address": "Gurnard, Prince's Esplanade, Gurnard, Cowes, PO31 8LE 1930 Monday Prizes, £20 voucher | Free to play | Age 16+",
-    "latitude": "50.760665966578436",
+    "latitude": "50.76066597",
     "longitude": "-1.323321462",
     "date": "26-Jan-26",
     "time": "",
@@ -25617,7 +26897,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13234/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Woodvale Quiz Night"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13236",
@@ -25637,7 +26918,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13236/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13240",
@@ -25657,14 +26939,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13240/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Foster's Tavern"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13244",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Bar Gallus",
     "address": "80 Dumbarton Road, Glasgow, G11 6NX Wednesday Prizes, Booze, biscuits and a cash prize game | Free to play | Max 8 per team | Age 18+",
-    "latitude": "55.87018641547411",
+    "latitude": "55.87018642",
     "longitude": "-4.297556161",
     "date": "21-Jan-26",
     "time": "9pm",
@@ -25677,7 +26960,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13244/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Bar Gallus"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13245",
@@ -25697,7 +26981,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13245/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The William Peverel"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13249",
@@ -25717,14 +27002,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13249/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Parchment Makers"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13263",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Calder",
     "address": "Huddersfield Road, Brighouse, HD6 1JZ 9 Thursday",
-    "latitude": "53.70151449999999",
+    "latitude": "53.7015145",
     "longitude": "-1.778835",
     "date": "22-Jan-26",
     "time": "",
@@ -25737,7 +27023,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13263/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Calder"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13264",
@@ -25757,14 +27044,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13264/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13265",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Make And Mark",
     "address": "",
-    "latitude": "53.03276169999999",
+    "latitude": "53.0327617",
     "longitude": "-7.2995375",
     "date": "24-Jan-26",
     "time": "21:00",
@@ -25777,14 +27065,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13265/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Make And Mark"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13267",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Bell",
     "address": "12 Birmingham Road, Coleshill, Birmingham, B46 1AA Monday Prizes, Free Pizza, Cash and pub prizes to be won | £2 per person to play | Max 6 per team | Age 18++",
-    "latitude": "52.49954930000001",
+    "latitude": "52.4995493",
     "longitude": "-1.7089805",
     "date": "26-Jan-26",
     "time": "7.30pm",
@@ -25797,7 +27086,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13267/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Bell"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13269",
@@ -25817,14 +27107,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13269/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Slaughter House"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13271",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Greens Sports Bar Lancaster",
     "address": "63 North Road, Greens Sports Bar, Lancaster, LA1 1LU Tuesday Prizes, Cash Prize , Drinks Vouchers And More | £2 to play | Max 6 per team | Age 18+",
-    "latitude": "54.049909441905264",
+    "latitude": "54.04990944",
     "longitude": "-2.799357176",
     "date": "27-Jan-26",
     "time": "8pm",
@@ -25837,7 +27128,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13271/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Greens Sports Bar Lancaster"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13276",
@@ -25857,14 +27149,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13276/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Whiskey Cowboy Saloon"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13279",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Anvil",
     "address": "Aston Road, Shifnal, TF11 8DU Wednesday Prizes, Cash | £1 to play | Max 4 per team",
-    "latitude": "52.66729355606871",
+    "latitude": "52.66729356",
     "longitude": "-2.36866951",
     "date": "28-Jan-26",
     "time": "8pm",
@@ -25877,15 +27170,16 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13279/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Anvil"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13281",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Bull",
     "address": "79 Frant Road, Royal Tunbridge Wells, Tunbridge Wells, TN2 5LH Monday Prizes, Rolling Jackpot | £2 to play | Max 6 per team | Age 0+",
-    "latitude": "51.118411238971895",
-    "longitude": "0.26007771492004395",
+    "latitude": "51.11841124",
+    "longitude": "0.260077715",
     "date": "26-Jan-26",
     "time": "7.30pm",
     "repeat_day": "Monday",
@@ -25897,7 +27191,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13281/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Bull"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13284",
@@ -25917,7 +27212,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13284/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Mustang Pub"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13285",
@@ -25937,7 +27233,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13285/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Hog Wallow Tavern"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13286",
@@ -25957,14 +27254,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13286/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Il Tetto"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13292",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "White Boar",
     "address": "159 Radcliffe Road, White Boar Hotel, Bury, BL9 9LN Sunday Prizes, £35 bar tab | FREE to play | Max 8 per team | Age 18+",
-    "latitude": "53.579977443499736",
+    "latitude": "53.57997744",
     "longitude": "-2.304639816",
     "date": "25-Jan-26",
     "time": "7.45pm",
@@ -25977,7 +27275,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13292/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "White Boar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13293",
@@ -25997,7 +27296,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13293/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Woodlands"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13294",
@@ -26017,14 +27317,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13294/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The William Stead"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13300",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Hollywood Casino at T",
     "address": "",
-    "latitude": "40.22053009999999",
+    "latitude": "40.2205301",
     "longitude": "-80.2024816",
     "date": "",
     "time": "",
@@ -26037,14 +27338,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13300/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Hollywood Casino at T"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13303",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Tess Burkes",
     "address": "",
-    "latitude": "52.99520857069028",
+    "latitude": "52.99520857",
     "longitude": "-8.127404451",
     "date": "",
     "time": "",
@@ -26057,14 +27359,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13303/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Tess Burkes"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13305",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Rose",
     "address": "36 Overy Street, Dartford, DA1 1UP Sunday Prizes, Cash | £3 to play | Max 6 per team",
-    "latitude": "51.44520869999999",
+    "latitude": "51.4452087",
     "longitude": "0.2213382",
     "date": "25-Jan-26",
     "time": "7.30pm",
@@ -26077,14 +27380,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13305/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Rose"
+    "Quiz rating": "#N/A",
+    "Host rating": "3"
   },
   {
     "event_id": "13309",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Swan tavern",
     "address": "Swan Tavern, 46 Oldham Road, Sowerby Bridge, HX6 4DP 20:00 Thursday 22 Jan 2026Prizes, 30 | 0 to play | Max 6 per team | Age 16+",
-    "latitude": "53.67308270667217",
+    "latitude": "53.67308271",
     "longitude": "-1.944118738",
     "date": "22-Jan-26",
     "time": "20:00",
@@ -26097,7 +27401,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13309/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Swan tavern"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13310",
@@ -26117,14 +27422,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13310/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Marsh Gril"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13316",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "",
     "address": "41 Bramley Road, London, W10 6SZ Wednesday £3 to play",
-    "latitude": "51.51302829999999",
+    "latitude": "51.5130283",
     "longitude": "-0.2179423",
     "date": "21-Jan-26",
     "time": "7pm",
@@ -26137,7 +27443,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13316/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13322",
@@ -26157,7 +27464,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13322/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Stanley Snyder VFW"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13323",
@@ -26177,7 +27485,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13323/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Kelly's Side Door Tavern"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13325",
@@ -26197,14 +27506,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13325/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Rags to Riches"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13327",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Waggon & Horses",
     "address": "",
-    "latitude": "53.46659136609694",
+    "latitude": "53.46659137",
     "longitude": "-2.025346756",
     "date": "",
     "time": "",
@@ -26217,7 +27527,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13327/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Waggon & Horses"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13329",
@@ -26237,7 +27548,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13329/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Sycamore"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13332",
@@ -26257,7 +27569,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13332/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Barrett's Waterfront"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13335",
@@ -26277,7 +27590,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13335/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Reds"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13340",
@@ -26297,14 +27611,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13340/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Bogans"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13341",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Boston Bar",
     "address": "104 Hanover Street, Edinburgh, EH2 1DR Thursday Prizes, £50 vouchers for winner £30 vouchers for 2nd £20 v | FREE to play | Max N/ per team | Age 18+",
-    "latitude": "55.954040124927054",
+    "latitude": "55.95404012",
     "longitude": "-3.197696709",
     "date": "05-Feb-26",
     "time": "8pm",
@@ -26317,14 +27632,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13341/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Boston Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13342",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Brook",
     "address": "Station Approach, Brooklands Road, Sale, M33 3SQ Thursday Prizes, £40 bar Tab | FREE to play",
-    "latitude": "53.41716084651425",
+    "latitude": "53.41716085",
     "longitude": "-2.325787601",
     "date": "22-Jan-26",
     "time": "8.00pm",
@@ -26337,14 +27653,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13342/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Brook"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13344",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Whitesmiths Arms",
     "address": "",
-    "latitude": "53.54941630564839",
+    "latitude": "53.54941631",
     "longitude": "-2.629411914",
     "date": "",
     "time": "",
@@ -26357,7 +27674,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13344/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Whitesmiths Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13346",
@@ -26377,14 +27695,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13346/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Navigation"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13347",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Shepherds Call",
     "address": "216 Market Street, Hyde, SK14 1HB Thursday Prizes, £30 vouchers | Free to play | Max 6 per team | Age 18+",
-    "latitude": "53.44724220000001",
+    "latitude": "53.4472422",
     "longitude": "-2.0758258",
     "date": "22-Jan-26",
     "time": "8pm",
@@ -26397,14 +27716,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13347/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Shepherds Call"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13349",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Hook",
     "address": "2 Warsash Road, Warsash, Southampton, SO31 9HX Thursday Prizes, 1st place = £50 Cash Prize + on the spot raffle pr | £3.00 to play | Max 6 per team | Age 16+",
-    "latitude": "50.85309669999999",
+    "latitude": "50.8530967",
     "longitude": "-1.2996351",
     "date": "29-Jan-26",
     "time": "7.30pm",
@@ -26417,7 +27737,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13349/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Hook"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13356",
@@ -26437,14 +27758,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13356/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Lake House"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13358",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Aurora Brewing Company SY",
     "address": "",
-    "latitude": "43.04656809999999",
+    "latitude": "43.0465681",
     "longitude": "-76.190283",
     "date": "",
     "time": "",
@@ -26457,7 +27779,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13358/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Aurora Brewing Company SY"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13361",
@@ -26477,7 +27800,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13361/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Alumni Sports Cafe"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13363",
@@ -26497,7 +27821,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13363/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Fowler's Malahide"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13364",
@@ -26517,7 +27842,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13364/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Rocks Bar & Grill"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13367",
@@ -26537,15 +27863,16 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13367/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "LuLu's"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13368",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Quiz Night & Bingo (The Rabbits)",
     "address": "The Rabbits, Stapleford Rd, Stapleford Abbotts, RM4 1RP 19:30 Thursday 29 Jan 2026Prizes, Cash Prize for 1st place | £3 per person to play | Max 5 per team | Age 18+",
-    "latitude": "51.648383044369034",
-    "longitude": "0.1687002182006836",
+    "latitude": "51.64838304",
+    "longitude": "0.168700218",
     "date": "29-Jan-26",
     "time": "19:30",
     "repeat_day": "Thursday",
@@ -26557,14 +27884,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13368/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Quiz Night & Bingo (The Rabbits)"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13370",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Astley Arms",
     "address": "1 Chapel Street, Dukinfield, SK16 4BT Tuesday Prizes, £30 vouchers | Free to play | Max 6 per team | Age 18+",
-    "latitude": "53.478092405510466",
+    "latitude": "53.47809241",
     "longitude": "-2.086393833",
     "date": "27-Jan-26",
     "time": "8pm",
@@ -26577,14 +27905,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13370/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Astley Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13385",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Wilders Pizza",
     "address": "",
-    "latitude": "27.49221989999999",
+    "latitude": "27.4922199",
     "longitude": "-82.5750638",
     "date": "27-Jan-26",
     "time": "07:00",
@@ -26597,7 +27926,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13385/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Wilders Pizza"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13387",
@@ -26617,7 +27947,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13387/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Bugle Horn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13388",
@@ -26637,14 +27968,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13388/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Coach House"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13391",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "",
     "address": "",
-    "latitude": "53.27555359999999",
+    "latitude": "53.2755536",
     "longitude": "-9.0490222",
     "date": "",
     "time": "",
@@ -26657,14 +27989,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13391/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13395",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Queens",
     "address": "",
-    "latitude": "53.41980241687692",
+    "latitude": "53.41980242",
     "longitude": "-2.109775316",
     "date": "",
     "time": "",
@@ -26677,7 +28010,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13395/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Queens"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13398",
@@ -26697,7 +28031,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13398/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Grafton"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13400",
@@ -26717,7 +28052,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13400/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "McSorley's"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13410",
@@ -26737,7 +28073,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13410/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Archie's on Carson"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13418",
@@ -26757,14 +28094,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13418/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Wilson's Estate Vineyard"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13419",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Sportsman",
     "address": "1 Denton Lane, Chadderton, Oldham, OL9 9EA Thursday Prizes, £30 vouchers | Free to play | Max 6 per team | Age 18+",
-    "latitude": "53.53423429999999",
+    "latitude": "53.5342343",
     "longitude": "-2.1521436",
     "date": "29-Jan-26",
     "time": "8pm",
@@ -26777,7 +28115,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13419/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Sportsman"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13424",
@@ -26797,7 +28136,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13424/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Hollywood Casino at The M"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13425",
@@ -26817,7 +28157,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13425/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Roger Browns Restaurant a"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13426",
@@ -26837,7 +28178,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13426/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "LSB Abu Dhabi"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13429",
@@ -26857,14 +28199,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13429/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13431",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Red Lion",
     "address": "9 Ash Brow, Newburgh, Wigan, WN8 7NF 19:30 Sunday 25 Jan 2026Prizes, £20 Bar Tab, Plus Cash Prize | 1 to play | Max 5 per team | Age 16+",
-    "latitude": "53.586321199945274",
+    "latitude": "53.5863212",
     "longitude": "-2.780828476",
     "date": "25-Jan-26",
     "time": "19:30",
@@ -26877,14 +28220,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13431/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Red Lion"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13434",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Bird I'th Hand",
     "address": "Flixton Road, Urmston, Manchester, M41 5DN Sunday Prizes, 1st Place Prize £50 Cash, 2nd Place, £25 bar tab | Free to play | Max 6 per team | Age 18+",
-    "latitude": "53.44880683542759",
+    "latitude": "53.44880684",
     "longitude": "-2.37336874",
     "date": "25-Jan-26",
     "time": "7pm",
@@ -26897,7 +28241,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13434/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Bird I'th Hand"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13435",
@@ -26917,14 +28262,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13435/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Premium Bar, Moraira"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13436",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Caernarvon Castle",
     "address": "Bidston Road, Birkenhead, Prenton, CH43 2JZ 8.30 Sunday 25 Jan 2026Prizes, Cash Prizes | £2.00 to play | Max N/ per team | Age 18+",
-    "latitude": "53.38260523997492",
+    "latitude": "53.38260524",
     "longitude": "-3.052107096",
     "date": "25-Jan-26",
     "time": "8.3",
@@ -26937,7 +28283,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13436/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Caernarvon Castle"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13439",
@@ -26957,7 +28304,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13439/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Brighton Belle"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13440",
@@ -26977,7 +28325,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13440/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Blue Bell (Bury)"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13445",
@@ -26997,7 +28346,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13445/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Grist Iron Brewin"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13460",
@@ -27017,7 +28367,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13460/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Honey and Harvery Ipswich"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13466",
@@ -27037,14 +28388,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13466/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Spiritualist Aberdeen"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13471",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Roddy McCorley Heritage Cen",
     "address": "203 Glen Road, Belfast, BT11 8QX 20.30 Thursday 22 Jan 2026FREE to play | Max 5 per team | Age 18+",
-    "latitude": "54.57735109999999",
+    "latitude": "54.5773511",
     "longitude": "-6.009903",
     "date": "22-Jan-26",
     "time": "20.3",
@@ -27057,14 +28409,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13471/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Roddy McCorley Heritage Cen"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13475",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Suffolk Inn Belfast",
     "address": "51 Suffolk Road, Belfast, BT11 9PE 20.00 Friday 23 Jan 2026FREE to play | Max 5 per team | Age 18+",
-    "latitude": "54.57152499999999",
+    "latitude": "54.571525",
     "longitude": "-6.0178156",
     "date": "23-Jan-26",
     "time": "20",
@@ -27077,14 +28430,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13475/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Suffolk Inn Belfast"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13480",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Marinero Lounge Ipswich",
     "address": "15 Saint Peters Wharf, Ipswich, IP4 1GF Wednesday",
-    "latitude": "52.05230659999999",
+    "latitude": "52.0523066",
     "longitude": "1.1549186",
     "date": "21-Jan-26",
     "time": "7pm",
@@ -27097,7 +28451,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13480/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Marinero Lounge Ipswich"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13481",
@@ -27117,14 +28472,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13481/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Prince of Orange"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13487",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Mad Giant",
     "address": "Mad Giant Foodhall, Animate, Tenterfield Street, Preston, PR1 2BL Sunday Prizes, Bar Tabs | £2 to play | Max N/ per team | Age N/A+",
-    "latitude": "53.76118334422526",
+    "latitude": "53.76118334",
     "longitude": "-2.70034343",
     "date": "25-Jan-26",
     "time": "3pm",
@@ -27137,7 +28493,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13487/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Mad Giant"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13493",
@@ -27157,7 +28514,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13493/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Golden Slipper"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13497",
@@ -27177,7 +28535,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13497/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "McFarland's"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13498",
@@ -27197,7 +28556,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13498/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Tap'd on Main"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13502",
@@ -27217,7 +28577,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13502/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Coach House"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13505",
@@ -27237,14 +28598,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13505/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13517",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Carpenters Arms",
     "address": "56 Southgate, Market Weighton, York, YO43 3BQ 19:30 Sunday 25 Jan 2026Prizes, Winning team takes the pot | £2 to play",
-    "latitude": "53.861671376134176",
+    "latitude": "53.86167138",
     "longitude": "-0.663379204",
     "date": "25-Jan-26",
     "time": "19:30",
@@ -27257,7 +28619,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13517/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Carpenters Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13519",
@@ -27277,7 +28640,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13519/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Towne Tavern"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13524",
@@ -27297,14 +28661,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13524/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Lanigans Irish Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13526",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Lighthouse Pub",
     "address": "Wallasey Village, Wallasey, CH45 3LP Sunday Prizes, £40 voucher + randomised rollover jackpot | £2 (free for your 1st go) to play | Max 6 per team | Age 18+",
-    "latitude": "53.42685887528305",
+    "latitude": "53.42685888",
     "longitude": "-3.067006985",
     "date": "25-Jan-26",
     "time": "7pm",
@@ -27317,7 +28682,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13526/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Lighthouse Pub"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13529",
@@ -27337,7 +28703,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13529/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Stocks Tavern, Parbold"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13536",
@@ -27357,14 +28724,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13536/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Mulconry's Irish Pub & Re"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13538",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Backstage Cleveleys!",
     "address": "107-109 Victoria Road West, Thornton-Cleveleys, FY5 3LA 20:00 Wednesday 21 Jan 2026£2 to play",
-    "latitude": "53.87669518476063",
+    "latitude": "53.87669518",
     "longitude": "-3.038238526",
     "date": "21-Jan-26",
     "time": "20:00",
@@ -27377,7 +28745,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13538/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Backstage Cleveleys!"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13546",
@@ -27385,7 +28754,7 @@ window.eventsData = [
     "venue_name": "Nox Lifestyle",
     "address": "",
     "latitude": "6.4445898",
-    "longitude": "7.511345299999999",
+    "longitude": "7.5113453",
     "date": "",
     "time": "",
     "repeat_day": "",
@@ -27397,7 +28766,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13546/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Nox Lifestyle"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13548",
@@ -27417,14 +28787,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13548/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "JM Reidys"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13558",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Melbourne Arms",
     "address": "Main Street, Melbourne, York, YO42 4QJ 19:00 Friday 6 Feb 2026Prizes, Winning team takes the pot | £2 to play",
-    "latitude": "53.88735721259829",
+    "latitude": "53.88735721",
     "longitude": "-0.855345726",
     "date": "06-Feb-26",
     "time": "19:00",
@@ -27437,7 +28808,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13558/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Melbourne Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13560",
@@ -27457,7 +28829,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13560/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Peacock Kettering"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13561",
@@ -27477,7 +28850,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13561/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Lion Treorchy"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13572",
@@ -27497,14 +28871,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13572/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Buckwild Saloon"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13580",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Commercial Inn",
     "address": "Manor Park Road, Glossop, SK13 7SH Tuesday 1.50 to play | Max 6 per team | Age 18+",
-    "latitude": "53.44572909999999",
+    "latitude": "53.4457291",
     "longitude": "-1.9391368",
     "date": "27-Jan-26",
     "time": "8pm",
@@ -27517,14 +28892,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13580/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Commercial Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13583",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "",
     "address": "Shroppie Fly, Audlem Wharf, Crewe, CW3 0DX Saturday Prizes, Split of entry fee | £1 to play | Max 8 per team | Age None+",
-    "latitude": "52.98875059661576",
+    "latitude": "52.9887506",
     "longitude": "-2.51116991",
     "date": "24-Jan-26",
     "time": "8pm",
@@ -27537,7 +28913,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13583/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13588",
@@ -27557,14 +28934,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13588/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Berretto Lounge"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13592",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Dog And Pheasant",
     "address": "528 Oldham Rd, Ashton-under-Lyne, OL7 9PQ 8:30 Thursday 22 Jan 2026Prizes, £20 voucher | Free to play | Max N/ per team | Age 18+",
-    "latitude": "53.50433229999999",
+    "latitude": "53.5043323",
     "longitude": "-2.1054554",
     "date": "22-Jan-26",
     "time": "08:30",
@@ -27577,7 +28955,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13592/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Dog And Pheasant"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13596",
@@ -27597,7 +28976,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13596/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Shorty's Place"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13600",
@@ -27617,15 +28997,16 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13600/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Voodoo Brewery"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13601",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Hollywood QUIZ",
     "address": "",
-    "latitude": "49.19882625776832",
-    "longitude": "21.652936935424805",
+    "latitude": "49.19882626",
+    "longitude": "21.65293694",
     "date": "31-Jan-26",
     "time": "20:00",
     "repeat_day": "Saturday",
@@ -27637,7 +29018,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13601/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Hollywood QUIZ"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13605",
@@ -27657,7 +29039,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13605/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Jawbone Tavern"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13606",
@@ -27677,14 +29060,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13606/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Goose Island JBR"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13609",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Delph Band Club",
     "address": "Delph Band Club, Lawton Square, Delph, Oldham, OL3 5DT Thursday Prizes, Cash prize, drinks, chocolates, snacks | £2 to play | Max 6 per team",
-    "latitude": "53.568069539757275",
+    "latitude": "53.56806954",
     "longitude": "-2.023130448",
     "date": "29-Jan-26",
     "time": "7:00pm",
@@ -27697,14 +29081,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13609/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Delph Band Club"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13610",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Six Bells",
     "address": "43 High Street, Thame, OX9 2AD 19:30 Monday 26 Jan 20260 to play",
-    "latitude": "51.74948448536046",
+    "latitude": "51.74948449",
     "longitude": "-0.982890129",
     "date": "26-Jan-26",
     "time": "19:30",
@@ -27717,7 +29102,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13610/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Six Bells"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13611",
@@ -27737,7 +29123,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13611/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Island Vibes Kava Bar"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13628",
@@ -27757,7 +29144,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13628/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "McGettigan's Dubai Science"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13632",
@@ -27777,7 +29165,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13632/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Marsh Grille & Tap"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13636",
@@ -27797,7 +29186,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13636/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Goose Island JVC"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13647",
@@ -27817,7 +29207,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13647/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Chatham Town FC"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13649",
@@ -27837,7 +29228,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13649/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Royal forester Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13651",
@@ -27857,7 +29249,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13651/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Lift"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13653",
@@ -27877,7 +29270,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13653/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "MiddleCoast Brewing Compa"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13656",
@@ -27897,7 +29291,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13656/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Home Plate Bay Street Gr"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13657",
@@ -27917,7 +29312,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13657/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Cheadle and gatley conserva"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13660",
@@ -27937,7 +29333,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13660/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Horse & Jockey"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13663",
@@ -27957,7 +29354,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13663/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Antonio's Pizza by the S"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13664",
@@ -27977,7 +29375,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13664/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Apple Valley Road Haus and"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13665",
@@ -27997,14 +29396,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13665/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Railery Public Hou"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13667",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Taunton Town Football Club",
     "address": "Cygnet Healthcare Stadium, Wordsworth Drive, Taunton, TA1 2HG Friday £3.50 to play | Max 6 per team | Age Unde+",
-    "latitude": "51.01691110732828",
+    "latitude": "51.01691111",
     "longitude": "-3.085995663",
     "date": "30-Jan-26",
     "time": "8pm",
@@ -28017,14 +29417,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13667/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Taunton Town Football Club"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13670",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Kitty O Sheas West",
     "address": "500 Great Western Road, Glasgow, G12 8EL Monday",
-    "latitude": "55.87572249999999",
+    "latitude": "55.8757225",
     "longitude": "-4.2823183",
     "date": "02-Feb-26",
     "time": "8pm",
@@ -28037,14 +29438,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13670/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Kitty O Sheas West"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13675",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Royal Oak",
     "address": "16 Warrenhouse Road, Crosby, Liverpool, L22 6QN Wednesday",
-    "latitude": "53.48326329484499",
+    "latitude": "53.48326329",
     "longitude": "-3.039187247",
     "date": "21-Jan-26",
     "time": "8:00pm",
@@ -28057,7 +29459,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13675/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Royal Oak"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13678",
@@ -28077,14 +29480,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13678/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Directors Box"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13679",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Lanigans Wood Street",
     "address": "",
-    "latitude": "53.40351889999999",
+    "latitude": "53.4035189",
     "longitude": "-2.9804444",
     "date": "",
     "time": "",
@@ -28097,7 +29501,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13679/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Lanigans Wood Street"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13683",
@@ -28117,7 +29522,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13683/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "O'Learys"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13687",
@@ -28137,14 +29543,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13687/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "LUK'S BAR AND GRILL"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13694",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "STACK Newcastle",
     "address": "STACK Newcastle, Worswick Chambers, Newcastle upon Tyne, NE1 6QE 16:30 Sunday 25 Jan 2026Prizes, Up to £300 Cash | 5 to play",
-    "latitude": "54.97259384512237",
+    "latitude": "54.97259385",
     "longitude": "-1.610615862",
     "date": "25-Jan-26",
     "time": "16:30",
@@ -28157,7 +29564,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13694/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "STACK Newcastle"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13695",
@@ -28177,7 +29585,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13695/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Station One"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13697",
@@ -28197,7 +29606,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13697/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13699",
@@ -28217,7 +29627,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13699/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13700",
@@ -28237,7 +29648,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13700/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Main St. Vicksburg"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13704",
@@ -28257,7 +29669,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13704/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13707",
@@ -28277,7 +29690,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13707/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Oak Ridge Family Social Clu"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13710",
@@ -28297,14 +29711,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13710/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13711",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Crown Quater",
     "address": "",
-    "latitude": "52.34176132458234",
+    "latitude": "52.34176132",
     "longitude": "-6.462575691",
     "date": "",
     "time": "",
@@ -28317,14 +29732,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13711/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Crown Quater"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13713",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Balmoral",
     "address": "94 Bradshawgate, Bolton, BL1 1QQ Wednesday Prizes, £25 Bar Tab | Free to play | Max 6 per team | Age 18+",
-    "latitude": "53.57705713881978",
+    "latitude": "53.57705714",
     "longitude": "-2.42613634",
     "date": "21-Jan-26",
     "time": "8pm",
@@ -28337,7 +29753,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13713/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Balmoral"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13714",
@@ -28357,7 +29774,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13714/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "the north terrace"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13721",
@@ -28377,7 +29795,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13721/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Henry Citizens Club"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13723",
@@ -28397,7 +29816,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13723/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Rose and Crown"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13724",
@@ -28417,7 +29837,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13724/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Pelton Arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13725",
@@ -28437,7 +29858,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13725/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Grayling"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13726",
@@ -28457,7 +29879,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13726/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Tim's On-Line Quiz"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13728",
@@ -28477,7 +29900,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13728/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Wilbraham arms"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13729",
@@ -28485,7 +29909,7 @@ window.eventsData = [
     "venue_name": "The Greyhound - Chevington",
     "address": "2 Chedburgh Road, Chevington, Bury Saint Edmunds, IP29 5QS 7.30 Tuesday 17 Feb 20263 to play | Max 6 per team | Age 16+",
     "latitude": "52.2014979",
-    "longitude": "0.6079481999999999",
+    "longitude": "0.6079482",
     "date": "17-Feb-26",
     "time": "7.3",
     "repeat_day": "Tuesday",
@@ -28497,14 +29921,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13729/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Greyhound - Chevington"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13730",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Market Drayton Royal Britis",
     "address": "Market Drayton Royal British Legion, Church Street, Market Drayton, TF9 1AF 19:30 Wednesday 11 Feb 2026Prizes, Cash | £2 to play | Max 5 per team",
-    "latitude": "52.902425644562086",
+    "latitude": "52.90242564",
     "longitude": "-2.484922664",
     "date": "11-Feb-26",
     "time": "19:30",
@@ -28517,14 +29942,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13730/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Market Drayton Royal Britis"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13731",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "",
     "address": "",
-    "latitude": "52.90149928915951",
+    "latitude": "52.90149929",
     "longitude": "-2.491750717",
     "date": "04-Mar-26",
     "time": "19:30",
@@ -28537,14 +29963,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13731/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13732",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Stenhousemuir Cricket Club",
     "address": "",
-    "latitude": "56.03143737752564",
+    "latitude": "56.03143738",
     "longitude": "-3.818832636",
     "date": "",
     "time": "",
@@ -28557,7 +29984,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13732/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Stenhousemuir Cricket Club"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13733",
@@ -28577,7 +30005,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13733/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Premi\\u00e9ra \\u2013 KC Il\\u00fazia"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13734",
@@ -28585,7 +30014,7 @@ window.eventsData = [
     "venue_name": "The River Ale House",
     "address": "131 Woolwich Road, London, SE10 0RJ 19:30 Sunday 25 Jan 2026Prizes, Cash prizes | £3 to play",
     "latitude": "51.48618981",
-    "longitude": "0.013258615999340861",
+    "longitude": "0.013258616",
     "date": "25-Jan-26",
     "time": "19:30",
     "repeat_day": "Sunday",
@@ -28597,7 +30026,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13734/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The River Ale House"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13735",
@@ -28617,14 +30047,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13735/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Lawrence Batley Theatre"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13736",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Georgia Browns",
     "address": "79-81 Market Street, Hindley, Wigan, WN2 3AE Tuesday",
-    "latitude": "53.53600609999999",
+    "latitude": "53.5360061",
     "longitude": "-2.576981",
     "date": "27-Jan-26",
     "time": "7:30pm",
@@ -28637,7 +30068,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13736/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Georgia Browns"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13737",
@@ -28657,14 +30089,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13737/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Tapped"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13738",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "Towcester Mill Brewery",
     "address": "",
-    "latitude": "52.13315875875815",
+    "latitude": "52.13315876",
     "longitude": "-0.987004638",
     "date": "",
     "time": "",
@@ -28677,7 +30110,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13738/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Towcester Mill Brewery"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13739",
@@ -28697,7 +30131,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13739/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "Tiki Underground"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13740",
@@ -28717,7 +30152,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13740/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13741",
@@ -28737,14 +30173,15 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13741/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "CentreStage"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13742",
     "event_title": "SpeedQuizzing Event",
     "venue_name": "The Dew Drop Inn",
     "address": "49 Loughborough Road, Hathern, Loughborough, LE12 5HY Thursday Prizes, Drinks | Free to play | Max 1 per team | Age 0+",
-    "latitude": "52.79319710000001",
+    "latitude": "52.7931971",
     "longitude": "-1.2589873",
     "date": "22-Jan-26",
     "time": "7.00pm",
@@ -28757,7 +30194,8 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13742/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": "The Dew Drop Inn"
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   },
   {
     "event_id": "13743",
@@ -28777,6 +30215,7 @@ window.eventsData = [
     "event_url": "https://www.speedquizzing.com/events/13743/",
     "source_preview": "yes",
     "source_page": "yes",
-    "": ""
+    "Quiz rating": "#N/A",
+    "Host rating": "#N/A"
   }
 ];
