@@ -158,6 +158,23 @@
             border: 2px solid #fff;
             box-shadow: 0 0 3px rgba(0,0,0,0.3);
         }
+        
+        .rating-container {
+            margin: 5px 0;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+        
+        .star-rating {
+            display: inline-flex;
+            gap: 2px;
+        }
+        
+        .star {
+            font-size: 16px;
+            color: #FFD700;
+        }
     </style>
 </head>
 <body>
@@ -301,7 +318,21 @@
             reader.readAsText(file);
         }
         
+        function createStarRating(rating) {
+            const numStars = parseInt(rating) || 0;
+            if (numStars === 0) return '<span style="color: #999;">Not rated</span>';
+            
+            let stars = '';
+            for (let i = 0; i < numStars; i++) {
+                stars += '<span class="star">★</span>';
+            }
+            return `<span class="star-rating">${stars}</span>`;
+        }
+        
         function createPopupContent(event) {
+            const quizRating = event['Quiz rating'] || event.quiz_rating || '';
+            const hostRating = event['Host rating'] || event.host_rating || '';
+            
             return `
                 <div class="popup-content">
                     <h3>${event.venue_name}</h3>
@@ -314,6 +345,12 @@
                     <p><strong>Price:</strong> ${event.price || 'Free'}</p>
                     <p><strong>Max Team Size:</strong> ${event.teams_max || 'N/A'}</p>
                     ${event.age_limit ? `<p><strong>Age Limit:</strong> ${event.age_limit}</p>` : ''}
+                    <div class="rating-container">
+                        <strong>Quiz Rating:</strong> ${createStarRating(quizRating)}
+                    </div>
+                    <div class="rating-container">
+                        <strong>Host Rating:</strong> ${createStarRating(hostRating)}
+                    </div>
                 </div>
             `;
         }
@@ -459,4 +496,3 @@
     </script>
 </body>
 </html>
-
