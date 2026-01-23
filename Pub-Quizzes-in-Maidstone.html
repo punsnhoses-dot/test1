@@ -102,6 +102,58 @@
             font-size: 16px;
             color: #FFD700;
         }
+        
+        .feedback-section {
+            margin-top: 12px;
+            padding-top: 10px;
+            border-top: 1px solid #e0e0e0;
+        }
+        
+        .feedback-section strong {
+            display: block;
+            margin-bottom: 6px;
+            color: #764ba2;
+            font-size: 13px;
+        }
+        
+        .feedback-badges {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+        
+        .feedback-badge {
+            display: inline-flex;
+            align-items: center;
+            padding: 4px 10px;
+            border-radius: 12px;
+            font-size: 11px;
+            font-weight: 500;
+            white-space: nowrap;
+        }
+        
+        .feedback-badge.positive {
+            background-color: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+        
+        .feedback-badge.neutral {
+            background-color: #fff3cd;
+            color: #856404;
+            border: 1px solid #ffeaa7;
+        }
+        
+        .feedback-badge.negative {
+            background-color: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+        
+        .badge-count {
+            margin-left: 4px;
+            font-weight: 600;
+        }
     </style>
 </head>
 <body>
@@ -251,6 +303,54 @@
             return `<span class="star-rating">${stars}</span>${reviewText}`;
         }
         
+        function createFeedbackBadges(event) {
+            // Define phrases and their categories
+            const phrases = {
+                'Great host': { key: 'Great host', type: 'positive' },
+                'Good venue': { key: 'Good venue', type: 'positive' },
+                'Fun format': { key: 'Fun format', type: 'positive' },
+                'Good bar prices': { key: 'Good bar prices', type: 'positive' },
+                'Good prizes': { key: 'Good prizes', type: 'positive' },
+                'Would attend again': { key: 'Would attend again', type: 'positive' },
+                'Too easy': { key: 'Too easy', type: 'neutral' },
+                'Too hard': { key: 'Too hard', type: 'neutral' },
+                'Bad bar prices': { key: 'Bad bar prices', type: 'negative' },
+                'Incorrect answers': { key: 'Incorrect answers', type: 'negative' }
+            };
+            
+            // Collect phrases with counts
+            const feedbackItems = [];
+            Object.entries(phrases).forEach(([key, config]) => {
+                const value = event[key] || event[key.toLowerCase().replace(/ /g, '_')];
+                if (value && value !== '#N/A' && value !== 'N/A' && value.toString().trim() !== '') {
+                    const count = parseInt(value) || 0;
+                    if (count > 0) {
+                        feedbackItems.push({ phrase: key, count: count, type: config.type });
+                    }
+                }
+            });
+            
+            // Sort by count (highest first)
+            feedbackItems.sort((a, b) => b.count - a.count);
+            
+            // Return empty string if no feedback
+            if (feedbackItems.length === 0) {
+                return '';
+            }
+            
+            // Create badges HTML
+            const badges = feedbackItems.map(item => 
+                `<span class="feedback-badge ${item.type}">${item.phrase}<span class="badge-count">(${item.count})</span></span>`
+            ).join('');
+            
+            return `
+                <div class="feedback-section">
+                    <strong>What People Are Saying:</strong>
+                    <div class="feedback-badges">${badges}</div>
+                </div>
+            `;
+        }
+        
         function createPopupContent(event) {
             const formattedDate = formatDate(event.date);
             const formattedTime = formatTime(event.time);
@@ -277,6 +377,7 @@
                     <div class="rating-container">
                         <strong>Host Rating:</strong> ${createStarRating(hostRating, hostReviewCount)}
                     </div>
+                    ${createFeedbackBadges(event)}
                 </div>
             `;
         }
