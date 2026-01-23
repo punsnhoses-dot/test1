@@ -318,7 +318,7 @@
             reader.readAsText(file);
         }
         
-        function createStarRating(rating) {
+        function createStarRating(rating, reviewCount) {
             // Handle Excel #N/A values and empty/invalid ratings
             if (!rating || rating === '#N/A' || rating === 'N/A' || rating.toString().trim() === '') {
                 return '<span style="color: #999;">Not rated</span>';
@@ -331,12 +331,24 @@
             for (let i = 0; i < numStars; i++) {
                 stars += '<span class="star">★</span>';
             }
-            return `<span class="star-rating">${stars}</span>`;
+            
+            // Add review count if available
+            let reviewText = '';
+            if (reviewCount && reviewCount !== '#N/A' && reviewCount !== 'N/A' && reviewCount.toString().trim() !== '') {
+                const numReviews = parseInt(reviewCount) || 0;
+                if (numReviews > 0) {
+                    reviewText = ` <span style="color: #666; font-size: 0.9em;">(${numReviews} ${numReviews === 1 ? 'review' : 'reviews'})</span>`;
+                }
+            }
+            
+            return `<span class="star-rating">${stars}</span>${reviewText}`;
         }
         
         function createPopupContent(event) {
             const quizRating = event['Quiz rating'] || event.quiz_rating || '';
             const hostRating = event['Host rating'] || event.host_rating || '';
+            const quizReviewCount = event['Number of Quiz reviews'] || event.number_of_quiz_reviews || '';
+            const hostReviewCount = event['Number of Host reviews'] || event.number_of_host_reviews || '';
             
             return `
                 <div class="popup-content">
@@ -351,10 +363,10 @@
                     <p><strong>Max Team Size:</strong> ${event.teams_max || 'N/A'}</p>
                     ${event.age_limit ? `<p><strong>Age Limit:</strong> ${event.age_limit}</p>` : ''}
                     <div class="rating-container">
-                        <strong>Quiz Rating:</strong> ${createStarRating(quizRating)}
+                        <strong>Quiz Rating:</strong> ${createStarRating(quizRating, quizReviewCount)}
                     </div>
                     <div class="rating-container">
-                        <strong>Host Rating:</strong> ${createStarRating(hostRating)}
+                        <strong>Host Rating:</strong> ${createStarRating(hostRating, hostReviewCount)}
                     </div>
                 </div>
             `;
