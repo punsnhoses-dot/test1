@@ -20,7 +20,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "76",
@@ -43,7 +53,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "78",
@@ -66,7 +86,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "87",
@@ -89,7 +119,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "229",
@@ -112,7 +152,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "322",
@@ -135,7 +185,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "385",
@@ -158,7 +218,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "491",
@@ -181,7 +251,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "492",
@@ -204,7 +284,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "512",
@@ -227,7 +317,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "515",
@@ -250,7 +350,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "526",
@@ -273,7 +383,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "533",
@@ -296,7 +416,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "563",
@@ -319,7 +449,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "573",
@@ -342,7 +482,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "600",
@@ -365,7 +515,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "611",
@@ -388,7 +548,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "668",
@@ -411,7 +581,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "712",
@@ -434,7 +614,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "715",
@@ -457,7 +647,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "735",
@@ -480,7 +680,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "778",
@@ -503,7 +713,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "871",
@@ -526,7 +746,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "874",
@@ -549,7 +779,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "903",
@@ -572,7 +812,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "916",
@@ -595,7 +845,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "920",
@@ -618,7 +878,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "922",
@@ -641,7 +911,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "926",
@@ -664,7 +944,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "931",
@@ -687,7 +977,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "942",
@@ -710,7 +1010,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "962",
@@ -733,7 +1043,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "969",
@@ -756,7 +1076,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "979",
@@ -779,7 +1109,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "1008",
@@ -802,7 +1142,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "1009",
@@ -825,7 +1175,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "1041",
@@ -848,7 +1208,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "1053",
@@ -871,7 +1241,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "1094",
@@ -894,7 +1274,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "1127",
@@ -917,7 +1307,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "1138",
@@ -940,7 +1340,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "1152",
@@ -963,7 +1373,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "1177",
@@ -986,7 +1406,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "1204",
@@ -1009,7 +1439,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "1232",
@@ -1032,7 +1472,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "1261",
@@ -1055,7 +1505,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "1272",
@@ -1078,7 +1538,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "1278",
@@ -1101,7 +1571,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "1282",
@@ -1124,7 +1604,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "1316",
@@ -1147,7 +1637,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "1344",
@@ -1170,7 +1670,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "1358",
@@ -1193,7 +1703,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "1374",
@@ -1216,7 +1736,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "1510",
@@ -1239,7 +1769,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "1538",
@@ -1262,7 +1802,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "1562",
@@ -1285,7 +1835,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "1595",
@@ -1308,7 +1868,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "1664",
@@ -1331,7 +1901,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "1741",
@@ -1354,7 +1934,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "1744",
@@ -1377,7 +1967,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "1760",
@@ -1400,7 +2000,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "1832",
@@ -1423,7 +2033,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "1899",
@@ -1446,7 +2066,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "1914",
@@ -1469,7 +2099,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "1915",
@@ -1492,7 +2132,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "1951",
@@ -1515,7 +2165,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "2032",
@@ -1538,7 +2198,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "2075",
@@ -1561,7 +2231,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "2080",
@@ -1584,7 +2264,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "2144",
@@ -1607,7 +2297,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "2149",
@@ -1630,7 +2330,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "2164",
@@ -1653,7 +2363,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "2174",
@@ -1676,7 +2396,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "2192",
@@ -1699,7 +2429,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "2196",
@@ -1722,7 +2462,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "2211",
@@ -1745,7 +2495,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "2217",
@@ -1768,7 +2528,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "2285",
@@ -1791,7 +2561,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "2313",
@@ -1814,7 +2594,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "2369",
@@ -1837,7 +2627,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "2469",
@@ -1860,7 +2660,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "2473",
@@ -1883,7 +2693,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "2537",
@@ -1906,7 +2726,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "2562",
@@ -1929,7 +2759,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "2580",
@@ -1952,7 +2792,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "2590",
@@ -1975,7 +2825,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "2592",
@@ -1998,7 +2858,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "2656",
@@ -2021,7 +2891,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "2667",
@@ -2044,7 +2924,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "2697",
@@ -2067,7 +2957,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "2770",
@@ -2090,7 +2990,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "2778",
@@ -2113,7 +3023,17 @@ window.eventsData = [
     "Quiz rating": "5",
     "Host rating": "3",
     "Number of Quiz reviews": "2",
-    "Number of Host reviews": "2"
+    "Number of Host reviews": "2",
+    "Bad bar prices": "1",
+    "Fun format": "2",
+    "Good bar prices": "0",
+    "Good prizes": "1",
+    "Good venue": "1",
+    "Great host": "1",
+    "Incorrect answers": "0",
+    "Too easy": "0",
+    "Too hard": "0",
+    "Would attend again": "1"
   },
   {
     "event_id": "2848",
@@ -2136,7 +3056,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "3011",
@@ -2159,7 +3089,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "3030",
@@ -2182,7 +3122,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "3050",
@@ -2205,7 +3155,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "3069",
@@ -2228,7 +3188,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "3093",
@@ -2251,7 +3221,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "3095",
@@ -2274,7 +3254,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "3124",
@@ -2297,7 +3287,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "3159",
@@ -2320,7 +3320,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "3171",
@@ -2343,7 +3353,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "3259",
@@ -2366,7 +3386,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "3393",
@@ -2389,7 +3419,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "3406",
@@ -2412,7 +3452,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "3417",
@@ -2435,7 +3485,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "3429",
@@ -2458,7 +3518,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "3514",
@@ -2481,7 +3551,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "3541",
@@ -2504,7 +3584,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "3550",
@@ -2527,7 +3617,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "3722",
@@ -2550,7 +3650,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "3736",
@@ -2573,7 +3683,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "3846",
@@ -2596,7 +3716,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "3858",
@@ -2619,7 +3749,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "3880",
@@ -2642,7 +3782,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "3910",
@@ -2665,7 +3815,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "3915",
@@ -2688,7 +3848,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "3927",
@@ -2711,7 +3881,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "3930",
@@ -2734,7 +3914,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "3934",
@@ -2757,7 +3947,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "3954",
@@ -2780,7 +3980,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "3957",
@@ -2803,7 +4013,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "3987",
@@ -2826,7 +4046,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4106",
@@ -2849,7 +4079,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4118",
@@ -2872,7 +4112,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4119",
@@ -2895,7 +4145,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4122",
@@ -2918,7 +4178,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4125",
@@ -2941,7 +4211,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4153",
@@ -2964,7 +4244,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4183",
@@ -2987,7 +4277,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4185",
@@ -3010,7 +4310,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4196",
@@ -3033,7 +4343,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4238",
@@ -3056,7 +4376,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4246",
@@ -3079,7 +4409,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4322",
@@ -3102,7 +4442,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4379",
@@ -3125,7 +4475,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4409",
@@ -3148,7 +4508,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4416",
@@ -3171,7 +4541,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4433",
@@ -3194,7 +4574,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4487",
@@ -3217,7 +4607,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4535",
@@ -3240,7 +4640,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4546",
@@ -3263,7 +4673,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4548",
@@ -3286,7 +4706,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4561",
@@ -3309,7 +4739,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4586",
@@ -3332,7 +4772,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4587",
@@ -3355,7 +4805,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4590",
@@ -3378,7 +4838,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4598",
@@ -3401,7 +4871,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4656",
@@ -3424,7 +4904,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4662",
@@ -3447,7 +4937,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4680",
@@ -3470,7 +4970,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4715",
@@ -3493,7 +5003,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4749",
@@ -3516,7 +5036,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4784",
@@ -3539,7 +5069,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4798",
@@ -3562,7 +5102,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4810",
@@ -3585,7 +5135,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4815",
@@ -3608,7 +5168,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4865",
@@ -3631,7 +5201,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4880",
@@ -3654,7 +5234,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4892",
@@ -3677,7 +5267,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4900",
@@ -3700,7 +5300,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4929",
@@ -3723,7 +5333,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4937",
@@ -3746,7 +5366,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4939",
@@ -3769,7 +5399,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4943",
@@ -3792,7 +5432,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "4996",
@@ -3815,7 +5465,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5021",
@@ -3838,7 +5498,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5029",
@@ -3861,7 +5531,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5044",
@@ -3884,7 +5564,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5069",
@@ -3907,7 +5597,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5135",
@@ -3930,7 +5630,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5144",
@@ -3953,7 +5663,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5156",
@@ -3976,7 +5696,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5167",
@@ -3999,7 +5729,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5175",
@@ -4022,7 +5762,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5219",
@@ -4045,7 +5795,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5248",
@@ -4068,7 +5828,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5256",
@@ -4091,7 +5861,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5353",
@@ -4114,7 +5894,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5382",
@@ -4137,7 +5927,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5388",
@@ -4160,7 +5960,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5499",
@@ -4183,7 +5993,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5515",
@@ -4206,7 +6026,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5518",
@@ -4229,7 +6059,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5532",
@@ -4252,7 +6092,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5536",
@@ -4275,7 +6125,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5612",
@@ -4298,7 +6158,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5616",
@@ -4321,7 +6191,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5639",
@@ -4344,7 +6224,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5661",
@@ -4367,7 +6257,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5671",
@@ -4390,7 +6290,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5685",
@@ -4413,7 +6323,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5718",
@@ -4436,7 +6356,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5728",
@@ -4459,7 +6389,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5736",
@@ -4482,7 +6422,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5744",
@@ -4505,7 +6455,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5805",
@@ -4528,7 +6488,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5808",
@@ -4551,7 +6521,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5816",
@@ -4574,7 +6554,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5825",
@@ -4597,7 +6587,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5835",
@@ -4620,7 +6620,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5842",
@@ -4643,7 +6653,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5865",
@@ -4666,7 +6686,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5866",
@@ -4689,7 +6719,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5936",
@@ -4712,7 +6752,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5945",
@@ -4735,7 +6785,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5948",
@@ -4758,7 +6818,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5956",
@@ -4781,7 +6851,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5965",
@@ -4804,7 +6884,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5967",
@@ -4827,7 +6917,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5984",
@@ -4850,7 +6950,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "5999",
@@ -4873,7 +6983,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6026",
@@ -4896,7 +7016,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6034",
@@ -4919,7 +7049,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6040",
@@ -4942,7 +7082,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6066",
@@ -4965,7 +7115,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6068",
@@ -4988,7 +7148,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6079",
@@ -5011,7 +7181,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6085",
@@ -5034,7 +7214,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6089",
@@ -5057,7 +7247,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6106",
@@ -5080,7 +7280,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6121",
@@ -5103,7 +7313,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6131",
@@ -5126,7 +7346,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6155",
@@ -5149,7 +7379,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6159",
@@ -5172,7 +7412,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6174",
@@ -5195,7 +7445,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6177",
@@ -5218,7 +7478,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6203",
@@ -5241,7 +7511,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6206",
@@ -5264,7 +7544,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6213",
@@ -5287,7 +7577,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6217",
@@ -5310,7 +7610,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6220",
@@ -5333,7 +7643,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6222",
@@ -5356,7 +7676,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6223",
@@ -5379,7 +7709,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6225",
@@ -5402,7 +7742,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6228",
@@ -5425,7 +7775,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6230",
@@ -5448,7 +7808,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6237",
@@ -5471,7 +7841,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6238",
@@ -5494,7 +7874,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6254",
@@ -5517,7 +7907,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6262",
@@ -5540,7 +7940,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6263",
@@ -5563,7 +7973,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6281",
@@ -5586,7 +8006,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6285",
@@ -5609,7 +8039,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6298",
@@ -5632,7 +8072,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6304",
@@ -5655,7 +8105,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6310",
@@ -5678,7 +8138,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6313",
@@ -5701,7 +8171,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6315",
@@ -5724,7 +8204,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6329",
@@ -5747,7 +8237,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6333",
@@ -5770,7 +8270,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6335",
@@ -5793,7 +8303,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6347",
@@ -5816,7 +8336,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6353",
@@ -5839,7 +8369,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6356",
@@ -5862,7 +8402,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6366",
@@ -5885,7 +8435,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6379",
@@ -5908,7 +8468,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6400",
@@ -5931,7 +8501,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6415",
@@ -5954,7 +8534,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6416",
@@ -5977,7 +8567,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6427",
@@ -6000,7 +8600,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6428",
@@ -6023,7 +8633,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6434",
@@ -6046,7 +8666,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6444",
@@ -6069,7 +8699,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6450",
@@ -6092,7 +8732,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6462",
@@ -6115,7 +8765,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6463",
@@ -6138,7 +8798,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6472",
@@ -6161,7 +8831,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6478",
@@ -6184,7 +8864,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6499",
@@ -6207,7 +8897,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6500",
@@ -6230,7 +8930,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6504",
@@ -6253,7 +8963,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6508",
@@ -6276,7 +8996,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6520",
@@ -6299,7 +9029,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6534",
@@ -6322,7 +9062,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6536",
@@ -6345,7 +9095,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6546",
@@ -6368,7 +9128,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6553",
@@ -6391,7 +9161,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6558",
@@ -6414,7 +9194,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6563",
@@ -6437,7 +9227,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6566",
@@ -6460,7 +9260,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6581",
@@ -6483,7 +9293,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6592",
@@ -6506,7 +9326,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6614",
@@ -6529,7 +9359,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6618",
@@ -6552,7 +9392,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6620",
@@ -6575,7 +9425,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6623",
@@ -6598,7 +9458,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6647",
@@ -6621,7 +9491,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6670",
@@ -6644,7 +9524,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6681",
@@ -6667,7 +9557,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6692",
@@ -6690,7 +9590,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6693",
@@ -6713,7 +9623,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6702",
@@ -6736,7 +9656,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6709",
@@ -6759,7 +9689,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6739",
@@ -6782,7 +9722,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6747",
@@ -6805,7 +9755,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6786",
@@ -6828,7 +9788,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6794",
@@ -6851,7 +9821,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6804",
@@ -6874,7 +9854,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6808",
@@ -6897,7 +9887,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6812",
@@ -6920,7 +9920,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6823",
@@ -6943,7 +9953,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6836",
@@ -6966,7 +9986,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6850",
@@ -6989,7 +10019,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6902",
@@ -7012,7 +10052,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6903",
@@ -7035,7 +10085,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6904",
@@ -7058,7 +10118,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6907",
@@ -7081,7 +10151,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6916",
@@ -7104,7 +10184,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6931",
@@ -7127,7 +10217,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6938",
@@ -7150,7 +10250,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6947",
@@ -7173,7 +10283,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6962",
@@ -7196,7 +10316,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6970",
@@ -7219,7 +10349,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "6999",
@@ -7242,7 +10382,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7012",
@@ -7265,7 +10415,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7021",
@@ -7288,7 +10448,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7026",
@@ -7311,7 +10481,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7027",
@@ -7334,7 +10514,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7035",
@@ -7357,7 +10547,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7052",
@@ -7380,7 +10580,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7056",
@@ -7403,7 +10613,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7057",
@@ -7426,7 +10646,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7077",
@@ -7449,7 +10679,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7086",
@@ -7472,7 +10712,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7088",
@@ -7495,7 +10745,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7105",
@@ -7518,7 +10778,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7122",
@@ -7541,7 +10811,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7138",
@@ -7564,7 +10844,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7142",
@@ -7587,7 +10877,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7157",
@@ -7610,7 +10910,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7165",
@@ -7633,7 +10943,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7183",
@@ -7656,7 +10976,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7191",
@@ -7679,7 +11009,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7199",
@@ -7702,7 +11042,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7213",
@@ -7725,7 +11075,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7218",
@@ -7748,7 +11108,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7225",
@@ -7771,7 +11141,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7227",
@@ -7794,7 +11174,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7231",
@@ -7817,7 +11207,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7232",
@@ -7840,7 +11240,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7236",
@@ -7863,7 +11273,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7254",
@@ -7886,7 +11306,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7259",
@@ -7909,7 +11339,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7268",
@@ -7932,7 +11372,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7274",
@@ -7955,7 +11405,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7275",
@@ -7978,7 +11438,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7282",
@@ -8001,7 +11471,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7295",
@@ -8024,7 +11504,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7299",
@@ -8047,7 +11537,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7301",
@@ -8070,7 +11570,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7304",
@@ -8093,7 +11603,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7316",
@@ -8116,7 +11636,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7318",
@@ -8139,7 +11669,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7330",
@@ -8162,7 +11702,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7340",
@@ -8185,7 +11735,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7357",
@@ -8208,7 +11768,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7359",
@@ -8231,7 +11801,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7361",
@@ -8254,7 +11834,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7362",
@@ -8277,7 +11867,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7372",
@@ -8300,7 +11900,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7378",
@@ -8323,7 +11933,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7384",
@@ -8346,7 +11966,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7390",
@@ -8369,7 +11999,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7404",
@@ -8392,7 +12032,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7410",
@@ -8415,7 +12065,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7422",
@@ -8438,7 +12098,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7429",
@@ -8461,7 +12131,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7430",
@@ -8484,7 +12164,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7456",
@@ -8507,7 +12197,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7468",
@@ -8530,7 +12230,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7470",
@@ -8553,7 +12263,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7514",
@@ -8576,7 +12296,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7525",
@@ -8599,7 +12329,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7529",
@@ -8622,7 +12362,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7552",
@@ -8645,7 +12395,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7555",
@@ -8668,7 +12428,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7559",
@@ -8691,7 +12461,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7573",
@@ -8714,7 +12494,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7599",
@@ -8737,7 +12527,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7611",
@@ -8760,7 +12560,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7638",
@@ -8783,7 +12593,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7672",
@@ -8806,7 +12626,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7689",
@@ -8829,7 +12659,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7694",
@@ -8852,7 +12692,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7701",
@@ -8875,7 +12725,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7707",
@@ -8898,7 +12758,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7709",
@@ -8921,7 +12791,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7712",
@@ -8944,7 +12824,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7724",
@@ -8967,7 +12857,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7731",
@@ -8990,7 +12890,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7733",
@@ -9013,7 +12923,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7745",
@@ -9036,7 +12956,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7751",
@@ -9059,7 +12989,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7756",
@@ -9082,7 +13022,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7761",
@@ -9105,7 +13055,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7762",
@@ -9128,7 +13088,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7765",
@@ -9151,7 +13121,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7766",
@@ -9174,7 +13154,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7771",
@@ -9197,7 +13187,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7772",
@@ -9220,7 +13220,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7783",
@@ -9243,7 +13253,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7802",
@@ -9266,7 +13286,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7819",
@@ -9289,7 +13319,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7829",
@@ -9312,7 +13352,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7850",
@@ -9335,7 +13385,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7862",
@@ -9358,7 +13418,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7875",
@@ -9381,7 +13451,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7877",
@@ -9404,7 +13484,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7878",
@@ -9427,7 +13517,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7880",
@@ -9450,7 +13550,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7886",
@@ -9473,7 +13583,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7893",
@@ -9496,7 +13616,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7907",
@@ -9519,7 +13649,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7927",
@@ -9542,7 +13682,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7955",
@@ -9565,7 +13715,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7966",
@@ -9588,7 +13748,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7975",
@@ -9611,7 +13781,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7976",
@@ -9634,7 +13814,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7978",
@@ -9657,7 +13847,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "7992",
@@ -9680,7 +13880,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8005",
@@ -9703,7 +13913,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8009",
@@ -9726,7 +13946,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8011",
@@ -9749,7 +13979,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8019",
@@ -9772,7 +14012,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8021",
@@ -9795,7 +14045,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8033",
@@ -9818,7 +14078,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8042",
@@ -9841,7 +14111,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8052",
@@ -9864,7 +14144,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8054",
@@ -9887,7 +14177,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "3",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "2"
+    "Number of Host reviews": "2",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8056",
@@ -9910,7 +14210,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8059",
@@ -9933,7 +14243,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8083",
@@ -9956,7 +14276,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8088",
@@ -9979,7 +14309,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8100",
@@ -10002,7 +14342,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8101",
@@ -10025,7 +14375,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8103",
@@ -10048,7 +14408,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8114",
@@ -10071,7 +14441,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8117",
@@ -10094,7 +14474,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8127",
@@ -10117,7 +14507,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8134",
@@ -10140,7 +14540,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8139",
@@ -10163,7 +14573,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8156",
@@ -10186,7 +14606,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8174",
@@ -10209,7 +14639,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8190",
@@ -10232,7 +14672,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8196",
@@ -10255,7 +14705,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8219",
@@ -10278,7 +14738,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8220",
@@ -10301,7 +14771,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8222",
@@ -10324,7 +14804,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8227",
@@ -10347,7 +14837,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8230",
@@ -10370,7 +14870,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8234",
@@ -10393,7 +14903,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8239",
@@ -10416,7 +14936,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8240",
@@ -10439,7 +14969,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8244",
@@ -10462,7 +15002,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8248",
@@ -10485,7 +15035,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8250",
@@ -10508,7 +15068,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8253",
@@ -10531,7 +15101,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8256",
@@ -10554,7 +15134,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8262",
@@ -10577,7 +15167,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8267",
@@ -10600,7 +15200,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8270",
@@ -10623,7 +15233,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8271",
@@ -10646,7 +15266,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8274",
@@ -10669,7 +15299,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8296",
@@ -10692,7 +15332,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8297",
@@ -10715,7 +15365,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8300",
@@ -10738,7 +15398,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8301",
@@ -10761,7 +15431,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8309",
@@ -10784,7 +15464,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8347",
@@ -10807,7 +15497,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8370",
@@ -10830,7 +15530,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8371",
@@ -10853,7 +15563,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8381",
@@ -10876,7 +15596,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8382",
@@ -10899,7 +15629,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8418",
@@ -10922,7 +15662,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8421",
@@ -10945,7 +15695,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8428",
@@ -10968,7 +15728,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8442",
@@ -10991,7 +15761,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8444",
@@ -11014,7 +15794,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8478",
@@ -11037,7 +15827,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8487",
@@ -11060,7 +15860,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8489",
@@ -11083,7 +15893,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8490",
@@ -11106,7 +15926,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8496",
@@ -11129,7 +15959,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8520",
@@ -11152,7 +15992,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8530",
@@ -11175,7 +16025,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8532",
@@ -11198,7 +16058,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8533",
@@ -11221,7 +16091,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8534",
@@ -11244,7 +16124,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8542",
@@ -11267,7 +16157,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8595",
@@ -11290,7 +16190,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8618",
@@ -11313,7 +16223,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8640",
@@ -11336,7 +16256,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8651",
@@ -11359,7 +16289,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8656",
@@ -11382,7 +16322,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8671",
@@ -11405,7 +16355,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8672",
@@ -11428,7 +16388,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8678",
@@ -11451,7 +16421,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8680",
@@ -11474,7 +16454,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8684",
@@ -11497,7 +16487,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8692",
@@ -11520,7 +16520,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8694",
@@ -11543,7 +16553,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8702",
@@ -11566,7 +16586,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8704",
@@ -11589,7 +16619,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8727",
@@ -11612,7 +16652,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8728",
@@ -11635,7 +16685,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8732",
@@ -11658,7 +16718,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8735",
@@ -11681,7 +16751,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8736",
@@ -11704,7 +16784,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8739",
@@ -11727,7 +16817,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8743",
@@ -11750,7 +16850,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8752",
@@ -11773,7 +16883,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8753",
@@ -11796,7 +16916,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8773",
@@ -11819,7 +16949,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8782",
@@ -11842,7 +16982,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8789",
@@ -11865,7 +17015,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8798",
@@ -11888,7 +17048,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8801",
@@ -11911,7 +17081,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8809",
@@ -11934,7 +17114,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8812",
@@ -11957,7 +17147,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8814",
@@ -11980,7 +17180,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8815",
@@ -12003,7 +17213,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8820",
@@ -12026,7 +17246,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8842",
@@ -12049,7 +17279,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8843",
@@ -12072,7 +17312,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8850",
@@ -12095,7 +17345,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8861",
@@ -12118,7 +17378,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8863",
@@ -12141,7 +17411,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8869",
@@ -12164,7 +17444,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8870",
@@ -12187,7 +17477,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8876",
@@ -12210,7 +17510,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8877",
@@ -12233,7 +17543,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8880",
@@ -12256,7 +17576,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8902",
@@ -12279,7 +17609,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8903",
@@ -12302,7 +17642,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8905",
@@ -12325,7 +17675,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8917",
@@ -12348,7 +17708,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8930",
@@ -12371,7 +17741,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8937",
@@ -12394,7 +17774,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8938",
@@ -12417,7 +17807,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8941",
@@ -12440,7 +17840,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8942",
@@ -12463,7 +17873,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "8998",
@@ -12486,7 +17906,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9009",
@@ -12509,7 +17939,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9020",
@@ -12532,7 +17972,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9032",
@@ -12555,7 +18005,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9049",
@@ -12578,7 +18038,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9054",
@@ -12601,7 +18071,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9057",
@@ -12624,7 +18104,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9064",
@@ -12647,7 +18137,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9075",
@@ -12670,7 +18170,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9081",
@@ -12693,7 +18203,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9088",
@@ -12716,7 +18236,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9099",
@@ -12739,7 +18269,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9102",
@@ -12762,7 +18302,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9104",
@@ -12785,7 +18335,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9105",
@@ -12808,7 +18368,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9107",
@@ -12831,7 +18401,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9127",
@@ -12854,7 +18434,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9132",
@@ -12877,7 +18467,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9136",
@@ -12900,7 +18500,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9158",
@@ -12923,7 +18533,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9168",
@@ -12946,7 +18566,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9178",
@@ -12969,7 +18599,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9180",
@@ -12992,7 +18632,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9186",
@@ -13015,7 +18665,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9190",
@@ -13038,7 +18698,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9193",
@@ -13061,7 +18731,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9199",
@@ -13084,7 +18764,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9205",
@@ -13107,7 +18797,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9216",
@@ -13130,7 +18830,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9221",
@@ -13153,7 +18863,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9230",
@@ -13176,7 +18896,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9257",
@@ -13199,7 +18929,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9262",
@@ -13222,7 +18962,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9264",
@@ -13245,7 +18995,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9275",
@@ -13268,7 +19028,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9288",
@@ -13291,7 +19061,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9299",
@@ -13314,7 +19094,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9304",
@@ -13337,7 +19127,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9306",
@@ -13360,7 +19160,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9321",
@@ -13383,7 +19193,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9328",
@@ -13406,7 +19226,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9338",
@@ -13429,7 +19259,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9346",
@@ -13452,7 +19292,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9367",
@@ -13475,7 +19325,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9387",
@@ -13498,7 +19358,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9401",
@@ -13521,7 +19391,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9404",
@@ -13544,7 +19424,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9407",
@@ -13567,7 +19457,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9409",
@@ -13590,7 +19490,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9419",
@@ -13613,7 +19523,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9420",
@@ -13636,7 +19556,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9431",
@@ -13659,7 +19589,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9442",
@@ -13682,7 +19622,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9465",
@@ -13705,7 +19655,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9471",
@@ -13728,7 +19688,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9473",
@@ -13751,7 +19721,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9489",
@@ -13774,7 +19754,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9491",
@@ -13797,7 +19787,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9494",
@@ -13820,7 +19820,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9504",
@@ -13843,7 +19853,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9505",
@@ -13866,7 +19886,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9507",
@@ -13889,7 +19919,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9510",
@@ -13912,7 +19952,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9522",
@@ -13935,7 +19985,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9523",
@@ -13958,7 +20018,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9533",
@@ -13981,7 +20051,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9536",
@@ -14004,7 +20084,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9568",
@@ -14027,7 +20117,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9577",
@@ -14050,7 +20150,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9579",
@@ -14073,7 +20183,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9581",
@@ -14096,7 +20216,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9597",
@@ -14119,7 +20249,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9600",
@@ -14142,7 +20282,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9615",
@@ -14165,7 +20315,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9627",
@@ -14188,7 +20348,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9634",
@@ -14211,7 +20381,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9644",
@@ -14234,7 +20414,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9653",
@@ -14257,7 +20447,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9659",
@@ -14280,7 +20480,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9665",
@@ -14303,7 +20513,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9668",
@@ -14326,7 +20546,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9674",
@@ -14349,7 +20579,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9681",
@@ -14372,7 +20612,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9682",
@@ -14395,7 +20645,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9683",
@@ -14418,7 +20678,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9689",
@@ -14441,7 +20711,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9695",
@@ -14464,7 +20744,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9701",
@@ -14487,7 +20777,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9711",
@@ -14510,7 +20810,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9715",
@@ -14533,7 +20843,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9719",
@@ -14556,7 +20876,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9723",
@@ -14579,7 +20909,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9726",
@@ -14602,7 +20942,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9728",
@@ -14625,7 +20975,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9737",
@@ -14648,7 +21008,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9752",
@@ -14671,7 +21041,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9761",
@@ -14694,7 +21074,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9764",
@@ -14717,7 +21107,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9765",
@@ -14740,7 +21140,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9777",
@@ -14763,7 +21173,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9800",
@@ -14786,7 +21206,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9809",
@@ -14809,7 +21239,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9811",
@@ -14832,7 +21272,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9825",
@@ -14855,7 +21305,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9829",
@@ -14878,7 +21338,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9831",
@@ -14901,7 +21371,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9839",
@@ -14924,7 +21404,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9842",
@@ -14947,7 +21437,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9864",
@@ -14970,7 +21470,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9865",
@@ -14993,7 +21503,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9866",
@@ -15016,7 +21536,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9874",
@@ -15039,7 +21569,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9881",
@@ -15062,7 +21602,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9903",
@@ -15085,7 +21635,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9910",
@@ -15108,7 +21668,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9912",
@@ -15131,7 +21701,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9913",
@@ -15154,7 +21734,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9916",
@@ -15177,7 +21767,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9927",
@@ -15200,7 +21800,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9934",
@@ -15223,7 +21833,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9936",
@@ -15246,7 +21866,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9944",
@@ -15269,7 +21899,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9946",
@@ -15292,7 +21932,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9947",
@@ -15315,7 +21965,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9952",
@@ -15338,7 +21998,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9971",
@@ -15361,7 +22031,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9972",
@@ -15384,7 +22064,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9981",
@@ -15407,7 +22097,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9985",
@@ -15430,7 +22130,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9987",
@@ -15453,7 +22163,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9992",
@@ -15476,7 +22196,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9994",
@@ -15499,7 +22229,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "9999",
@@ -15522,7 +22262,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10002",
@@ -15545,7 +22295,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10006",
@@ -15568,7 +22328,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10007",
@@ -15591,7 +22361,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10011",
@@ -15614,7 +22394,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10027",
@@ -15637,7 +22427,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10028",
@@ -15660,7 +22460,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10038",
@@ -15683,7 +22493,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10058",
@@ -15706,7 +22526,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10065",
@@ -15729,7 +22559,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10067",
@@ -15752,7 +22592,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10069",
@@ -15775,7 +22625,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10073",
@@ -15798,7 +22658,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10094",
@@ -15821,7 +22691,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10095",
@@ -15844,7 +22724,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10099",
@@ -15867,7 +22757,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10124",
@@ -15890,7 +22790,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10125",
@@ -15913,7 +22823,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10126",
@@ -15936,7 +22856,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10127",
@@ -15959,7 +22889,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10143",
@@ -15982,7 +22922,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10147",
@@ -16005,7 +22955,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10156",
@@ -16028,7 +22988,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10172",
@@ -16051,7 +23021,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10177",
@@ -16074,7 +23054,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10178",
@@ -16097,7 +23087,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10191",
@@ -16120,7 +23120,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10194",
@@ -16143,7 +23153,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10200",
@@ -16166,7 +23186,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10205",
@@ -16189,7 +23219,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10212",
@@ -16212,7 +23252,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10214",
@@ -16235,7 +23285,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10222",
@@ -16258,7 +23318,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10223",
@@ -16281,7 +23351,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10224",
@@ -16304,7 +23384,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10225",
@@ -16327,7 +23417,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10227",
@@ -16350,7 +23450,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10232",
@@ -16373,7 +23483,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10238",
@@ -16396,7 +23516,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10243",
@@ -16419,7 +23549,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10249",
@@ -16442,7 +23582,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10254",
@@ -16465,7 +23615,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10257",
@@ -16488,7 +23648,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10263",
@@ -16511,7 +23681,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10273",
@@ -16534,7 +23714,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10274",
@@ -16557,7 +23747,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10279",
@@ -16580,7 +23780,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10286",
@@ -16603,7 +23813,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10288",
@@ -16626,7 +23846,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10298",
@@ -16649,7 +23879,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10299",
@@ -16672,7 +23912,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10313",
@@ -16695,7 +23945,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10322",
@@ -16718,7 +23978,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10329",
@@ -16741,7 +24011,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10330",
@@ -16764,7 +24044,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10331",
@@ -16787,7 +24077,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10335",
@@ -16810,7 +24110,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10347",
@@ -16833,7 +24143,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "3",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "2"
+    "Number of Host reviews": "2",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10349",
@@ -16856,7 +24176,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10351",
@@ -16879,7 +24209,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10363",
@@ -16902,7 +24242,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10376",
@@ -16925,7 +24275,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10393",
@@ -16948,7 +24308,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10402",
@@ -16971,7 +24341,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10408",
@@ -16994,7 +24374,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10409",
@@ -17017,7 +24407,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10410",
@@ -17040,7 +24440,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10434",
@@ -17063,7 +24473,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10438",
@@ -17086,7 +24506,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10439",
@@ -17109,7 +24539,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10451",
@@ -17132,7 +24572,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10455",
@@ -17155,7 +24605,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10465",
@@ -17178,7 +24638,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10466",
@@ -17201,7 +24671,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10477",
@@ -17224,7 +24704,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10497",
@@ -17247,7 +24737,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10499",
@@ -17270,7 +24770,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10501",
@@ -17293,7 +24803,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10502",
@@ -17316,7 +24836,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10510",
@@ -17339,7 +24869,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10519",
@@ -17362,7 +24902,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10520",
@@ -17385,7 +24935,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10523",
@@ -17408,7 +24968,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10524",
@@ -17431,7 +25001,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10537",
@@ -17454,7 +25034,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10539",
@@ -17477,7 +25067,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10542",
@@ -17500,7 +25100,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10543",
@@ -17523,7 +25133,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10550",
@@ -17546,7 +25166,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10556",
@@ -17569,7 +25199,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10563",
@@ -17592,7 +25232,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10569",
@@ -17615,7 +25265,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10579",
@@ -17638,7 +25298,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10592",
@@ -17661,7 +25331,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10614",
@@ -17684,7 +25364,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10620",
@@ -17707,7 +25397,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10632",
@@ -17730,7 +25430,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10642",
@@ -17753,7 +25463,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10655",
@@ -17776,7 +25496,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10662",
@@ -17799,7 +25529,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10665",
@@ -17822,7 +25562,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10667",
@@ -17845,7 +25595,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10684",
@@ -17868,7 +25628,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10718",
@@ -17891,7 +25661,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10732",
@@ -17914,7 +25694,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10737",
@@ -17937,7 +25727,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10746",
@@ -17960,7 +25760,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10769",
@@ -17983,7 +25793,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10772",
@@ -18006,7 +25826,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10789",
@@ -18029,7 +25859,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10791",
@@ -18052,7 +25892,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10792",
@@ -18075,7 +25925,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10793",
@@ -18098,7 +25958,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10806",
@@ -18121,7 +25991,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10819",
@@ -18144,7 +26024,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10822",
@@ -18167,7 +26057,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10833",
@@ -18190,7 +26090,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10839",
@@ -18213,7 +26123,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10844",
@@ -18236,7 +26156,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10852",
@@ -18259,7 +26189,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10857",
@@ -18282,7 +26222,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10858",
@@ -18305,7 +26255,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10869",
@@ -18328,7 +26288,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10871",
@@ -18351,7 +26321,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10875",
@@ -18374,7 +26354,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10886",
@@ -18397,7 +26387,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10899",
@@ -18420,7 +26420,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10901",
@@ -18443,7 +26453,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10905",
@@ -18466,7 +26486,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10907",
@@ -18489,7 +26519,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10912",
@@ -18512,7 +26552,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10913",
@@ -18535,7 +26585,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10915",
@@ -18558,7 +26618,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10916",
@@ -18581,7 +26651,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10918",
@@ -18604,7 +26684,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10923",
@@ -18627,7 +26717,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10931",
@@ -18650,7 +26750,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10932",
@@ -18673,7 +26783,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10934",
@@ -18696,7 +26816,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10945",
@@ -18719,7 +26849,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10949",
@@ -18742,7 +26882,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10960",
@@ -18765,7 +26915,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10962",
@@ -18788,7 +26948,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10965",
@@ -18811,7 +26981,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10976",
@@ -18834,7 +27014,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10979",
@@ -18857,7 +27047,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10980",
@@ -18880,7 +27080,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10983",
@@ -18903,7 +27113,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10992",
@@ -18926,7 +27146,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "10995",
@@ -18949,7 +27179,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11005",
@@ -18972,7 +27212,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11007",
@@ -18995,7 +27245,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11014",
@@ -19018,7 +27278,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11033",
@@ -19041,7 +27311,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11044",
@@ -19064,7 +27344,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11059",
@@ -19087,7 +27377,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11062",
@@ -19110,7 +27410,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11065",
@@ -19133,7 +27443,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11070",
@@ -19156,7 +27476,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11076",
@@ -19179,7 +27509,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11077",
@@ -19202,7 +27542,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11078",
@@ -19225,7 +27575,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11080",
@@ -19248,7 +27608,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11085",
@@ -19271,7 +27641,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11094",
@@ -19294,7 +27674,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11098",
@@ -19317,7 +27707,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11108",
@@ -19340,7 +27740,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11109",
@@ -19363,7 +27773,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11130",
@@ -19386,7 +27806,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11131",
@@ -19409,7 +27839,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11138",
@@ -19432,7 +27872,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11142",
@@ -19455,7 +27905,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11143",
@@ -19478,7 +27938,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11150",
@@ -19501,7 +27971,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11153",
@@ -19524,7 +28004,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11154",
@@ -19547,7 +28037,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11157",
@@ -19570,7 +28070,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11163",
@@ -19593,7 +28103,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11164",
@@ -19616,7 +28136,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11171",
@@ -19639,7 +28169,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11174",
@@ -19662,7 +28202,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11182",
@@ -19685,7 +28235,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11184",
@@ -19708,7 +28268,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11189",
@@ -19731,7 +28301,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11193",
@@ -19754,7 +28334,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11201",
@@ -19777,7 +28367,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11216",
@@ -19800,7 +28400,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11227",
@@ -19823,7 +28433,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11228",
@@ -19846,7 +28466,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11234",
@@ -19869,7 +28499,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11235",
@@ -19892,7 +28532,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11241",
@@ -19915,7 +28565,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11242",
@@ -19938,7 +28598,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11245",
@@ -19961,7 +28631,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11249",
@@ -19984,7 +28664,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11257",
@@ -20007,7 +28697,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11267",
@@ -20030,7 +28730,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11275",
@@ -20053,7 +28763,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11284",
@@ -20076,7 +28796,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11286",
@@ -20099,7 +28829,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11290",
@@ -20122,7 +28862,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11291",
@@ -20145,7 +28895,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11303",
@@ -20168,7 +28928,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11313",
@@ -20191,7 +28961,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11319",
@@ -20214,7 +28994,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11320",
@@ -20237,7 +29027,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11323",
@@ -20260,7 +29060,17 @@ window.eventsData = [
     "Quiz rating": "5",
     "Host rating": "5",
     "Number of Quiz reviews": "1",
-    "Number of Host reviews": "1"
+    "Number of Host reviews": "1",
+    "Bad bar prices": "1",
+    "Fun format": "1",
+    "Good bar prices": "1",
+    "Good prizes": "1",
+    "Good venue": "1",
+    "Great host": "2",
+    "Incorrect answers": "1",
+    "Too easy": "1",
+    "Too hard": "1",
+    "Would attend again": "1"
   },
   {
     "event_id": "11328",
@@ -20283,7 +29093,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11331",
@@ -20306,7 +29126,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11332",
@@ -20329,7 +29159,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11333",
@@ -20352,7 +29192,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11335",
@@ -20375,7 +29225,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11341",
@@ -20398,7 +29258,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11344",
@@ -20421,7 +29291,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11349",
@@ -20444,7 +29324,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11364",
@@ -20467,7 +29357,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11366",
@@ -20490,7 +29390,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11367",
@@ -20513,7 +29423,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11369",
@@ -20536,7 +29456,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11378",
@@ -20559,7 +29489,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11386",
@@ -20582,7 +29522,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11391",
@@ -20605,7 +29555,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11402",
@@ -20628,7 +29588,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11418",
@@ -20651,7 +29621,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11430",
@@ -20674,7 +29654,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11434",
@@ -20697,7 +29687,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11459",
@@ -20720,7 +29720,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11465",
@@ -20743,7 +29753,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11470",
@@ -20766,7 +29786,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11471",
@@ -20789,7 +29819,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11474",
@@ -20812,7 +29852,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11483",
@@ -20835,7 +29885,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11484",
@@ -20858,7 +29918,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11498",
@@ -20881,7 +29951,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11510",
@@ -20904,7 +29984,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11511",
@@ -20927,7 +30017,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11521",
@@ -20950,7 +30050,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11532",
@@ -20973,7 +30083,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11539",
@@ -20996,7 +30116,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11545",
@@ -21019,7 +30149,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11548",
@@ -21042,7 +30182,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11557",
@@ -21065,7 +30215,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11559",
@@ -21088,7 +30248,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11561",
@@ -21111,7 +30281,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11571",
@@ -21134,7 +30314,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11573",
@@ -21157,7 +30347,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11575",
@@ -21180,7 +30380,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11576",
@@ -21203,7 +30413,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11595",
@@ -21226,7 +30446,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11603",
@@ -21249,7 +30479,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11611",
@@ -21272,7 +30512,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11624",
@@ -21295,7 +30545,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11627",
@@ -21318,7 +30578,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11630",
@@ -21341,7 +30611,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11663",
@@ -21364,7 +30644,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11680",
@@ -21387,7 +30677,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11681",
@@ -21410,7 +30710,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11693",
@@ -21433,7 +30743,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11717",
@@ -21456,7 +30776,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11720",
@@ -21479,7 +30809,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11729",
@@ -21502,7 +30842,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11733",
@@ -21525,7 +30875,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11738",
@@ -21548,7 +30908,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11740",
@@ -21571,7 +30941,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11742",
@@ -21594,7 +30974,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11744",
@@ -21617,7 +31007,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11745",
@@ -21640,7 +31040,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "3",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "2"
+    "Number of Host reviews": "2",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11746",
@@ -21663,7 +31073,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11751",
@@ -21686,7 +31106,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11754",
@@ -21709,7 +31139,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11756",
@@ -21732,7 +31172,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11757",
@@ -21755,7 +31205,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11759",
@@ -21778,7 +31238,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11760",
@@ -21801,7 +31271,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11767",
@@ -21824,7 +31304,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11770",
@@ -21847,7 +31337,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11780",
@@ -21870,7 +31370,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11782",
@@ -21893,7 +31403,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11787",
@@ -21916,7 +31436,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11797",
@@ -21939,7 +31469,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11804",
@@ -21962,7 +31502,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11809",
@@ -21985,7 +31535,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11819",
@@ -22008,7 +31568,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11820",
@@ -22031,7 +31601,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11824",
@@ -22054,7 +31634,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11828",
@@ -22077,7 +31667,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11835",
@@ -22100,7 +31700,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11837",
@@ -22123,7 +31733,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11842",
@@ -22146,7 +31766,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11843",
@@ -22169,7 +31799,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11846",
@@ -22192,7 +31832,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11848",
@@ -22215,7 +31865,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11854",
@@ -22238,7 +31898,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11862",
@@ -22261,7 +31931,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11868",
@@ -22284,7 +31964,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11871",
@@ -22307,7 +31997,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11876",
@@ -22330,7 +32030,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11880",
@@ -22353,7 +32063,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11883",
@@ -22376,7 +32096,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11886",
@@ -22399,7 +32129,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11893",
@@ -22422,7 +32162,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11894",
@@ -22445,7 +32195,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11895",
@@ -22468,7 +32228,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11899",
@@ -22491,7 +32261,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11905",
@@ -22514,7 +32294,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11906",
@@ -22537,7 +32327,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11908",
@@ -22560,7 +32360,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11926",
@@ -22583,7 +32393,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11933",
@@ -22606,7 +32426,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11942",
@@ -22629,7 +32459,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11951",
@@ -22652,7 +32492,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11952",
@@ -22675,7 +32525,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11954",
@@ -22698,7 +32558,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11956",
@@ -22721,7 +32591,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11966",
@@ -22744,7 +32624,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11971",
@@ -22767,7 +32657,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11972",
@@ -22790,7 +32690,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11973",
@@ -22813,7 +32723,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11978",
@@ -22836,7 +32756,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "11983",
@@ -22859,7 +32789,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12000",
@@ -22882,7 +32822,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12002",
@@ -22905,7 +32855,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12009",
@@ -22928,7 +32888,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12020",
@@ -22951,7 +32921,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12023",
@@ -22974,7 +32954,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12027",
@@ -22997,7 +32987,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12032",
@@ -23020,7 +33020,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12033",
@@ -23043,7 +33053,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12035",
@@ -23066,7 +33086,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12036",
@@ -23089,7 +33119,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12038",
@@ -23112,7 +33152,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12046",
@@ -23135,7 +33185,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12048",
@@ -23158,7 +33218,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12049",
@@ -23181,7 +33251,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12054",
@@ -23204,7 +33284,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12060",
@@ -23227,7 +33317,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12063",
@@ -23250,7 +33350,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12064",
@@ -23273,7 +33383,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12070",
@@ -23296,7 +33416,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12072",
@@ -23319,7 +33449,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12073",
@@ -23342,7 +33482,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12074",
@@ -23365,7 +33515,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12077",
@@ -23388,7 +33548,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12079",
@@ -23411,7 +33581,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12105",
@@ -23434,7 +33614,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12107",
@@ -23457,7 +33647,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "1",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "1",
+    "Fun format": "1",
+    "Good bar prices": "1",
+    "Good prizes": "1",
+    "Good venue": "1",
+    "Great host": "2",
+    "Incorrect answers": "1",
+    "Too easy": "1",
+    "Too hard": "1",
+    "Would attend again": "1"
   },
   {
     "event_id": "12108",
@@ -23480,7 +33680,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12109",
@@ -23503,7 +33713,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12112",
@@ -23526,7 +33746,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12117",
@@ -23549,7 +33779,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12120",
@@ -23572,7 +33812,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12123",
@@ -23595,7 +33845,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12124",
@@ -23618,7 +33878,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12134",
@@ -23641,7 +33911,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12135",
@@ -23664,7 +33944,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12148",
@@ -23687,7 +33977,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12149",
@@ -23710,7 +34010,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12150",
@@ -23733,7 +34043,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12155",
@@ -23756,7 +34076,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12160",
@@ -23779,7 +34109,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12169",
@@ -23802,7 +34142,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12176",
@@ -23825,7 +34175,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12182",
@@ -23848,7 +34208,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12188",
@@ -23871,7 +34241,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12191",
@@ -23894,7 +34274,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12192",
@@ -23917,7 +34307,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12197",
@@ -23940,7 +34340,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12202",
@@ -23963,7 +34373,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12207",
@@ -23986,7 +34406,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12209",
@@ -24009,7 +34439,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12212",
@@ -24032,7 +34472,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12215",
@@ -24055,7 +34505,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12217",
@@ -24078,7 +34538,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12231",
@@ -24101,7 +34571,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12236",
@@ -24124,7 +34604,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12237",
@@ -24147,7 +34637,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12239",
@@ -24170,7 +34670,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12246",
@@ -24193,7 +34703,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12248",
@@ -24216,7 +34736,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12250",
@@ -24239,7 +34769,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12251",
@@ -24262,7 +34802,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12252",
@@ -24285,7 +34835,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12253",
@@ -24308,7 +34868,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12255",
@@ -24331,7 +34901,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12257",
@@ -24354,7 +34934,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12265",
@@ -24377,7 +34967,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12273",
@@ -24400,7 +35000,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12278",
@@ -24423,7 +35033,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12280",
@@ -24446,7 +35066,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12283",
@@ -24469,7 +35099,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12285",
@@ -24492,7 +35132,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12292",
@@ -24515,7 +35165,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12299",
@@ -24538,7 +35198,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12303",
@@ -24561,7 +35231,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12305",
@@ -24584,7 +35264,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12309",
@@ -24607,7 +35297,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12312",
@@ -24630,7 +35330,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12318",
@@ -24653,7 +35363,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12327",
@@ -24676,7 +35396,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12328",
@@ -24699,7 +35429,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12330",
@@ -24722,7 +35462,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12337",
@@ -24745,7 +35495,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12342",
@@ -24768,7 +35528,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12346",
@@ -24791,7 +35561,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12351",
@@ -24814,7 +35594,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12358",
@@ -24837,7 +35627,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12361",
@@ -24860,7 +35660,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12365",
@@ -24883,7 +35693,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12367",
@@ -24906,7 +35726,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12372",
@@ -24929,7 +35759,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12374",
@@ -24952,7 +35792,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12375",
@@ -24975,7 +35825,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12379",
@@ -24998,7 +35858,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12395",
@@ -25021,7 +35891,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12396",
@@ -25044,7 +35924,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12398",
@@ -25067,7 +35957,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12402",
@@ -25090,7 +35990,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12407",
@@ -25113,7 +36023,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12416",
@@ -25136,7 +36056,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12417",
@@ -25159,7 +36089,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12427",
@@ -25182,7 +36122,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12434",
@@ -25205,7 +36155,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12435",
@@ -25228,7 +36188,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12439",
@@ -25251,7 +36221,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12440",
@@ -25274,7 +36254,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12441",
@@ -25297,7 +36287,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12448",
@@ -25320,7 +36320,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12449",
@@ -25343,7 +36353,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12450",
@@ -25366,7 +36386,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12455",
@@ -25389,7 +36419,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12456",
@@ -25412,7 +36452,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12457",
@@ -25435,7 +36485,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12461",
@@ -25458,7 +36518,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12462",
@@ -25481,7 +36551,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12465",
@@ -25504,7 +36584,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12466",
@@ -25527,7 +36617,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12476",
@@ -25550,7 +36650,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12478",
@@ -25573,7 +36683,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12479",
@@ -25596,7 +36716,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12483",
@@ -25619,7 +36749,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12484",
@@ -25642,7 +36782,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12485",
@@ -25665,7 +36815,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12487",
@@ -25688,7 +36848,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12490",
@@ -25711,7 +36881,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12498",
@@ -25734,7 +36914,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12504",
@@ -25757,7 +36947,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12520",
@@ -25780,7 +36980,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12533",
@@ -25803,7 +37013,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12539",
@@ -25826,7 +37046,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12550",
@@ -25849,7 +37079,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12560",
@@ -25872,7 +37112,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12567",
@@ -25895,7 +37145,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12570",
@@ -25918,7 +37178,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12578",
@@ -25941,7 +37211,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12580",
@@ -25964,7 +37244,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12587",
@@ -25987,7 +37277,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12588",
@@ -26010,7 +37310,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12597",
@@ -26033,7 +37343,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12609",
@@ -26056,7 +37376,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12619",
@@ -26079,7 +37409,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12625",
@@ -26102,7 +37442,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12631",
@@ -26125,7 +37475,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12637",
@@ -26148,7 +37508,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12640",
@@ -26171,7 +37541,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12644",
@@ -26194,7 +37574,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12645",
@@ -26217,7 +37607,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12646",
@@ -26240,7 +37640,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12662",
@@ -26263,7 +37673,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12676",
@@ -26286,7 +37706,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12692",
@@ -26309,7 +37739,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12696",
@@ -26332,7 +37772,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12697",
@@ -26355,7 +37805,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12699",
@@ -26378,7 +37838,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12700",
@@ -26401,7 +37871,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12705",
@@ -26424,7 +37904,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12718",
@@ -26447,7 +37937,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12719",
@@ -26470,7 +37970,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12728",
@@ -26493,7 +38003,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12731",
@@ -26516,7 +38036,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12732",
@@ -26539,7 +38069,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12735",
@@ -26562,7 +38102,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12737",
@@ -26585,7 +38135,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12738",
@@ -26608,7 +38168,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12739",
@@ -26631,7 +38201,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12740",
@@ -26654,7 +38234,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12741",
@@ -26677,7 +38267,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12743",
@@ -26700,7 +38300,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12745",
@@ -26723,7 +38333,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "3",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "2"
+    "Number of Host reviews": "2",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12747",
@@ -26746,7 +38366,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12760",
@@ -26769,7 +38399,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12773",
@@ -26792,7 +38432,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12783",
@@ -26815,7 +38465,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12785",
@@ -26838,7 +38498,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12790",
@@ -26861,7 +38531,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12791",
@@ -26884,7 +38564,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12799",
@@ -26907,7 +38597,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12805",
@@ -26930,7 +38630,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12814",
@@ -26953,7 +38663,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12815",
@@ -26976,7 +38696,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12821",
@@ -26999,7 +38729,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12825",
@@ -27022,7 +38762,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12829",
@@ -27045,7 +38795,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12834",
@@ -27068,7 +38828,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12847",
@@ -27091,7 +38861,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12872",
@@ -27114,7 +38894,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12873",
@@ -27137,7 +38927,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12877",
@@ -27160,7 +38960,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12885",
@@ -27183,7 +38993,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12891",
@@ -27206,7 +39026,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12897",
@@ -27229,7 +39059,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12909",
@@ -27252,7 +39092,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12923",
@@ -27275,7 +39125,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12924",
@@ -27298,7 +39158,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12927",
@@ -27321,7 +39191,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12950",
@@ -27344,7 +39224,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12952",
@@ -27367,7 +39257,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12953",
@@ -27390,7 +39290,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12955",
@@ -27413,7 +39323,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12956",
@@ -27436,7 +39356,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12959",
@@ -27459,7 +39389,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12961",
@@ -27482,7 +39422,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12963",
@@ -27505,7 +39455,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12969",
@@ -27528,7 +39488,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12973",
@@ -27551,7 +39521,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12974",
@@ -27574,7 +39554,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12975",
@@ -27597,7 +39587,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12976",
@@ -27620,7 +39620,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12982",
@@ -27643,7 +39653,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12984",
@@ -27666,7 +39686,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12987",
@@ -27689,7 +39719,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12993",
@@ -27712,7 +39752,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "1"
+    "Number of Host reviews": "1",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12998",
@@ -27735,7 +39785,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "12999",
@@ -27758,7 +39818,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13000",
@@ -27781,7 +39851,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13003",
@@ -27804,7 +39884,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13004",
@@ -27827,7 +39917,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13006",
@@ -27850,7 +39950,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13012",
@@ -27873,7 +39983,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13015",
@@ -27896,7 +40016,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13018",
@@ -27919,7 +40049,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13020",
@@ -27942,7 +40082,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13021",
@@ -27965,7 +40115,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13023",
@@ -27988,7 +40148,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13028",
@@ -28011,7 +40181,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13029",
@@ -28034,7 +40214,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13040",
@@ -28057,7 +40247,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13042",
@@ -28080,7 +40280,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13044",
@@ -28103,7 +40313,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13046",
@@ -28126,7 +40346,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13048",
@@ -28149,7 +40379,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13057",
@@ -28172,7 +40412,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13060",
@@ -28195,7 +40445,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13061",
@@ -28218,7 +40478,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13065",
@@ -28241,7 +40511,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13067",
@@ -28264,7 +40544,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13070",
@@ -28287,7 +40577,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13071",
@@ -28310,7 +40610,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13076",
@@ -28333,7 +40643,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13078",
@@ -28356,7 +40676,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13084",
@@ -28379,7 +40709,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13087",
@@ -28402,7 +40742,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13090",
@@ -28425,7 +40775,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13093",
@@ -28448,7 +40808,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13096",
@@ -28471,7 +40841,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13102",
@@ -28494,7 +40874,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13106",
@@ -28517,7 +40907,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13107",
@@ -28540,7 +40940,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13109",
@@ -28563,7 +40973,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13119",
@@ -28586,7 +41006,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13124",
@@ -28609,7 +41039,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13128",
@@ -28632,7 +41072,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13129",
@@ -28655,7 +41105,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13131",
@@ -28678,7 +41138,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13133",
@@ -28701,7 +41171,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13135",
@@ -28724,7 +41204,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13137",
@@ -28747,7 +41237,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13142",
@@ -28770,7 +41270,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13143",
@@ -28793,7 +41303,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13146",
@@ -28816,7 +41336,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13147",
@@ -28839,7 +41369,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13148",
@@ -28862,7 +41402,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13149",
@@ -28885,7 +41435,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13152",
@@ -28908,7 +41468,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13154",
@@ -28931,7 +41501,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13155",
@@ -28954,7 +41534,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13160",
@@ -28977,7 +41567,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13166",
@@ -29000,7 +41600,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13172",
@@ -29023,7 +41633,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13173",
@@ -29046,7 +41666,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13177",
@@ -29069,7 +41699,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13185",
@@ -29092,7 +41732,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13186",
@@ -29115,7 +41765,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13187",
@@ -29138,7 +41798,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13188",
@@ -29161,7 +41831,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13190",
@@ -29184,7 +41864,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13193",
@@ -29207,7 +41897,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13201",
@@ -29230,7 +41930,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13202",
@@ -29253,7 +41963,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13203",
@@ -29276,7 +41996,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13210",
@@ -29299,7 +42029,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13215",
@@ -29322,7 +42062,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13218",
@@ -29345,7 +42095,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13221",
@@ -29368,7 +42128,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13223",
@@ -29391,7 +42161,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13226",
@@ -29414,7 +42194,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13231",
@@ -29437,7 +42227,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13234",
@@ -29460,7 +42260,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13236",
@@ -29483,7 +42293,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13240",
@@ -29506,7 +42326,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13244",
@@ -29529,7 +42359,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13245",
@@ -29552,7 +42392,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13249",
@@ -29575,7 +42425,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13263",
@@ -29598,7 +42458,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13264",
@@ -29621,7 +42491,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13265",
@@ -29644,7 +42524,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13267",
@@ -29667,7 +42557,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13269",
@@ -29690,7 +42590,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13271",
@@ -29713,7 +42623,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13276",
@@ -29736,7 +42656,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13279",
@@ -29759,7 +42689,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13281",
@@ -29782,7 +42722,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13284",
@@ -29805,7 +42755,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13285",
@@ -29828,7 +42788,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13286",
@@ -29851,7 +42821,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13292",
@@ -29874,7 +42854,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13293",
@@ -29897,7 +42887,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13294",
@@ -29920,7 +42920,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13300",
@@ -29943,7 +42953,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13303",
@@ -29966,7 +42986,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13305",
@@ -29989,7 +43019,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "3",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "2"
+    "Number of Host reviews": "2",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13309",
@@ -30012,7 +43052,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13310",
@@ -30035,7 +43085,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13316",
@@ -30058,7 +43118,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13322",
@@ -30081,7 +43151,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13323",
@@ -30104,7 +43184,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13325",
@@ -30127,7 +43217,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13327",
@@ -30150,7 +43250,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13329",
@@ -30173,7 +43283,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13332",
@@ -30196,7 +43316,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13335",
@@ -30219,7 +43349,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13340",
@@ -30242,7 +43382,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13341",
@@ -30265,7 +43415,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13342",
@@ -30288,7 +43448,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13344",
@@ -30311,7 +43481,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13346",
@@ -30334,7 +43514,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13347",
@@ -30357,7 +43547,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13349",
@@ -30380,7 +43580,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13356",
@@ -30403,7 +43613,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13358",
@@ -30426,7 +43646,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13361",
@@ -30449,7 +43679,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13363",
@@ -30472,7 +43712,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13364",
@@ -30495,7 +43745,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13367",
@@ -30518,7 +43778,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13368",
@@ -30541,7 +43811,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13370",
@@ -30564,7 +43844,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13385",
@@ -30587,7 +43877,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13387",
@@ -30610,7 +43910,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13388",
@@ -30633,7 +43943,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13391",
@@ -30656,7 +43976,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13395",
@@ -30679,7 +44009,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13398",
@@ -30702,7 +44042,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13400",
@@ -30725,7 +44075,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13410",
@@ -30748,7 +44108,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13418",
@@ -30771,7 +44141,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13419",
@@ -30794,7 +44174,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13424",
@@ -30817,7 +44207,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13425",
@@ -30840,7 +44240,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13426",
@@ -30863,7 +44273,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13429",
@@ -30886,7 +44306,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13431",
@@ -30909,7 +44339,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13434",
@@ -30932,7 +44372,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13435",
@@ -30955,7 +44405,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13436",
@@ -30978,7 +44438,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13439",
@@ -31001,7 +44471,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13440",
@@ -31024,7 +44504,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13445",
@@ -31047,7 +44537,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13460",
@@ -31070,7 +44570,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13466",
@@ -31093,7 +44603,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13471",
@@ -31116,7 +44636,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13475",
@@ -31139,7 +44669,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13480",
@@ -31162,7 +44702,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13481",
@@ -31185,7 +44735,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13487",
@@ -31208,7 +44768,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13493",
@@ -31231,7 +44801,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13497",
@@ -31254,7 +44834,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13498",
@@ -31277,7 +44867,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13502",
@@ -31300,7 +44900,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13505",
@@ -31323,7 +44933,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13517",
@@ -31346,7 +44966,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13519",
@@ -31369,7 +44999,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13524",
@@ -31392,7 +45032,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13526",
@@ -31415,7 +45065,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13529",
@@ -31438,7 +45098,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13536",
@@ -31461,7 +45131,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13538",
@@ -31484,7 +45164,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13546",
@@ -31507,7 +45197,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13548",
@@ -31530,7 +45230,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13558",
@@ -31553,7 +45263,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13560",
@@ -31576,7 +45296,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13561",
@@ -31599,7 +45329,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13572",
@@ -31622,7 +45362,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13580",
@@ -31645,7 +45395,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13583",
@@ -31668,7 +45428,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13588",
@@ -31691,7 +45461,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13592",
@@ -31714,7 +45494,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13596",
@@ -31737,7 +45527,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13600",
@@ -31760,7 +45560,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13601",
@@ -31783,7 +45593,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13605",
@@ -31806,7 +45626,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13606",
@@ -31829,7 +45659,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13609",
@@ -31852,7 +45692,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13610",
@@ -31875,7 +45725,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13611",
@@ -31898,7 +45758,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13628",
@@ -31921,7 +45791,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13632",
@@ -31944,7 +45824,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13636",
@@ -31967,7 +45857,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13647",
@@ -31990,7 +45890,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13649",
@@ -32013,7 +45923,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13651",
@@ -32036,7 +45956,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13653",
@@ -32059,7 +45989,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13656",
@@ -32082,7 +46022,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13657",
@@ -32105,7 +46055,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13660",
@@ -32128,7 +46088,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13663",
@@ -32151,7 +46121,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13664",
@@ -32174,7 +46154,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13665",
@@ -32197,7 +46187,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13667",
@@ -32220,7 +46220,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13670",
@@ -32243,7 +46253,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13675",
@@ -32266,7 +46286,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13678",
@@ -32289,7 +46319,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13679",
@@ -32312,7 +46352,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13683",
@@ -32335,7 +46385,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13687",
@@ -32358,7 +46418,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13694",
@@ -32381,7 +46451,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13695",
@@ -32404,7 +46484,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13697",
@@ -32427,7 +46517,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13699",
@@ -32450,7 +46550,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13700",
@@ -32473,7 +46583,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13704",
@@ -32496,7 +46616,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13707",
@@ -32519,7 +46649,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13710",
@@ -32542,7 +46682,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13711",
@@ -32565,7 +46715,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13713",
@@ -32588,7 +46748,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13714",
@@ -32611,7 +46781,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13721",
@@ -32634,7 +46814,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13723",
@@ -32657,7 +46847,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13724",
@@ -32680,7 +46880,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13725",
@@ -32703,7 +46913,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13726",
@@ -32726,7 +46946,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13728",
@@ -32749,7 +46979,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13729",
@@ -32772,7 +47012,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13730",
@@ -32795,7 +47045,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13731",
@@ -32818,7 +47078,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13732",
@@ -32841,7 +47111,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13733",
@@ -32864,7 +47144,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13734",
@@ -32887,7 +47177,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13735",
@@ -32910,7 +47210,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13736",
@@ -32933,7 +47243,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13737",
@@ -32956,7 +47276,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13738",
@@ -32979,7 +47309,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13739",
@@ -33002,7 +47342,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13740",
@@ -33025,7 +47375,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13741",
@@ -33048,7 +47408,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13742",
@@ -33071,7 +47441,17 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   },
   {
     "event_id": "13743",
@@ -33094,6 +47474,16 @@ window.eventsData = [
     "Quiz rating": "#N/A",
     "Host rating": "#N/A",
     "Number of Quiz reviews": "#N/A",
-    "Number of Host reviews": "#N/A"
+    "Number of Host reviews": "#N/A",
+    "Bad bar prices": "",
+    "Fun format": "",
+    "Good bar prices": "",
+    "Good prizes": "",
+    "Good venue": "",
+    "Great host": "",
+    "Incorrect answers": "",
+    "Too easy": "",
+    "Too hard": "",
+    "Would attend again": ""
   }
 ];
