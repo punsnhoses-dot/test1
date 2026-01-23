@@ -18,7 +18,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "76",
@@ -28,7 +30,7 @@ window.eventsData = [
     "latitude": "53.3991346",
     "longitude": "-2.3341994",
     "date": "27-Jan-26",
-    "time": "08:30",
+    "time": "8:30",
     "repeat_day": "Tuesday",
     "host_name": "Darren Goulden",
     "price": "",
@@ -39,7 +41,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "78",
@@ -60,7 +64,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "87",
@@ -81,7 +87,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "229",
@@ -102,7 +110,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "322",
@@ -123,7 +133,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "385",
@@ -144,7 +156,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "491",
@@ -165,7 +179,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "492",
@@ -186,7 +202,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "512",
@@ -207,7 +225,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "515",
@@ -228,7 +248,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "526",
@@ -249,7 +271,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "533",
@@ -270,7 +294,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "563",
@@ -291,7 +317,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "573",
@@ -312,7 +340,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "600",
@@ -321,7 +351,7 @@ window.eventsData = [
     "address": "",
     "latitude": "51.2547569",
     "longitude": "-0.6055599",
-    "date": "06-Feb-26",
+    "date": "6-Feb-26",
     "time": "20",
     "repeat_day": "Friday",
     "host_name": "Andy Ritchie",
@@ -333,7 +363,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "611",
@@ -354,7 +386,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "668",
@@ -375,7 +409,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "712",
@@ -396,7 +432,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "715",
@@ -417,7 +455,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "735",
@@ -438,7 +478,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "778",
@@ -459,7 +501,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "871",
@@ -480,7 +524,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "874",
@@ -501,7 +547,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "903",
@@ -522,7 +570,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "916",
@@ -531,7 +581,7 @@ window.eventsData = [
     "address": "229 Woodhouse Lane, Leeds, LS23AP 2000 Sunday Prizes, More card reward points | Free to play | Max 6 per team | Age 18+",
     "latitude": "53.8117928",
     "longitude": "-1.5584352",
-    "date": "01-Feb-26",
+    "date": "1-Feb-26",
     "time": "",
     "repeat_day": "Sunday",
     "host_name": "Libraryleeds",
@@ -543,7 +593,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "920",
@@ -564,7 +616,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "922",
@@ -585,7 +639,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "926",
@@ -606,7 +662,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "931",
@@ -627,7 +685,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "942",
@@ -648,7 +708,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "962",
@@ -669,7 +731,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "969",
@@ -690,7 +754,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "979",
@@ -711,7 +777,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "1008",
@@ -732,7 +800,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "1009",
@@ -753,7 +823,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "1041",
@@ -774,7 +846,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "1053",
@@ -795,7 +869,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "1094",
@@ -816,7 +892,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "1127",
@@ -837,7 +915,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "1138",
@@ -847,7 +927,7 @@ window.eventsData = [
     "latitude": "52.9588054",
     "longitude": "-1.1490685",
     "date": "25-Jan-26",
-    "time": "07:30",
+    "time": "7:30",
     "repeat_day": "Sunday",
     "host_name": "Jonathan Hicks",
     "price": "£2 to play",
@@ -858,7 +938,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "1152",
@@ -879,7 +961,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "1177",
@@ -900,7 +984,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "1204",
@@ -921,7 +1007,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "1232",
@@ -931,7 +1019,7 @@ window.eventsData = [
     "latitude": "41.3589406",
     "longitude": "-81.8147931",
     "date": "27-Jan-26",
-    "time": "07:00",
+    "time": "7:00",
     "repeat_day": "Tuesday",
     "host_name": "C-Town Entertainment",
     "price": "",
@@ -942,7 +1030,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "1261",
@@ -963,7 +1053,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "1272",
@@ -984,7 +1076,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "1278",
@@ -1005,7 +1099,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "1282",
@@ -1026,7 +1122,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "1316",
@@ -1047,7 +1145,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "1344",
@@ -1068,7 +1168,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "1358",
@@ -1089,7 +1191,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "1374",
@@ -1110,7 +1214,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "1510",
@@ -1131,7 +1237,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "1538",
@@ -1152,7 +1260,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "1562",
@@ -1173,7 +1283,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "1595",
@@ -1182,7 +1294,7 @@ window.eventsData = [
     "address": "",
     "latitude": "53.4771359",
     "longitude": "-2.2373146",
-    "date": "05-Feb-26",
+    "date": "5-Feb-26",
     "time": "20",
     "repeat_day": "Thursday",
     "host_name": "Terry Gold",
@@ -1194,7 +1306,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "1664",
@@ -1215,7 +1329,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "1741",
@@ -1236,7 +1352,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "1744",
@@ -1257,7 +1375,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "1760",
@@ -1278,7 +1398,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "1832",
@@ -1299,7 +1421,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "1899",
@@ -1320,7 +1444,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "1914",
@@ -1341,7 +1467,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "1915",
@@ -1362,7 +1490,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "1951",
@@ -1371,7 +1501,7 @@ window.eventsData = [
     "address": "North Lane, Huntington, York, YO32 9RU 1830 Sunday Prizes, Drinks tokens | £1 to play | Max 8 per team | Age 5+",
     "latitude": "53.9985505",
     "longitude": "-1.0554093",
-    "date": "01-Feb-26",
+    "date": "1-Feb-26",
     "time": "",
     "repeat_day": "Sunday",
     "host_name": "Iain Dunn",
@@ -1383,7 +1513,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "2032",
@@ -1404,7 +1536,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "2075",
@@ -1425,7 +1559,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "2080",
@@ -1446,7 +1582,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "2144",
@@ -1467,7 +1605,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "2149",
@@ -1488,7 +1628,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "2164",
@@ -1509,7 +1651,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "2174",
@@ -1530,7 +1674,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "2192",
@@ -1551,7 +1697,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "2196",
@@ -1572,7 +1720,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "2211",
@@ -1593,7 +1743,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "2217",
@@ -1603,7 +1755,7 @@ window.eventsData = [
     "latitude": "41.2378047",
     "longitude": "-81.8124873",
     "date": "21-Jan-26",
-    "time": "08:00",
+    "time": "8:00",
     "repeat_day": "Wednesday",
     "host_name": "Bob Varga",
     "price": "",
@@ -1614,7 +1766,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "2285",
@@ -1624,7 +1778,7 @@ window.eventsData = [
     "latitude": "37.2740698",
     "longitude": "-76.7125025",
     "date": "26-Jan-26",
-    "time": "07:30",
+    "time": "7:30",
     "repeat_day": "Monday",
     "host_name": "Matt Chambers",
     "price": "",
@@ -1635,7 +1789,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "2313",
@@ -1656,7 +1812,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "2369",
@@ -1666,7 +1824,7 @@ window.eventsData = [
     "latitude": "37.2721557",
     "longitude": "-76.6812902",
     "date": "22-Jan-26",
-    "time": "06:30",
+    "time": "6:30",
     "repeat_day": "Thursday",
     "host_name": "Matt Chambers",
     "price": "",
@@ -1677,7 +1835,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "2469",
@@ -1698,7 +1858,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "2473",
@@ -1719,7 +1881,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "2537",
@@ -1740,7 +1904,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "2562",
@@ -1761,7 +1927,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "2580",
@@ -1782,7 +1950,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "2590",
@@ -1803,7 +1973,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "2592",
@@ -1824,7 +1996,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "2656",
@@ -1845,7 +2019,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "2667",
@@ -1866,7 +2042,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "2697",
@@ -1887,7 +2065,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "2770",
@@ -1908,7 +2088,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "2778",
@@ -1929,7 +2111,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "5",
-    "Host rating": "3"
+    "Host rating": "3",
+    "Number of Quiz reviews": "2",
+    "Number of Host reviews": "2"
   },
   {
     "event_id": "2848",
@@ -1950,7 +2134,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "3011",
@@ -1971,7 +2157,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "3030",
@@ -1992,7 +2180,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "3050",
@@ -2013,7 +2203,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "3069",
@@ -2034,7 +2226,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "3093",
@@ -2055,7 +2249,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "3095",
@@ -2076,7 +2272,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "3124",
@@ -2097,7 +2295,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "3159",
@@ -2118,7 +2318,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "3171",
@@ -2139,7 +2341,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "3259",
@@ -2160,7 +2364,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "3393",
@@ -2181,7 +2387,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "3406",
@@ -2202,7 +2410,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "3417",
@@ -2223,7 +2433,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "3429",
@@ -2244,7 +2456,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "3514",
@@ -2265,7 +2479,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "3541",
@@ -2275,7 +2491,7 @@ window.eventsData = [
     "latitude": "50.9849449",
     "longitude": "-1.3847798",
     "date": "22-Jan-26",
-    "time": "08:00",
+    "time": "8:00",
     "repeat_day": "Thursday",
     "host_name": "Starman Dickens",
     "price": "£2 to play",
@@ -2286,7 +2502,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "3550",
@@ -2307,7 +2525,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "3722",
@@ -2328,7 +2548,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "3736",
@@ -2349,7 +2571,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "3846",
@@ -2370,7 +2594,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "3858",
@@ -2391,7 +2617,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "3880",
@@ -2412,7 +2640,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "3910",
@@ -2433,7 +2663,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "3915",
@@ -2454,7 +2686,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "3927",
@@ -2475,7 +2709,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "3930",
@@ -2496,7 +2732,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "3934",
@@ -2505,7 +2743,7 @@ window.eventsData = [
     "address": "17 Whitemoor Lane, Belper, DE56 0HB 8 Tuesday Prizes, Cash & Vouchers | £4 to play | Max 4 per team",
     "latitude": "53.0282458",
     "longitude": "-1.4615501",
-    "date": "03-Feb-26",
+    "date": "3-Feb-26",
     "time": "",
     "repeat_day": "Tuesday",
     "host_name": "Clivejason Mallia",
@@ -2517,7 +2755,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "3954",
@@ -2538,7 +2778,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "3957",
@@ -2559,7 +2801,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "3987",
@@ -2580,7 +2824,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4106",
@@ -2601,7 +2847,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4118",
@@ -2622,7 +2870,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4119",
@@ -2643,7 +2893,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4122",
@@ -2664,7 +2916,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4125",
@@ -2685,7 +2939,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4153",
@@ -2706,7 +2962,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4183",
@@ -2727,7 +2985,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4185",
@@ -2748,7 +3008,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4196",
@@ -2769,7 +3031,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4238",
@@ -2790,7 +3054,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4246",
@@ -2799,7 +3065,7 @@ window.eventsData = [
     "address": "Walmgate, York, YO1 9TY 16:00 Sunday 1 Feb 2026Prizes, Vouchers | Free to play | Max 6 per team",
     "latitude": "53.95655812",
     "longitude": "-1.074978424",
-    "date": "01-Feb-26",
+    "date": "1-Feb-26",
     "time": "16:00",
     "repeat_day": "Sunday",
     "host_name": "Rob Scott-South",
@@ -2811,7 +3077,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4322",
@@ -2832,7 +3100,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4379",
@@ -2853,7 +3123,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4409",
@@ -2874,7 +3146,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4416",
@@ -2895,7 +3169,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4433",
@@ -2916,7 +3192,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4487",
@@ -2937,7 +3215,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4535",
@@ -2958,7 +3238,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4546",
@@ -2979,7 +3261,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4548",
@@ -3000,7 +3284,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4561",
@@ -3021,7 +3307,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4586",
@@ -3042,7 +3330,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4587",
@@ -3063,7 +3353,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4590",
@@ -3084,7 +3376,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4598",
@@ -3105,7 +3399,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4656",
@@ -3126,7 +3422,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4662",
@@ -3136,7 +3434,7 @@ window.eventsData = [
     "latitude": "52.43914509",
     "longitude": "-1.782735586",
     "date": "25-Jan-26",
-    "time": "07:30",
+    "time": "7:30",
     "repeat_day": "Sunday",
     "host_name": "Adrian Bates",
     "price": "",
@@ -3147,7 +3445,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4680",
@@ -3168,7 +3468,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4715",
@@ -3189,7 +3491,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4749",
@@ -3210,7 +3514,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4784",
@@ -3231,7 +3537,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4798",
@@ -3252,7 +3560,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4810",
@@ -3273,7 +3583,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4815",
@@ -3294,7 +3606,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4865",
@@ -3315,7 +3629,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4880",
@@ -3336,7 +3652,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4892",
@@ -3345,7 +3663,7 @@ window.eventsData = [
     "address": "",
     "latitude": "53.48862029",
     "longitude": "-2.273278008",
-    "date": "02-Feb-26",
+    "date": "2-Feb-26",
     "time": "21:00",
     "repeat_day": "Monday",
     "host_name": "Tony Murphy",
@@ -3357,7 +3675,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4900",
@@ -3378,7 +3698,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4929",
@@ -3399,7 +3721,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4937",
@@ -3420,7 +3744,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4939",
@@ -3441,7 +3767,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4943",
@@ -3462,7 +3790,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "4996",
@@ -3483,7 +3813,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5021",
@@ -3504,7 +3836,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5029",
@@ -3525,7 +3859,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5044",
@@ -3546,7 +3882,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5069",
@@ -3556,7 +3894,7 @@ window.eventsData = [
     "latitude": "39.9284469",
     "longitude": "-80.7503573",
     "date": "27-Jan-26",
-    "time": "07:30",
+    "time": "7:30",
     "repeat_day": "Tuesday",
     "host_name": "DJ Keith Shreve",
     "price": "",
@@ -3567,7 +3905,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5135",
@@ -3588,7 +3928,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5144",
@@ -3609,7 +3951,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5156",
@@ -3630,7 +3974,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5167",
@@ -3651,7 +3997,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5175",
@@ -3661,7 +4009,7 @@ window.eventsData = [
     "latitude": "39.9170602",
     "longitude": "-80.7475006",
     "date": "26-Jan-26",
-    "time": "07:00",
+    "time": "7:00",
     "repeat_day": "Monday",
     "host_name": "DJ Keith Shreve",
     "price": "",
@@ -3672,7 +4020,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5219",
@@ -3693,7 +4043,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5248",
@@ -3714,7 +4066,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5256",
@@ -3724,7 +4078,7 @@ window.eventsData = [
     "latitude": "41.3788571",
     "longitude": "-81.7334458",
     "date": "27-Jan-26",
-    "time": "07:00",
+    "time": "7:00",
     "repeat_day": "Tuesday",
     "host_name": "Bob Varga",
     "price": "",
@@ -3735,7 +4089,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5353",
@@ -3756,7 +4112,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5382",
@@ -3777,7 +4135,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5388",
@@ -3798,7 +4158,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5499",
@@ -3819,7 +4181,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5515",
@@ -3840,7 +4204,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5518",
@@ -3861,7 +4227,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5532",
@@ -3882,7 +4250,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5536",
@@ -3903,7 +4273,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5612",
@@ -3924,7 +4296,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5616",
@@ -3945,7 +4319,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5639",
@@ -3966,7 +4342,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5661",
@@ -3987,7 +4365,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5671",
@@ -4008,7 +4388,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5685",
@@ -4029,7 +4411,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5718",
@@ -4050,7 +4434,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5728",
@@ -4060,7 +4446,7 @@ window.eventsData = [
     "latitude": "42.4434285",
     "longitude": "-85.6414999",
     "date": "21-Jan-26",
-    "time": "07:30",
+    "time": "7:30",
     "repeat_day": "Wednesday",
     "host_name": "Corey Brink",
     "price": "",
@@ -4071,7 +4457,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5736",
@@ -4092,7 +4480,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5744",
@@ -4113,7 +4503,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5805",
@@ -4134,7 +4526,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5808",
@@ -4155,7 +4549,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5816",
@@ -4176,7 +4572,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5825",
@@ -4197,7 +4595,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5835",
@@ -4218,7 +4618,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5842",
@@ -4239,7 +4641,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5865",
@@ -4249,7 +4653,7 @@ window.eventsData = [
     "latitude": "47.166284",
     "longitude": "-122.4332351",
     "date": "10-Feb-26",
-    "time": "07:00",
+    "time": "7:00",
     "repeat_day": "Tuesday",
     "host_name": "Sean Denard",
     "price": "",
@@ -4260,7 +4664,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5866",
@@ -4270,7 +4676,7 @@ window.eventsData = [
     "latitude": "47.166284",
     "longitude": "-122.4332351",
     "date": "23-Jan-26",
-    "time": "07:00",
+    "time": "7:00",
     "repeat_day": "Friday",
     "host_name": "Sean Denard",
     "price": "",
@@ -4281,7 +4687,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5936",
@@ -4302,7 +4710,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5945",
@@ -4323,7 +4733,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5948",
@@ -4344,7 +4756,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5956",
@@ -4365,7 +4779,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5965",
@@ -4386,7 +4802,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5967",
@@ -4407,7 +4825,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5984",
@@ -4428,7 +4848,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "5999",
@@ -4449,7 +4871,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6026",
@@ -4470,7 +4894,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6034",
@@ -4491,7 +4917,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6040",
@@ -4512,7 +4940,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6066",
@@ -4522,7 +4952,7 @@ window.eventsData = [
     "latitude": "51.0040808",
     "longitude": "-0.937619",
     "date": "26-Jan-26",
-    "time": "07:30",
+    "time": "7:30",
     "repeat_day": "Monday",
     "host_name": "Russell Hawkins",
     "price": "£2 to play",
@@ -4533,7 +4963,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6068",
@@ -4543,7 +4975,7 @@ window.eventsData = [
     "latitude": "35.7384595",
     "longitude": "-78.8633719",
     "date": "27-Jan-26",
-    "time": "08:30",
+    "time": "8:30",
     "repeat_day": "Tuesday",
     "host_name": "Rob Bankoski",
     "price": "",
@@ -4554,7 +4986,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6079",
@@ -4575,7 +5009,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6085",
@@ -4596,7 +5032,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6089",
@@ -4617,7 +5055,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6106",
@@ -4638,7 +5078,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6121",
@@ -4659,7 +5101,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6131",
@@ -4680,7 +5124,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6155",
@@ -4701,7 +5147,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6159",
@@ -4722,7 +5170,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6174",
@@ -4743,7 +5193,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6177",
@@ -4764,7 +5216,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6203",
@@ -4785,7 +5239,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6206",
@@ -4806,7 +5262,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6213",
@@ -4827,7 +5285,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6217",
@@ -4848,7 +5308,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6220",
@@ -4869,7 +5331,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6222",
@@ -4890,7 +5354,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6223",
@@ -4911,7 +5377,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6225",
@@ -4932,7 +5400,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6228",
@@ -4953,7 +5423,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6230",
@@ -4974,7 +5446,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6237",
@@ -4995,7 +5469,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6238",
@@ -5016,7 +5492,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6254",
@@ -5037,7 +5515,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6262",
@@ -5058,7 +5538,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6263",
@@ -5079,7 +5561,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6281",
@@ -5100,7 +5584,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6285",
@@ -5121,7 +5607,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6298",
@@ -5131,7 +5619,7 @@ window.eventsData = [
     "latitude": "53.0229997",
     "longitude": "-2.217933",
     "date": "28-Jan-26",
-    "time": "08:30",
+    "time": "8:30",
     "repeat_day": "Wednesday",
     "host_name": "Stuart Provan",
     "price": "£1 to play",
@@ -5142,7 +5630,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6304",
@@ -5163,7 +5653,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6310",
@@ -5173,7 +5665,7 @@ window.eventsData = [
     "latitude": "52.44544905",
     "longitude": "-1.934267013",
     "date": "26-Jan-26",
-    "time": "08:30",
+    "time": "8:30",
     "repeat_day": "Monday",
     "host_name": "JACK MCMNAUS",
     "price": "£2 to play",
@@ -5184,7 +5676,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6313",
@@ -5205,7 +5699,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6315",
@@ -5226,7 +5722,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6329",
@@ -5247,7 +5745,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6333",
@@ -5268,7 +5768,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6335",
@@ -5289,7 +5791,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6347",
@@ -5310,7 +5814,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6353",
@@ -5331,7 +5837,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6356",
@@ -5352,7 +5860,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6366",
@@ -5373,7 +5883,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6379",
@@ -5394,7 +5906,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6400",
@@ -5415,7 +5929,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6415",
@@ -5425,7 +5941,7 @@ window.eventsData = [
     "latitude": "41.2211147",
     "longitude": "-83.2549079",
     "date": "29-Jan-26",
-    "time": "06:30",
+    "time": "6:30",
     "repeat_day": "Thursday",
     "host_name": "Matthew Brill",
     "price": "",
@@ -5436,7 +5952,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6416",
@@ -5457,7 +5975,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6427",
@@ -5478,7 +5998,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6428",
@@ -5499,7 +6021,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6434",
@@ -5520,7 +6044,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6444",
@@ -5541,7 +6067,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6450",
@@ -5562,7 +6090,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6462",
@@ -5583,7 +6113,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6463",
@@ -5593,7 +6125,7 @@ window.eventsData = [
     "latitude": "52.9904203",
     "longitude": "-2.2358372",
     "date": "29-Jan-26",
-    "time": "09:00",
+    "time": "9:00",
     "repeat_day": "Thursday",
     "host_name": "Stuart Provan",
     "price": "£1 to play",
@@ -5604,7 +6136,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6472",
@@ -5613,7 +6147,7 @@ window.eventsData = [
     "address": "230 Roman Road, Hollinwood, Failsworth, OL8 3QH Tuesday Prizes, 1st Prize £20 Food and Drink Voucher. 2nd Prize £1 | Free to play | Max 6 per team | Age 18+",
     "latitude": "53.5147608",
     "longitude": "-2.141466",
-    "date": "03-Feb-26",
+    "date": "3-Feb-26",
     "time": "8PM",
     "repeat_day": "Tuesday",
     "host_name": "Franny Ward",
@@ -5625,7 +6159,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6478",
@@ -5635,7 +6171,7 @@ window.eventsData = [
     "latitude": "54.0495755",
     "longitude": "-2.7992373",
     "date": "21-Jan-26",
-    "time": "08:30",
+    "time": "8:30",
     "repeat_day": "Wednesday",
     "host_name": "Tim Tomlinson",
     "price": "",
@@ -5646,7 +6182,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6499",
@@ -5667,7 +6205,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6500",
@@ -5688,7 +6228,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6504",
@@ -5709,7 +6251,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6508",
@@ -5730,7 +6274,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6520",
@@ -5751,7 +6297,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6534",
@@ -5772,7 +6320,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6536",
@@ -5793,7 +6343,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6546",
@@ -5814,7 +6366,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6553",
@@ -5835,7 +6389,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6558",
@@ -5844,7 +6400,7 @@ window.eventsData = [
     "address": "Running & Table Tennis C, Windmill Hill, Pudsey, LS28 8JQ 20:00 Saturday 7 Feb 2026Prizes, £25 bar voucher for 1st place plus prizes for the | Free to play",
     "latitude": "53.79032754",
     "longitude": "-1.675629616",
-    "date": "07-Feb-26",
+    "date": "7-Feb-26",
     "time": "20:00",
     "repeat_day": "Saturday",
     "host_name": "Sam Hunak",
@@ -5856,7 +6412,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6563",
@@ -5877,7 +6435,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6566",
@@ -5886,7 +6446,7 @@ window.eventsData = [
     "address": "35 Cottingham Road, Kingston upon Hull, Hull, HU5 2PP Monday £1 to play",
     "latitude": "53.7682864",
     "longitude": "-0.3565446",
-    "date": "02-Feb-26",
+    "date": "2-Feb-26",
     "time": "8.15pm",
     "repeat_day": "Monday",
     "host_name": "Steve Jackson",
@@ -5898,7 +6458,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6581",
@@ -5908,7 +6470,7 @@ window.eventsData = [
     "latitude": "37.3210219",
     "longitude": "-76.7333365",
     "date": "27-Jan-26",
-    "time": "07:00",
+    "time": "7:00",
     "repeat_day": "Tuesday",
     "host_name": "Matt Chambers",
     "price": "",
@@ -5919,7 +6481,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6592",
@@ -5940,7 +6504,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6614",
@@ -5961,7 +6527,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6618",
@@ -5982,7 +6550,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6620",
@@ -6003,7 +6573,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6623",
@@ -6024,7 +6596,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6647",
@@ -6045,7 +6619,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6670",
@@ -6066,7 +6642,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6681",
@@ -6087,7 +6665,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6692",
@@ -6108,7 +6688,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6693",
@@ -6129,7 +6711,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6702",
@@ -6150,7 +6734,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6709",
@@ -6171,7 +6757,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6739",
@@ -6192,7 +6780,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6747",
@@ -6213,7 +6803,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6786",
@@ -6234,7 +6826,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6794",
@@ -6255,7 +6849,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6804",
@@ -6276,7 +6872,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6808",
@@ -6297,7 +6895,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6812",
@@ -6318,7 +6918,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6823",
@@ -6339,7 +6941,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6836",
@@ -6360,7 +6964,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6850",
@@ -6369,7 +6975,7 @@ window.eventsData = [
     "address": "Bucks, The Venue, Bucks Student's Union, Queen Alexandra Road, High Wycombe, HP11 2JZ 18:00 Sunday 8 Feb 2026Prizes, Cash Prizes | FREE for Bucks Students to play | Max 8 per team | Age 18+",
     "latitude": "51.6283658",
     "longitude": "-0.752875576",
-    "date": "08-Feb-26",
+    "date": "8-Feb-26",
     "time": "18:00",
     "repeat_day": "Sunday",
     "host_name": "Harvey Wright",
@@ -6381,7 +6987,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6902",
@@ -6402,7 +7010,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6903",
@@ -6412,7 +7022,7 @@ window.eventsData = [
     "latitude": "52.9717626",
     "longitude": "-2.0501832",
     "date": "27-Jan-26",
-    "time": "08:30",
+    "time": "8:30",
     "repeat_day": "Tuesday",
     "host_name": "Stuart Provan",
     "price": "£1 to play",
@@ -6423,7 +7033,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6904",
@@ -6444,7 +7056,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6907",
@@ -6454,7 +7068,7 @@ window.eventsData = [
     "latitude": "33.7959521",
     "longitude": "-78.7447021",
     "date": "22-Jan-26",
-    "time": "06:00",
+    "time": "6:00",
     "repeat_day": "Thursday",
     "host_name": "Chris James",
     "price": "",
@@ -6465,7 +7079,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6916",
@@ -6486,7 +7102,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6931",
@@ -6496,7 +7114,7 @@ window.eventsData = [
     "latitude": "43.10305093",
     "longitude": "-77.44211197",
     "date": "27-Jan-26",
-    "time": "09:30",
+    "time": "9:30",
     "repeat_day": "Tuesday",
     "host_name": "Timothy Lucey",
     "price": "",
@@ -6507,7 +7125,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6938",
@@ -6528,7 +7148,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6947",
@@ -6549,7 +7171,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6962",
@@ -6570,7 +7194,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6970",
@@ -6591,7 +7217,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "6999",
@@ -6612,7 +7240,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7012",
@@ -6633,7 +7263,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7021",
@@ -6642,7 +7274,7 @@ window.eventsData = [
     "address": "The Hedley Verity, Leeds, LS1 3HQ Tuesday Prizes, Cash, Gift Cards & Drinks! | £2 to play | Max 6 per team | Age 18+",
     "latitude": "53.8019692",
     "longitude": "-1.5458361",
-    "date": "03-Feb-26",
+    "date": "3-Feb-26",
     "time": "8pm",
     "repeat_day": "Tuesday",
     "host_name": "Adam And Beth",
@@ -6654,7 +7286,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7026",
@@ -6664,7 +7298,7 @@ window.eventsData = [
     "latitude": "53.6956266",
     "longitude": "-2.431690693",
     "date": "22-Jan-26",
-    "time": "08:30",
+    "time": "8:30",
     "repeat_day": "Thursday",
     "host_name": "NICK HARROP",
     "price": "£2 to play",
@@ -6675,7 +7309,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7027",
@@ -6696,7 +7332,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7035",
@@ -6717,7 +7355,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7052",
@@ -6738,7 +7378,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7056",
@@ -6747,7 +7389,7 @@ window.eventsData = [
     "address": "Chellaston Park, Snelsmoor Lane, Chellaston, DE73 6TQ 20:00 Friday 6 Mar 2026",
     "latitude": "52.8751093",
     "longitude": "-1.426600816",
-    "date": "06-Mar-26",
+    "date": "6-Mar-26",
     "time": "20:00",
     "repeat_day": "Friday",
     "host_name": "Chellaston Leisure",
@@ -6759,7 +7401,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7057",
@@ -6780,7 +7424,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7077",
@@ -6801,7 +7447,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7086",
@@ -6822,7 +7470,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7088",
@@ -6843,7 +7493,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7105",
@@ -6864,7 +7516,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7122",
@@ -6885,7 +7539,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7138",
@@ -6906,7 +7562,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7142",
@@ -6927,7 +7585,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7157",
@@ -6948,7 +7608,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7165",
@@ -6969,7 +7631,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7183",
@@ -6990,7 +7654,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7191",
@@ -7011,7 +7677,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7199",
@@ -7032,7 +7700,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7213",
@@ -7053,7 +7723,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7218",
@@ -7074,7 +7746,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7225",
@@ -7095,7 +7769,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7227",
@@ -7116,7 +7792,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7231",
@@ -7137,7 +7815,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7232",
@@ -7158,7 +7838,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7236",
@@ -7179,7 +7861,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7254",
@@ -7200,7 +7884,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7259",
@@ -7221,7 +7907,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7268",
@@ -7242,7 +7930,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7274",
@@ -7263,7 +7953,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7275",
@@ -7284,7 +7976,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7282",
@@ -7305,7 +7999,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7295",
@@ -7326,7 +8022,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7299",
@@ -7347,7 +8045,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7301",
@@ -7368,7 +8068,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7304",
@@ -7389,7 +8091,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7316",
@@ -7410,7 +8114,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7318",
@@ -7431,7 +8137,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7330",
@@ -7452,7 +8160,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7340",
@@ -7473,7 +8183,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7357",
@@ -7494,7 +8206,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7359",
@@ -7515,7 +8229,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7361",
@@ -7536,7 +8252,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7362",
@@ -7557,7 +8275,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7372",
@@ -7578,7 +8298,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7378",
@@ -7599,7 +8321,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7384",
@@ -7620,7 +8344,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7390",
@@ -7641,7 +8367,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7404",
@@ -7662,7 +8390,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7410",
@@ -7683,7 +8413,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7422",
@@ -7704,7 +8436,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7429",
@@ -7725,7 +8459,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7430",
@@ -7746,7 +8482,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7456",
@@ -7767,7 +8505,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7468",
@@ -7777,7 +8517,7 @@ window.eventsData = [
     "latitude": "30.5256401",
     "longitude": "-87.9026432",
     "date": "27-Jan-26",
-    "time": "08:00",
+    "time": "8:00",
     "repeat_day": "Tuesday",
     "host_name": "Sherri McDonald",
     "price": "",
@@ -7788,7 +8528,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7470",
@@ -7809,7 +8551,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7514",
@@ -7830,7 +8574,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7525",
@@ -7851,7 +8597,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7529",
@@ -7860,7 +8608,7 @@ window.eventsData = [
     "address": "123 High Street, Red Lion, Horsell, GU21 4SS Monday Prizes, Prizes for 1st 2nd & 3rd places | £27.99 - 2 courses plus to play | Max 6 per team",
     "latitude": "51.323479",
     "longitude": "-0.57157",
-    "date": "09-Feb-26",
+    "date": "9-Feb-26",
     "time": "7.00pm",
     "repeat_day": "Monday",
     "host_name": "Andy Ritchie",
@@ -7872,7 +8620,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7552",
@@ -7893,7 +8643,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7555",
@@ -7914,7 +8666,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7559",
@@ -7935,7 +8689,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7573",
@@ -7956,7 +8712,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7599",
@@ -7977,7 +8735,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7611",
@@ -7998,7 +8758,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7638",
@@ -8019,7 +8781,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7672",
@@ -8040,7 +8804,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7689",
@@ -8061,7 +8827,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7694",
@@ -8082,7 +8850,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7701",
@@ -8091,7 +8861,7 @@ window.eventsData = [
     "address": "35 High Street, East Grinstead, RH19 3AF 20:00 Tuesday 3 Feb 2026Prizes, Cash Prizes | £3 to play | Max 6 per team",
     "latitude": "51.1239921",
     "longitude": "-0.0066973",
-    "date": "03-Feb-26",
+    "date": "3-Feb-26",
     "time": "20:00",
     "repeat_day": "Tuesday",
     "host_name": "Rob Marsh",
@@ -8103,7 +8873,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7707",
@@ -8124,7 +8896,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7709",
@@ -8145,7 +8919,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7712",
@@ -8166,7 +8942,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7724",
@@ -8176,7 +8954,7 @@ window.eventsData = [
     "latitude": "40.0535354",
     "longitude": "-80.6039996",
     "date": "22-Jan-26",
-    "time": "07:00",
+    "time": "7:00",
     "repeat_day": "Thursday",
     "host_name": "DJ Keith Shreve",
     "price": "",
@@ -8187,7 +8965,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7731",
@@ -8208,7 +8988,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7733",
@@ -8229,7 +9011,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7745",
@@ -8250,7 +9034,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7751",
@@ -8271,7 +9057,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7756",
@@ -8292,7 +9080,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7761",
@@ -8313,7 +9103,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7762",
@@ -8334,7 +9126,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7765",
@@ -8355,7 +9149,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7766",
@@ -8376,7 +9172,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7771",
@@ -8397,7 +9195,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7772",
@@ -8418,7 +9218,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7783",
@@ -8439,7 +9241,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7802",
@@ -8460,7 +9264,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7819",
@@ -8469,8 +9275,8 @@ window.eventsData = [
     "address": "",
     "latitude": "43.1050355",
     "longitude": "-77.4431256",
-    "date": "03-Feb-26",
-    "time": "07:00",
+    "date": "3-Feb-26",
+    "time": "7:00",
     "repeat_day": "Tuesday",
     "host_name": "Shaun Dulen",
     "price": "",
@@ -8481,7 +9287,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7829",
@@ -8502,7 +9310,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7850",
@@ -8523,7 +9333,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7862",
@@ -8544,7 +9356,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7875",
@@ -8565,7 +9379,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7877",
@@ -8575,7 +9391,7 @@ window.eventsData = [
     "latitude": "42.3185344",
     "longitude": "-72.6271747",
     "date": "21-Jan-26",
-    "time": "06:30",
+    "time": "6:30",
     "repeat_day": "Wednesday",
     "host_name": "Jared Mapel",
     "price": "",
@@ -8586,7 +9402,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7878",
@@ -8607,7 +9425,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7880",
@@ -8628,7 +9448,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7886",
@@ -8649,7 +9471,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7893",
@@ -8670,7 +9494,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7907",
@@ -8691,7 +9517,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7927",
@@ -8712,7 +9540,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7955",
@@ -8733,7 +9563,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7966",
@@ -8754,7 +9586,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7975",
@@ -8775,7 +9609,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7976",
@@ -8796,7 +9632,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7978",
@@ -8817,7 +9655,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "7992",
@@ -8838,7 +9678,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8005",
@@ -8859,7 +9701,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8009",
@@ -8880,7 +9724,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8011",
@@ -8901,7 +9747,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8019",
@@ -8922,7 +9770,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8021",
@@ -8943,7 +9793,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8033",
@@ -8953,7 +9805,7 @@ window.eventsData = [
     "latitude": "30.3769979",
     "longitude": "-90.5507487",
     "date": "22-Jan-26",
-    "time": "06:30",
+    "time": "6:30",
     "repeat_day": "Thursday",
     "host_name": "Rob Lehman",
     "price": "",
@@ -8964,7 +9816,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8042",
@@ -8985,7 +9839,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8052",
@@ -9006,7 +9862,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8054",
@@ -9027,7 +9885,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "3"
+    "Host rating": "3",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "2"
   },
   {
     "event_id": "8056",
@@ -9048,7 +9908,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8059",
@@ -9069,7 +9931,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8083",
@@ -9090,7 +9954,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8088",
@@ -9100,7 +9966,7 @@ window.eventsData = [
     "latitude": "42.1153825",
     "longitude": "-85.6367827",
     "date": "27-Jan-26",
-    "time": "07:30",
+    "time": "7:30",
     "repeat_day": "Tuesday",
     "host_name": "Corey Brink",
     "price": "",
@@ -9111,7 +9977,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8100",
@@ -9132,7 +10000,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8101",
@@ -9153,7 +10023,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8103",
@@ -9174,7 +10046,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8114",
@@ -9195,7 +10069,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8117",
@@ -9216,7 +10092,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8127",
@@ -9237,7 +10115,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8134",
@@ -9258,7 +10138,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8139",
@@ -9279,7 +10161,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8156",
@@ -9289,7 +10173,7 @@ window.eventsData = [
     "latitude": "42.2175239",
     "longitude": "-72.5539735",
     "date": "21-Jan-26",
-    "time": "06:30",
+    "time": "6:30",
     "repeat_day": "Wednesday",
     "host_name": "David Smith",
     "price": "",
@@ -9300,7 +10184,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8174",
@@ -9321,7 +10207,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8190",
@@ -9342,7 +10230,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8196",
@@ -9363,7 +10253,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8219",
@@ -9384,7 +10276,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8220",
@@ -9394,7 +10288,7 @@ window.eventsData = [
     "latitude": "39.7156778",
     "longitude": "-75.019912",
     "date": "29-Jan-26",
-    "time": "07:30",
+    "time": "7:30",
     "repeat_day": "Thursday",
     "host_name": "Lou Di Marco",
     "price": "",
@@ -9405,7 +10299,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8222",
@@ -9426,7 +10322,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8227",
@@ -9447,7 +10345,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8230",
@@ -9468,7 +10368,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8234",
@@ -9489,7 +10391,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8239",
@@ -9510,7 +10414,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8240",
@@ -9531,7 +10437,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8244",
@@ -9552,7 +10460,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8248",
@@ -9573,7 +10483,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8250",
@@ -9594,7 +10506,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8253",
@@ -9615,7 +10529,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8256",
@@ -9636,7 +10552,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8262",
@@ -9645,7 +10563,7 @@ window.eventsData = [
     "address": "92 Burton Road, Unit 2, Neepsend, S3 8BX Tuesday Prizes, £25 Bar Tab, £50 Bar Tab + a shot at the big jackp | £2 to play | Max 8 per team | Age 18++",
     "latitude": "53.3926283",
     "longitude": "-1.4758877",
-    "date": "03-Feb-26",
+    "date": "3-Feb-26",
     "time": "7:30pm",
     "repeat_day": "Tuesday",
     "host_name": "Tom Miller",
@@ -9657,7 +10575,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8267",
@@ -9678,7 +10598,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8270",
@@ -9699,7 +10621,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8271",
@@ -9720,7 +10644,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8274",
@@ -9741,7 +10667,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8296",
@@ -9762,7 +10690,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8297",
@@ -9783,7 +10713,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8300",
@@ -9804,7 +10736,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8301",
@@ -9825,7 +10759,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8309",
@@ -9846,7 +10782,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8347",
@@ -9867,7 +10805,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8370",
@@ -9888,7 +10828,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8371",
@@ -9909,7 +10851,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8381",
@@ -9930,7 +10874,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8382",
@@ -9951,7 +10897,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8418",
@@ -9961,7 +10909,7 @@ window.eventsData = [
     "latitude": "39.9773485",
     "longitude": "-75.0133098",
     "date": "26-Jan-26",
-    "time": "07:30",
+    "time": "7:30",
     "repeat_day": "Monday",
     "host_name": "Lou Di Marco",
     "price": "",
@@ -9972,7 +10920,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8421",
@@ -9993,7 +10943,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8428",
@@ -10014,7 +10966,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8442",
@@ -10035,7 +10989,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8444",
@@ -10045,7 +11001,7 @@ window.eventsData = [
     "latitude": "37.2805215",
     "longitude": "-79.8975726",
     "date": "22-Jan-26",
-    "time": "06:30",
+    "time": "6:30",
     "repeat_day": "Thursday",
     "host_name": "Johnny Camacho",
     "price": "",
@@ -10056,7 +11012,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8478",
@@ -10065,7 +11023,7 @@ window.eventsData = [
     "address": "",
     "latitude": "53.468671",
     "longitude": "-2.239221",
-    "date": "05-Feb-26",
+    "date": "5-Feb-26",
     "time": "15:00",
     "repeat_day": "Thursday",
     "host_name": "Sam Williams",
@@ -10077,7 +11035,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8487",
@@ -10098,7 +11058,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8489",
@@ -10119,7 +11081,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8490",
@@ -10140,7 +11104,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8496",
@@ -10161,7 +11127,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8520",
@@ -10171,7 +11139,7 @@ window.eventsData = [
     "latitude": "44.6415487",
     "longitude": "-85.274975",
     "date": "13-Feb-26",
-    "time": "07:00",
+    "time": "7:00",
     "repeat_day": "Friday",
     "host_name": "Josh Petersen",
     "price": "",
@@ -10182,7 +11150,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8530",
@@ -10203,7 +11173,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8532",
@@ -10224,7 +11196,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8533",
@@ -10245,7 +11219,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8534",
@@ -10266,7 +11242,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8542",
@@ -10276,7 +11254,7 @@ window.eventsData = [
     "latitude": "33.6068736",
     "longitude": "-78.988159",
     "date": "22-Jan-26",
-    "time": "07:00",
+    "time": "7:00",
     "repeat_day": "Thursday",
     "host_name": "Scott Shaw",
     "price": "",
@@ -10287,7 +11265,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8595",
@@ -10308,7 +11288,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8618",
@@ -10329,7 +11311,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8640",
@@ -10350,7 +11334,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8651",
@@ -10371,7 +11357,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8656",
@@ -10392,7 +11380,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8671",
@@ -10402,7 +11392,7 @@ window.eventsData = [
     "latitude": "53.45076835",
     "longitude": "-1.938968897",
     "date": "27-Jan-26",
-    "time": "08:30",
+    "time": "8:30",
     "repeat_day": "Tuesday",
     "host_name": "Liam Amos",
     "price": "",
@@ -10413,7 +11403,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8672",
@@ -10434,7 +11426,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8678",
@@ -10443,7 +11437,7 @@ window.eventsData = [
     "address": "Castor Road, Brixham, TQ59PY Saturday Prizes, Bottle Of Sparkling, Chocolate, Wine, M&S Collecti | £1 Per Player to play | Max Un per team | Age 18+",
     "latitude": "50.3866398",
     "longitude": "-3.5149154",
-    "date": "07-Feb-26",
+    "date": "7-Feb-26",
     "time": "8pm",
     "repeat_day": "Saturday",
     "host_name": "Dan Lewis",
@@ -10455,7 +11449,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8680",
@@ -10476,7 +11472,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8684",
@@ -10497,7 +11495,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8692",
@@ -10518,7 +11518,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8694",
@@ -10539,7 +11541,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8702",
@@ -10560,7 +11564,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8704",
@@ -10581,7 +11587,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8727",
@@ -10602,7 +11610,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8728",
@@ -10611,7 +11621,7 @@ window.eventsData = [
     "address": "William Hill Way, Balderton, Newark, NG24 3NG 6.30 Sunday 1 Feb 2026Prizes, Cash | £1 to play | Max 4 per team",
     "latitude": "53.0450791",
     "longitude": "-0.7752014",
-    "date": "01-Feb-26",
+    "date": "1-Feb-26",
     "time": "6.3",
     "repeat_day": "Sunday",
     "host_name": "Andy Oliver",
@@ -10623,7 +11633,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8732",
@@ -10644,7 +11656,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8735",
@@ -10665,7 +11679,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8736",
@@ -10686,7 +11702,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8739",
@@ -10707,7 +11725,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8743",
@@ -10728,7 +11748,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8752",
@@ -10749,7 +11771,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8753",
@@ -10770,7 +11794,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8773",
@@ -10791,7 +11817,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8782",
@@ -10801,7 +11829,7 @@ window.eventsData = [
     "latitude": "51.7284346",
     "longitude": "-0.2899861",
     "date": "27-Jan-26",
-    "time": "08:00",
+    "time": "8:00",
     "repeat_day": "Tuesday",
     "host_name": "Robert Kilburn",
     "price": "£2 to play",
@@ -10812,7 +11840,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8789",
@@ -10833,7 +11863,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8798",
@@ -10854,7 +11886,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8801",
@@ -10864,7 +11898,7 @@ window.eventsData = [
     "latitude": "42.2131064",
     "longitude": "-72.622347",
     "date": "27-Jan-26",
-    "time": "07:00",
+    "time": "7:00",
     "repeat_day": "Tuesday",
     "host_name": "Jim Gavron",
     "price": "",
@@ -10875,7 +11909,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8809",
@@ -10896,7 +11932,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8812",
@@ -10906,7 +11944,7 @@ window.eventsData = [
     "latitude": "33.7618599",
     "longitude": "-78.7861991",
     "date": "23-Jan-26",
-    "time": "07:00",
+    "time": "7:00",
     "repeat_day": "Friday",
     "host_name": "Scott Shaw",
     "price": "",
@@ -10917,7 +11955,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8814",
@@ -10938,7 +11978,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8815",
@@ -10959,7 +12001,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8820",
@@ -10980,7 +12024,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8842",
@@ -11001,7 +12047,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8843",
@@ -11022,7 +12070,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8850",
@@ -11043,7 +12093,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8861",
@@ -11064,7 +12116,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8863",
@@ -11085,7 +12139,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8869",
@@ -11095,7 +12151,7 @@ window.eventsData = [
     "latitude": "44.7420496",
     "longitude": "-85.1537495",
     "date": "21-Jan-26",
-    "time": "06:30",
+    "time": "6:30",
     "repeat_day": "Wednesday",
     "host_name": "",
     "price": "",
@@ -11106,7 +12162,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8870",
@@ -11127,7 +12185,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8876",
@@ -11148,7 +12208,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8877",
@@ -11169,7 +12231,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8880",
@@ -11190,7 +12254,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8902",
@@ -11211,7 +12277,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8903",
@@ -11232,7 +12300,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8905",
@@ -11253,7 +12323,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8917",
@@ -11274,7 +12346,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8930",
@@ -11295,7 +12369,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8937",
@@ -11316,7 +12392,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8938",
@@ -11337,7 +12415,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8941",
@@ -11358,7 +12438,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8942",
@@ -11379,7 +12461,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "8998",
@@ -11400,7 +12484,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9009",
@@ -11421,7 +12507,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9020",
@@ -11442,7 +12530,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9032",
@@ -11463,7 +12553,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9049",
@@ -11484,7 +12576,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9054",
@@ -11505,7 +12599,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9057",
@@ -11526,7 +12622,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9064",
@@ -11547,7 +12645,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9075",
@@ -11568,7 +12668,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9081",
@@ -11589,7 +12691,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9088",
@@ -11610,7 +12714,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9099",
@@ -11631,7 +12737,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9102",
@@ -11652,7 +12760,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9104",
@@ -11673,7 +12783,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9105",
@@ -11694,7 +12806,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9107",
@@ -11715,7 +12829,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9127",
@@ -11736,7 +12852,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9132",
@@ -11757,7 +12875,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9136",
@@ -11778,7 +12898,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9158",
@@ -11799,7 +12921,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9168",
@@ -11820,7 +12944,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9178",
@@ -11841,7 +12967,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9180",
@@ -11862,7 +12990,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9186",
@@ -11883,7 +13013,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9190",
@@ -11904,7 +13036,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9193",
@@ -11925,7 +13059,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9199",
@@ -11946,7 +13082,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9205",
@@ -11967,7 +13105,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9216",
@@ -11988,7 +13128,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9221",
@@ -12009,7 +13151,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9230",
@@ -12030,7 +13174,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9257",
@@ -12051,7 +13197,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9262",
@@ -12072,7 +13220,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9264",
@@ -12093,7 +13243,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9275",
@@ -12114,7 +13266,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9288",
@@ -12135,7 +13289,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9299",
@@ -12156,7 +13312,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9304",
@@ -12177,7 +13335,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9306",
@@ -12198,7 +13358,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9321",
@@ -12219,7 +13381,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9328",
@@ -12228,8 +13392,8 @@ window.eventsData = [
     "address": "North Road, Glossop, SK13 7AS 8:30 Thursday 5 Feb 2026",
     "latitude": "53.4465186",
     "longitude": "-1.9518566",
-    "date": "05-Feb-26",
-    "time": "08:30",
+    "date": "5-Feb-26",
+    "time": "8:30",
     "repeat_day": "Thursday",
     "host_name": "Liam Amos",
     "price": "",
@@ -12240,7 +13404,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9338",
@@ -12261,7 +13427,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9346",
@@ -12282,7 +13450,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9367",
@@ -12303,7 +13473,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9387",
@@ -12324,7 +13496,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9401",
@@ -12345,7 +13519,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9404",
@@ -12366,7 +13542,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9407",
@@ -12387,7 +13565,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9409",
@@ -12408,7 +13588,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9419",
@@ -12429,7 +13611,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9420",
@@ -12450,7 +13634,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9431",
@@ -12471,7 +13657,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9442",
@@ -12492,7 +13680,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9465",
@@ -12513,7 +13703,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9471",
@@ -12534,7 +13726,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9473",
@@ -12555,7 +13749,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9489",
@@ -12576,7 +13772,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9491",
@@ -12597,7 +13795,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9494",
@@ -12618,7 +13818,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9504",
@@ -12639,7 +13841,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9505",
@@ -12660,7 +13864,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9507",
@@ -12681,7 +13887,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9510",
@@ -12702,7 +13910,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9522",
@@ -12723,7 +13933,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9523",
@@ -12732,7 +13944,7 @@ window.eventsData = [
     "address": "Bradley Road, Borough Green, Newmarket, CB8 9NH Wednesday Prizes, Bar Vouchers | £3 to play | Max 6 per team | Age 18+",
     "latitude": "52.17450412",
     "longitude": "0.394209623",
-    "date": "04-Feb-26",
+    "date": "4-Feb-26",
     "time": "7.30pm",
     "repeat_day": "Wednesday",
     "host_name": "Gary Woodland",
@@ -12744,7 +13956,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9533",
@@ -12765,7 +13979,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9536",
@@ -12774,7 +13990,7 @@ window.eventsData = [
     "address": "King Street, The Bobbin, Aberdeen, AB24 5ST Monday 0 to play | Age 18+",
     "latitude": "57.1624968",
     "longitude": "-2.0964206",
-    "date": "09-Feb-26",
+    "date": "9-Feb-26",
     "time": "8pm",
     "repeat_day": "Monday",
     "host_name": "Michael McMillan",
@@ -12786,7 +14002,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9568",
@@ -12807,7 +14025,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9577",
@@ -12828,7 +14048,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9579",
@@ -12838,7 +14060,7 @@ window.eventsData = [
     "latitude": "54.65399587",
     "longitude": "-1.451804638",
     "date": "22-Jan-26",
-    "time": "08:30",
+    "time": "8:30",
     "repeat_day": "Thursday",
     "host_name": "Jon Cannings",
     "price": "",
@@ -12849,7 +14071,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9581",
@@ -12870,7 +14094,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9597",
@@ -12891,7 +14117,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9600",
@@ -12912,7 +14140,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9615",
@@ -12933,7 +14163,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9627",
@@ -12954,7 +14186,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9634",
@@ -12975,7 +14209,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9644",
@@ -12996,7 +14232,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9653",
@@ -13017,7 +14255,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9659",
@@ -13038,7 +14278,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9665",
@@ -13047,7 +14289,7 @@ window.eventsData = [
     "address": "22 Lugar Place, Glasgow, G44 5HB Monday Prizes, £20 Voucher Plus Cash Jackpot | FREE to play | Max 6 per team | Age 18+",
     "latitude": "55.81535315",
     "longitude": "-4.227311611",
-    "date": "02-Feb-26",
+    "date": "2-Feb-26",
     "time": "8.45pm",
     "repeat_day": "Monday",
     "host_name": "Gary Dunn",
@@ -13059,7 +14301,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9668",
@@ -13080,7 +14324,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9674",
@@ -13089,7 +14335,7 @@ window.eventsData = [
     "address": "529 Christchurch Road, Chaplins & The Cellar Bar, Boscombe, BH1 4AG Thursday Prizes, Cash & Chocolate | 3.00 to play | Max 8 per team | Age 18+",
     "latitude": "50.7257009",
     "longitude": "-1.8422466",
-    "date": "05-Feb-26",
+    "date": "5-Feb-26",
     "time": "8.00pm",
     "repeat_day": "Thursday",
     "host_name": "Andy Bee",
@@ -13101,7 +14347,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9681",
@@ -13122,7 +14370,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9682",
@@ -13143,7 +14393,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9683",
@@ -13164,7 +14416,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9689",
@@ -13185,7 +14439,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9695",
@@ -13206,7 +14462,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9701",
@@ -13227,7 +14485,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9711",
@@ -13248,7 +14508,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9715",
@@ -13269,7 +14531,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9719",
@@ -13290,7 +14554,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9723",
@@ -13311,7 +14577,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9726",
@@ -13332,7 +14600,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9728",
@@ -13353,7 +14623,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9737",
@@ -13374,7 +14646,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9752",
@@ -13395,7 +14669,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9761",
@@ -13405,7 +14681,7 @@ window.eventsData = [
     "latitude": "32.236461",
     "longitude": "-110.9292042",
     "date": "27-Jan-26",
-    "time": "07:00",
+    "time": "7:00",
     "repeat_day": "Tuesday",
     "host_name": "Colin Cordell",
     "price": "",
@@ -13416,7 +14692,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9764",
@@ -13437,7 +14715,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9765",
@@ -13458,7 +14738,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9777",
@@ -13479,7 +14761,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9800",
@@ -13500,7 +14784,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9809",
@@ -13521,7 +14807,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9811",
@@ -13542,7 +14830,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9825",
@@ -13563,7 +14853,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9829",
@@ -13584,7 +14876,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9831",
@@ -13605,7 +14899,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9839",
@@ -13626,7 +14922,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9842",
@@ -13647,7 +14945,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9864",
@@ -13668,7 +14968,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9865",
@@ -13689,7 +14991,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9866",
@@ -13710,7 +15014,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9874",
@@ -13731,7 +15037,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9881",
@@ -13752,7 +15060,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9903",
@@ -13773,7 +15083,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9910",
@@ -13794,7 +15106,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9912",
@@ -13815,7 +15129,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9913",
@@ -13836,7 +15152,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9916",
@@ -13857,7 +15175,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9927",
@@ -13878,7 +15198,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9934",
@@ -13899,7 +15221,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9936",
@@ -13920,7 +15244,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9944",
@@ -13941,7 +15267,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9946",
@@ -13962,7 +15290,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9947",
@@ -13983,7 +15313,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9952",
@@ -14004,7 +15336,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9971",
@@ -14025,7 +15359,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9972",
@@ -14046,7 +15382,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9981",
@@ -14067,7 +15405,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9985",
@@ -14088,7 +15428,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9987",
@@ -14109,7 +15451,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9992",
@@ -14130,7 +15474,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9994",
@@ -14151,7 +15497,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "9999",
@@ -14172,7 +15520,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10002",
@@ -14193,7 +15543,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10006",
@@ -14214,7 +15566,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10007",
@@ -14224,7 +15578,7 @@ window.eventsData = [
     "latitude": "38.0367143",
     "longitude": "-78.5003884",
     "date": "27-Jan-26",
-    "time": "06:00",
+    "time": "6:00",
     "repeat_day": "Tuesday",
     "host_name": "Alex Kerr",
     "price": "",
@@ -14235,7 +15589,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10011",
@@ -14256,7 +15612,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10027",
@@ -14277,7 +15635,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10028",
@@ -14298,7 +15658,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10038",
@@ -14319,7 +15681,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10058",
@@ -14340,7 +15704,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10065",
@@ -14361,7 +15727,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10067",
@@ -14382,7 +15750,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10069",
@@ -14403,7 +15773,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10073",
@@ -14424,7 +15796,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10094",
@@ -14445,7 +15819,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10095",
@@ -14466,7 +15842,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10099",
@@ -14487,7 +15865,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10124",
@@ -14508,7 +15888,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10125",
@@ -14529,7 +15911,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10126",
@@ -14550,7 +15934,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10127",
@@ -14571,7 +15957,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10143",
@@ -14592,7 +15980,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10147",
@@ -14613,7 +16003,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10156",
@@ -14634,7 +16026,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10172",
@@ -14655,7 +16049,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10177",
@@ -14676,7 +16072,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10178",
@@ -14697,7 +16095,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10191",
@@ -14718,7 +16118,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10194",
@@ -14739,7 +16141,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10200",
@@ -14760,7 +16164,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10205",
@@ -14769,7 +16175,7 @@ window.eventsData = [
     "address": "Manor Lane, Halesowen, B62 8PZ 19:00 Sunday 1 Feb 2026Prizes, Bar Tab & Prizes To Be Won | FREE to play | Max 8 per team",
     "latitude": "52.45426703",
     "longitude": "-2.022653818",
-    "date": "01-Feb-26",
+    "date": "1-Feb-26",
     "time": "19:00",
     "repeat_day": "Sunday",
     "host_name": "ADW Entertainment",
@@ -14781,7 +16187,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10212",
@@ -14802,7 +16210,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10214",
@@ -14823,7 +16233,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10222",
@@ -14833,7 +16245,7 @@ window.eventsData = [
     "latitude": "32.7311055",
     "longitude": "-117.1495474",
     "date": "21-Jan-26",
-    "time": "06:30",
+    "time": "6:30",
     "repeat_day": "Wednesday",
     "host_name": "Maci Taylor",
     "price": "",
@@ -14844,7 +16256,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10223",
@@ -14865,7 +16279,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10224",
@@ -14886,7 +16302,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10225",
@@ -14895,7 +16313,7 @@ window.eventsData = [
     "address": "Fishers Green, Stevenage, SG1 2JA Monday Prizes, 50% of entry fees paid out in prizes, rest goes to | £4 to play | Max 6 per team | Age 18+",
     "latitude": "51.9201005",
     "longitude": "-0.2224879",
-    "date": "02-Feb-26",
+    "date": "2-Feb-26",
     "time": "8:00pm",
     "repeat_day": "Monday",
     "host_name": "Owen Andrew",
@@ -14907,7 +16325,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10227",
@@ -14928,7 +16348,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10232",
@@ -14949,7 +16371,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10238",
@@ -14958,7 +16382,7 @@ window.eventsData = [
     "address": "80 Albion Street, Glasgow, G1 1NY Monday",
     "latitude": "55.8583571",
     "longitude": "-4.2440549",
-    "date": "02-Feb-26",
+    "date": "2-Feb-26",
     "time": "8pm",
     "repeat_day": "Monday",
     "host_name": "Duncan Forrest",
@@ -14970,7 +16394,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10243",
@@ -14991,7 +16417,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10249",
@@ -15001,7 +16429,7 @@ window.eventsData = [
     "latitude": "41.4856808",
     "longitude": "-81.7838532",
     "date": "10-Feb-26",
-    "time": "03:30",
+    "time": "3:30",
     "repeat_day": "Tuesday",
     "host_name": "Robert Clark",
     "price": "",
@@ -15012,7 +16440,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10254",
@@ -15022,7 +16452,7 @@ window.eventsData = [
     "latitude": "53.4429786",
     "longitude": "-2.3672386",
     "date": "23-Jan-26",
-    "time": "08:30",
+    "time": "8:30",
     "repeat_day": "Friday",
     "host_name": "DJ Ged",
     "price": "",
@@ -15033,7 +16463,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10257",
@@ -15054,7 +16486,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10263",
@@ -15075,7 +16509,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10273",
@@ -15096,7 +16532,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10274",
@@ -15117,7 +16555,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10279",
@@ -15138,7 +16578,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10286",
@@ -15159,7 +16601,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10288",
@@ -15180,7 +16624,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10298",
@@ -15201,7 +16647,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10299",
@@ -15211,7 +16659,7 @@ window.eventsData = [
     "latitude": "32.236461",
     "longitude": "-110.9292042",
     "date": "26-Jan-26",
-    "time": "07:00",
+    "time": "7:00",
     "repeat_day": "Monday",
     "host_name": "Colin Cordell",
     "price": "",
@@ -15222,7 +16670,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10313",
@@ -15243,7 +16693,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10322",
@@ -15264,7 +16716,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10329",
@@ -15274,7 +16728,7 @@ window.eventsData = [
     "latitude": "41.2168239",
     "longitude": "-85.1723442",
     "date": "22-Jan-26",
-    "time": "08:00",
+    "time": "8:00",
     "repeat_day": "Thursday",
     "host_name": "Michae-Lynn Dickinson",
     "price": "",
@@ -15285,7 +16739,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10330",
@@ -15306,7 +16762,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10331",
@@ -15316,7 +16774,7 @@ window.eventsData = [
     "latitude": "53.3987321",
     "longitude": "-2.9489801",
     "date": "21-Jan-26",
-    "time": "05:30",
+    "time": "5:30",
     "repeat_day": "Wednesday",
     "host_name": "John-James Gallagher",
     "price": "",
@@ -15327,7 +16785,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10335",
@@ -15348,7 +16808,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10347",
@@ -15357,7 +16819,7 @@ window.eventsData = [
     "address": "Blackfen Road, Sidcup, DA15 8SW Sunday Prizes, Cash | £3 to play | Max 6 per team | Age 18+",
     "latitude": "51.4505377",
     "longitude": "0.103035",
-    "date": "01-Feb-26",
+    "date": "1-Feb-26",
     "time": "7pm",
     "repeat_day": "Sunday",
     "host_name": "Marc Coates",
@@ -15369,7 +16831,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "3"
+    "Host rating": "3",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "2"
   },
   {
     "event_id": "10349",
@@ -15390,7 +16854,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10351",
@@ -15411,7 +16877,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10363",
@@ -15420,7 +16888,7 @@ window.eventsData = [
     "address": "Ferryhill House Hotel, 169 Bon-Accord Street, Aberdeen, AB11 6UA 19:00 Sunday 1 Feb 2026Prizes, 1st: £50 Cash 2nd: £25 Food/Drink Voucher | £2 to play | Max 6 per team",
     "latitude": "57.1379422",
     "longitude": "-2.104796",
-    "date": "01-Feb-26",
+    "date": "1-Feb-26",
     "time": "19:00",
     "repeat_day": "Sunday",
     "host_name": "Shaun Ahmed",
@@ -15432,7 +16900,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10376",
@@ -15453,7 +16923,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10393",
@@ -15474,7 +16946,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10402",
@@ -15495,7 +16969,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10408",
@@ -15516,7 +16992,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10409",
@@ -15537,7 +17015,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10410",
@@ -15558,7 +17038,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10434",
@@ -15579,7 +17061,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10438",
@@ -15600,7 +17084,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10439",
@@ -15609,7 +17095,7 @@ window.eventsData = [
     "address": "10 Station Approach West, Earlswood, Redhill, RH1 6HP 19:30 Sunday 1 Feb 2026Free to play to play | Max 7 per team",
     "latitude": "51.2275681",
     "longitude": "-0.1713004",
-    "date": "01-Feb-26",
+    "date": "1-Feb-26",
     "time": "19:30",
     "repeat_day": "Sunday",
     "host_name": "Rob Marsh",
@@ -15621,7 +17107,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10451",
@@ -15642,7 +17130,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10455",
@@ -15663,7 +17153,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10465",
@@ -15684,7 +17176,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10466",
@@ -15705,7 +17199,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10477",
@@ -15726,7 +17222,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10497",
@@ -15747,7 +17245,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10499",
@@ -15768,7 +17268,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10501",
@@ -15789,7 +17291,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10502",
@@ -15799,7 +17303,7 @@ window.eventsData = [
     "latitude": "42.4392029",
     "longitude": "-76.5029862",
     "date": "27-Jan-26",
-    "time": "06:30",
+    "time": "6:30",
     "repeat_day": "Tuesday",
     "host_name": "JENNA CASTER",
     "price": "",
@@ -15810,7 +17314,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10510",
@@ -15831,7 +17337,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10519",
@@ -15852,7 +17360,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10520",
@@ -15873,7 +17383,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10523",
@@ -15894,7 +17406,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10524",
@@ -15915,7 +17429,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10537",
@@ -15936,7 +17452,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10539",
@@ -15957,7 +17475,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10542",
@@ -15978,7 +17498,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10543",
@@ -15999,7 +17521,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10550",
@@ -16020,7 +17544,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10556",
@@ -16041,7 +17567,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10563",
@@ -16062,7 +17590,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10569",
@@ -16083,7 +17613,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10579",
@@ -16104,7 +17636,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10592",
@@ -16125,7 +17659,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10614",
@@ -16146,7 +17682,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10620",
@@ -16167,7 +17705,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10632",
@@ -16188,7 +17728,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10642",
@@ -16209,7 +17751,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10655",
@@ -16230,7 +17774,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10662",
@@ -16251,7 +17797,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10665",
@@ -16272,7 +17820,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10667",
@@ -16293,7 +17843,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10684",
@@ -16314,7 +17866,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10718",
@@ -16335,7 +17889,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10732",
@@ -16356,7 +17912,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10737",
@@ -16377,7 +17935,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10746",
@@ -16398,7 +17958,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10769",
@@ -16419,7 +17981,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10772",
@@ -16440,7 +18004,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10789",
@@ -16461,7 +18027,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10791",
@@ -16482,7 +18050,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10792",
@@ -16503,7 +18073,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10793",
@@ -16512,7 +18084,7 @@ window.eventsData = [
     "address": "The Old Farmhouse, Middleton Saint George, Darlington, DL2 1JY 8.00 Sunday 1 Feb 2026Prizes, Supplied by venue for top 3 teams | £1.00 to play",
     "latitude": "54.5200974",
     "longitude": "-1.4885095",
-    "date": "01-Feb-26",
+    "date": "1-Feb-26",
     "time": "8",
     "repeat_day": "Sunday",
     "host_name": "Paul Ferry",
@@ -16524,7 +18096,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10806",
@@ -16545,7 +18119,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10819",
@@ -16566,7 +18142,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10822",
@@ -16587,7 +18165,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10833",
@@ -16608,7 +18188,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10839",
@@ -16629,7 +18211,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10844",
@@ -16650,7 +18234,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10852",
@@ -16671,7 +18257,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10857",
@@ -16681,7 +18269,7 @@ window.eventsData = [
     "latitude": "42.3217246",
     "longitude": "-85.5223784",
     "date": "21-Jan-26",
-    "time": "07:30",
+    "time": "7:30",
     "repeat_day": "Wednesday",
     "host_name": "Eric Liss",
     "price": "",
@@ -16692,7 +18280,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10858",
@@ -16701,7 +18291,7 @@ window.eventsData = [
     "address": "High Street, Collingham, Newark, NG23 7LA 6.30 Sunday 1 Feb 2026Prizes, Cash | £1 to play | Max 4 per team",
     "latitude": "53.1437554",
     "longitude": "-0.7607773",
-    "date": "01-Feb-26",
+    "date": "1-Feb-26",
     "time": "6.3",
     "repeat_day": "Sunday",
     "host_name": "Andy Oliver",
@@ -16713,7 +18303,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10869",
@@ -16734,7 +18326,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10871",
@@ -16755,7 +18349,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10875",
@@ -16776,7 +18372,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10886",
@@ -16797,7 +18395,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10899",
@@ -16818,7 +18418,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10901",
@@ -16839,7 +18441,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10905",
@@ -16860,7 +18464,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10907",
@@ -16881,7 +18487,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10912",
@@ -16902,7 +18510,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10913",
@@ -16923,7 +18533,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10915",
@@ -16944,7 +18556,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10916",
@@ -16965,7 +18579,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10918",
@@ -16986,7 +18602,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10923",
@@ -17007,7 +18625,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10931",
@@ -17028,7 +18648,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10932",
@@ -17049,7 +18671,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10934",
@@ -17070,7 +18694,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10945",
@@ -17091,7 +18717,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10949",
@@ -17112,7 +18740,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10960",
@@ -17133,7 +18763,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10962",
@@ -17154,7 +18786,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10965",
@@ -17175,7 +18809,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10976",
@@ -17196,7 +18832,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10979",
@@ -17217,7 +18855,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10980",
@@ -17238,7 +18878,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10983",
@@ -17259,7 +18901,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10992",
@@ -17280,7 +18924,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "10995",
@@ -17301,7 +18947,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11005",
@@ -17322,7 +18970,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11007",
@@ -17343,7 +18993,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11014",
@@ -17353,7 +19005,7 @@ window.eventsData = [
     "latitude": "53.5357782",
     "longitude": "-2.5220154",
     "date": "28-Jan-26",
-    "time": "08:00",
+    "time": "8:00",
     "repeat_day": "Wednesday",
     "host_name": "Amy Cutler",
     "price": "",
@@ -17364,7 +19016,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11033",
@@ -17385,7 +19039,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11044",
@@ -17406,7 +19062,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11059",
@@ -17427,7 +19085,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11062",
@@ -17448,7 +19108,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11065",
@@ -17469,7 +19131,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11070",
@@ -17490,7 +19154,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11076",
@@ -17511,7 +19177,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11077",
@@ -17532,7 +19200,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11078",
@@ -17553,7 +19223,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11080",
@@ -17574,7 +19246,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11085",
@@ -17595,7 +19269,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11094",
@@ -17616,7 +19292,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11098",
@@ -17637,7 +19315,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11108",
@@ -17658,7 +19338,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11109",
@@ -17679,7 +19361,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11130",
@@ -17700,7 +19384,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11131",
@@ -17721,7 +19407,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11138",
@@ -17731,7 +19419,7 @@ window.eventsData = [
     "latitude": "52.3464613",
     "longitude": "-2.2919266",
     "date": "21-Jan-26",
-    "time": "07:00",
+    "time": "7:00",
     "repeat_day": "Wednesday",
     "host_name": "Scott Jones",
     "price": "",
@@ -17742,7 +19430,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11142",
@@ -17763,7 +19453,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11143",
@@ -17784,7 +19476,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11150",
@@ -17805,7 +19499,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11153",
@@ -17826,7 +19522,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11154",
@@ -17847,7 +19545,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11157",
@@ -17868,7 +19568,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11163",
@@ -17889,7 +19591,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11164",
@@ -17910,7 +19614,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11171",
@@ -17931,7 +19637,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11174",
@@ -17952,7 +19660,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11182",
@@ -17962,7 +19672,7 @@ window.eventsData = [
     "latitude": "53.7892877",
     "longitude": "-2.2405035",
     "date": "29-Jan-26",
-    "time": "08:00",
+    "time": "8:00",
     "repeat_day": "Thursday",
     "host_name": "Kerry Driver",
     "price": "",
@@ -17973,7 +19683,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11184",
@@ -17994,7 +19706,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11189",
@@ -18015,7 +19729,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11193",
@@ -18036,7 +19752,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11201",
@@ -18057,7 +19775,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11216",
@@ -18078,7 +19798,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11227",
@@ -18087,7 +19809,7 @@ window.eventsData = [
     "address": "149 Lisburn Road, Belfast, BT9 7AJ Sunday Prizes, Prizes for the Top 3! | Free Entry to play",
     "latitude": "54.58335119",
     "longitude": "-5.945084095",
-    "date": "01-Feb-26",
+    "date": "1-Feb-26",
     "time": "8.00pm",
     "repeat_day": "Sunday",
     "host_name": "Simon Johnston",
@@ -18099,7 +19821,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11228",
@@ -18120,7 +19844,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11234",
@@ -18141,7 +19867,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11235",
@@ -18162,7 +19890,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11241",
@@ -18183,7 +19913,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11242",
@@ -18204,7 +19936,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11245",
@@ -18213,7 +19947,7 @@ window.eventsData = [
     "address": "Ships and Giggles, 3 Fylde Road, Preston, PR1 2XQ Sunday Age 18+",
     "latitude": "53.7627897",
     "longitude": "-2.7083166",
-    "date": "01-Feb-26",
+    "date": "1-Feb-26",
     "time": "9pm",
     "repeat_day": "Sunday",
     "host_name": "DJ Jammie",
@@ -18225,7 +19959,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11249",
@@ -18246,7 +19982,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11257",
@@ -18267,7 +20005,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11267",
@@ -18288,7 +20028,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11275",
@@ -18309,7 +20051,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11284",
@@ -18319,7 +20063,7 @@ window.eventsData = [
     "latitude": "41.9301313",
     "longitude": "-72.617935",
     "date": "26-Jan-26",
-    "time": "06:00",
+    "time": "6:00",
     "repeat_day": "Monday",
     "host_name": "Jared Mapel",
     "price": "",
@@ -18330,7 +20074,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11286",
@@ -18351,7 +20097,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11290",
@@ -18372,7 +20120,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11291",
@@ -18382,7 +20132,7 @@ window.eventsData = [
     "latitude": "42.4479354",
     "longitude": "-85.6679689",
     "date": "24-Jan-26",
-    "time": "07:00",
+    "time": "7:00",
     "repeat_day": "Saturday",
     "host_name": "Ryan Kohlhoff",
     "price": "",
@@ -18393,7 +20143,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11303",
@@ -18414,7 +20166,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11313",
@@ -18435,7 +20189,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11319",
@@ -18456,7 +20212,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11320",
@@ -18477,7 +20235,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11323",
@@ -18498,7 +20258,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "5",
-    "Host rating": "5"
+    "Host rating": "5",
+    "Number of Quiz reviews": "1",
+    "Number of Host reviews": "1"
   },
   {
     "event_id": "11328",
@@ -18519,7 +20281,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11331",
@@ -18540,7 +20304,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11332",
@@ -18561,7 +20327,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11333",
@@ -18582,7 +20350,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11335",
@@ -18603,7 +20373,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11341",
@@ -18613,7 +20385,7 @@ window.eventsData = [
     "latitude": "32.2089933",
     "longitude": "-110.9559064",
     "date": "25-Jan-26",
-    "time": "06:00",
+    "time": "6:00",
     "repeat_day": "Sunday",
     "host_name": "Colin Cordell",
     "price": "",
@@ -18624,7 +20396,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11344",
@@ -18634,7 +20408,7 @@ window.eventsData = [
     "latitude": "32.22754595",
     "longitude": "-110.9351668",
     "date": "21-Jan-26",
-    "time": "06:30",
+    "time": "6:30",
     "repeat_day": "Wednesday",
     "host_name": "Colin Cordell",
     "price": "",
@@ -18645,7 +20419,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11349",
@@ -18666,7 +20442,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11364",
@@ -18687,7 +20465,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11366",
@@ -18708,7 +20488,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11367",
@@ -18717,7 +20499,7 @@ window.eventsData = [
     "address": "",
     "latitude": "49.2937392",
     "longitude": "21.2775368",
-    "date": "09-Feb-26",
+    "date": "9-Feb-26",
     "time": "19:00",
     "repeat_day": "Monday",
     "host_name": "Dusan Dlugos",
@@ -18729,7 +20511,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11369",
@@ -18750,7 +20534,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11378",
@@ -18771,7 +20557,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11386",
@@ -18792,7 +20580,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11391",
@@ -18813,7 +20603,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11402",
@@ -18834,7 +20626,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11418",
@@ -18855,7 +20649,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11430",
@@ -18876,7 +20672,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11434",
@@ -18897,7 +20695,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11459",
@@ -18918,7 +20718,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11465",
@@ -18939,7 +20741,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11470",
@@ -18960,7 +20764,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11471",
@@ -18970,7 +20776,7 @@ window.eventsData = [
     "latitude": "53.3123241",
     "longitude": "-6.2824983",
     "date": "29-Jan-26",
-    "time": "09:30",
+    "time": "9:30",
     "repeat_day": "Thursday",
     "host_name": "Mark OHare",
     "price": "",
@@ -18981,7 +20787,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11474",
@@ -18990,7 +20798,7 @@ window.eventsData = [
     "address": "95 Haugh Road, Glasgow, G3 8TX Friday Prizes, Loads of great prizes | £6 inc drink to play | Max 8 per team | Age 18+",
     "latitude": "55.8648899",
     "longitude": "-4.2916658",
-    "date": "06-Feb-26",
+    "date": "6-Feb-26",
     "time": "7:30pm",
     "repeat_day": "Friday",
     "host_name": "Mark O",
@@ -19002,7 +20810,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11483",
@@ -19023,7 +20833,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11484",
@@ -19044,7 +20856,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11498",
@@ -19065,7 +20879,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11510",
@@ -19086,7 +20902,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11511",
@@ -19107,7 +20925,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11521",
@@ -19128,7 +20948,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11532",
@@ -19149,7 +20971,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11539",
@@ -19170,7 +20994,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11545",
@@ -19191,7 +21017,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11548",
@@ -19212,7 +21040,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11557",
@@ -19233,7 +21063,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11559",
@@ -19254,7 +21086,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11561",
@@ -19275,7 +21109,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11571",
@@ -19296,7 +21132,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11573",
@@ -19317,7 +21155,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11575",
@@ -19338,7 +21178,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11576",
@@ -19359,7 +21201,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11595",
@@ -19380,7 +21224,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11603",
@@ -19401,7 +21247,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11611",
@@ -19422,7 +21270,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11624",
@@ -19443,7 +21293,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11627",
@@ -19464,7 +21316,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11630",
@@ -19485,7 +21339,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11663",
@@ -19506,7 +21362,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11680",
@@ -19527,7 +21385,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11681",
@@ -19537,7 +21397,7 @@ window.eventsData = [
     "latitude": "39.9113666",
     "longitude": "-80.7474677",
     "date": "21-Jan-26",
-    "time": "07:00",
+    "time": "7:00",
     "repeat_day": "Wednesday",
     "host_name": "DJ Keith Shreve",
     "price": "",
@@ -19548,7 +21408,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11693",
@@ -19569,7 +21431,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11717",
@@ -19579,7 +21443,7 @@ window.eventsData = [
     "latitude": "42.4425504",
     "longitude": "-85.6415802",
     "date": "26-Jan-26",
-    "time": "07:30",
+    "time": "7:30",
     "repeat_day": "Monday",
     "host_name": "Corey Brink",
     "price": "",
@@ -19590,7 +21454,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11720",
@@ -19611,7 +21477,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11729",
@@ -19632,7 +21500,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11733",
@@ -19653,7 +21523,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11738",
@@ -19674,7 +21546,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11740",
@@ -19683,7 +21557,7 @@ window.eventsData = [
     "address": "Greasby Road, Greasby, Wirral, CH49 3AT Thursday Prizes, £20 | £1.20 to play | Age 18+",
     "latitude": "53.3772609",
     "longitude": "-3.1201161",
-    "date": "05-Feb-26",
+    "date": "5-Feb-26",
     "time": "8pm",
     "repeat_day": "Thursday",
     "host_name": "Paul Sansom",
@@ -19695,7 +21569,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11742",
@@ -19716,7 +21592,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11744",
@@ -19737,7 +21615,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11745",
@@ -19758,7 +21638,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "3"
+    "Host rating": "3",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "2"
   },
   {
     "event_id": "11746",
@@ -19768,7 +21650,7 @@ window.eventsData = [
     "latitude": "42.8124563",
     "longitude": "-85.728671",
     "date": "22-Jan-26",
-    "time": "07:30",
+    "time": "7:30",
     "repeat_day": "Thursday",
     "host_name": "Corey Brink",
     "price": "",
@@ -19779,7 +21661,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11751",
@@ -19800,7 +21684,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11754",
@@ -19821,7 +21707,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11756",
@@ -19842,7 +21730,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11757",
@@ -19863,7 +21753,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11759",
@@ -19872,7 +21764,7 @@ window.eventsData = [
     "address": "Church Road, Tostock, Bury Saint Edmunds, IP30 9PA Thursday £3 to play | Max 6 per team | Age 18+",
     "latitude": "52.2363932",
     "longitude": "0.864071",
-    "date": "05-Feb-26",
+    "date": "5-Feb-26",
     "time": "7.30pm",
     "repeat_day": "Thursday",
     "host_name": "Gary Woodland",
@@ -19884,7 +21776,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11760",
@@ -19905,7 +21799,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11767",
@@ -19915,7 +21811,7 @@ window.eventsData = [
     "latitude": "42.4341817",
     "longitude": "-83.9869809",
     "date": "28-Jan-26",
-    "time": "07:00",
+    "time": "7:00",
     "repeat_day": "Wednesday",
     "host_name": "Scottie Alexander",
     "price": "",
@@ -19926,7 +21822,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11770",
@@ -19947,7 +21845,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11780",
@@ -19968,7 +21868,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11782",
@@ -19989,7 +21891,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11787",
@@ -20010,7 +21914,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11797",
@@ -20031,7 +21937,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11804",
@@ -20052,7 +21960,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11809",
@@ -20073,7 +21983,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11819",
@@ -20094,7 +22006,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11820",
@@ -20104,7 +22018,7 @@ window.eventsData = [
     "latitude": "50.81888084",
     "longitude": "4.383899671",
     "date": "27-Jan-26",
-    "time": "08:00",
+    "time": "8:00",
     "repeat_day": "Tuesday",
     "host_name": "Sean O Malley",
     "price": "",
@@ -20115,7 +22029,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11824",
@@ -20136,7 +22052,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11828",
@@ -20157,7 +22075,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11835",
@@ -20178,7 +22098,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11837",
@@ -20199,7 +22121,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11842",
@@ -20209,7 +22133,7 @@ window.eventsData = [
     "latitude": "51.89549664",
     "longitude": "-8.475908654",
     "date": "21-Jan-26",
-    "time": "09:30",
+    "time": "9:30",
     "repeat_day": "Wednesday",
     "host_name": "David Cronin",
     "price": "",
@@ -20220,7 +22144,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11843",
@@ -20241,7 +22167,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11846",
@@ -20262,7 +22190,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11848",
@@ -20271,7 +22201,7 @@ window.eventsData = [
     "address": "Floc. Brewery, 7a Cotton Road, Canterbury, CT1 3RB Thursday Prizes, Cash and Bar Tab prizes | £2 to play | Max 6 per team",
     "latitude": "51.2743335",
     "longitude": "1.0677865",
-    "date": "05-Feb-26",
+    "date": "5-Feb-26",
     "time": "7.30pm",
     "repeat_day": "Thursday",
     "host_name": "Steve Lilley",
@@ -20283,7 +22213,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11854",
@@ -20292,7 +22224,7 @@ window.eventsData = [
     "address": "27-28 The Front, Seaton Carew, Hartlepool, TS25 1BS Tuesday Prizes, £30 in vouchers",
     "latitude": "54.6600133",
     "longitude": "-1.1876222",
-    "date": "03-Feb-26",
+    "date": "3-Feb-26",
     "time": "7:30pm",
     "repeat_day": "Tuesday",
     "host_name": "Simon Asaad",
@@ -20304,7 +22236,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11862",
@@ -20325,7 +22259,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11868",
@@ -20346,7 +22282,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11871",
@@ -20367,7 +22305,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11876",
@@ -20388,7 +22328,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11880",
@@ -20409,7 +22351,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11883",
@@ -20430,7 +22374,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11886",
@@ -20451,7 +22397,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11893",
@@ -20472,7 +22420,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11894",
@@ -20481,7 +22431,7 @@ window.eventsData = [
     "address": "Station Road, Handforth, Wilmslow, SK9 3AB 8.30 Friday 6 Feb 2026Prizes, Prizes for the winners | Free to play | Age 18+",
     "latitude": "53.3456451",
     "longitude": "-2.2136883",
-    "date": "06-Feb-26",
+    "date": "6-Feb-26",
     "time": "8.3",
     "repeat_day": "Friday",
     "host_name": "Phil Brookes",
@@ -20493,7 +22443,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11895",
@@ -20514,7 +22466,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11899",
@@ -20523,7 +22477,7 @@ window.eventsData = [
     "address": "Broad Street, Birmingham, B1 2DS Sunday Prizes, 1st, 2nd, 3rd Prizes | Free Entry to play",
     "latitude": "52.47792203",
     "longitude": "-1.91049993",
-    "date": "01-Feb-26",
+    "date": "1-Feb-26",
     "time": "7pm",
     "repeat_day": "Sunday",
     "host_name": "Jamie Cartwright",
@@ -20535,7 +22489,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11905",
@@ -20556,7 +22512,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11906",
@@ -20577,7 +22535,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11908",
@@ -20598,7 +22558,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11926",
@@ -20619,7 +22581,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11933",
@@ -20628,7 +22592,7 @@ window.eventsData = [
     "address": "36 North Street, Crowle, Scunthorpe, DN17 4NE 7.30 Thursday 5 Feb 2026Prizes, Cash | £1 to play | Max 4 per team",
     "latitude": "53.6094063",
     "longitude": "-0.8346098",
-    "date": "05-Feb-26",
+    "date": "5-Feb-26",
     "time": "7.3",
     "repeat_day": "Thursday",
     "host_name": "John Morgan",
@@ -20640,7 +22604,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11942",
@@ -20661,7 +22627,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11951",
@@ -20682,7 +22650,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11952",
@@ -20703,7 +22673,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11954",
@@ -20724,7 +22696,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11956",
@@ -20733,7 +22707,7 @@ window.eventsData = [
     "address": "26-28 King Street, Stirling, FK8 1AY 1930 Monday Prizes, £80 | 0 to play | Age 18+",
     "latitude": "56.1183028",
     "longitude": "-3.9376217",
-    "date": "02-Feb-26",
+    "date": "2-Feb-26",
     "time": "",
     "repeat_day": "Monday",
     "host_name": "Harry Sawdon",
@@ -20745,7 +22719,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11966",
@@ -20766,7 +22742,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11971",
@@ -20787,7 +22765,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11972",
@@ -20808,7 +22788,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11973",
@@ -20829,7 +22811,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11978",
@@ -20850,7 +22834,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "11983",
@@ -20871,7 +22857,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12000",
@@ -20892,7 +22880,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12002",
@@ -20913,7 +22903,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12009",
@@ -20934,7 +22926,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12020",
@@ -20943,7 +22937,7 @@ window.eventsData = [
     "address": "171 Great Western Road, Glasgow, G4 9AW 1700 Sunday Prizes, £25 Bar Tab + 2 gig tickets!",
     "latitude": "55.8722346",
     "longitude": "-4.2724038",
-    "date": "01-Feb-26",
+    "date": "1-Feb-26",
     "time": "",
     "repeat_day": "Sunday",
     "host_name": "Mackenzie Watson",
@@ -20955,7 +22949,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12023",
@@ -20976,7 +22972,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12027",
@@ -20997,7 +22995,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12032",
@@ -21018,7 +23018,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12033",
@@ -21039,7 +23041,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12035",
@@ -21060,7 +23064,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12036",
@@ -21081,7 +23087,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12038",
@@ -21102,7 +23110,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12046",
@@ -21123,7 +23133,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12048",
@@ -21144,7 +23156,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12049",
@@ -21165,7 +23179,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12054",
@@ -21175,7 +23191,7 @@ window.eventsData = [
     "latitude": "53.2660318",
     "longitude": "-0.658608",
     "date": "21-Jan-26",
-    "time": "08:00",
+    "time": "8:00",
     "repeat_day": "Wednesday",
     "host_name": "Steve Gladding",
     "price": "£2 to play",
@@ -21186,7 +23202,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12060",
@@ -21207,7 +23225,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12063",
@@ -21228,7 +23248,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12064",
@@ -21249,7 +23271,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12070",
@@ -21270,7 +23294,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12072",
@@ -21291,7 +23317,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12073",
@@ -21312,7 +23340,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12074",
@@ -21333,7 +23363,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12077",
@@ -21354,7 +23386,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12079",
@@ -21375,7 +23409,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12105",
@@ -21396,7 +23432,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12107",
@@ -21417,7 +23455,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "1",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12108",
@@ -21438,7 +23478,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12109",
@@ -21459,7 +23501,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12112",
@@ -21480,7 +23524,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12117",
@@ -21501,7 +23547,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12120",
@@ -21522,7 +23570,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12123",
@@ -21543,7 +23593,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12124",
@@ -21564,7 +23616,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12134",
@@ -21574,7 +23628,7 @@ window.eventsData = [
     "latitude": "53.48818597",
     "longitude": "-1.320440769",
     "date": "22-Jan-26",
-    "time": "05:30",
+    "time": "5:30",
     "repeat_day": "Thursday",
     "host_name": "Elliot Hague",
     "price": "£2 to play",
@@ -21585,7 +23639,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12135",
@@ -21606,7 +23662,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12148",
@@ -21627,7 +23685,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12149",
@@ -21648,7 +23708,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12150",
@@ -21669,7 +23731,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12155",
@@ -21690,7 +23754,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12160",
@@ -21711,7 +23777,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12169",
@@ -21732,7 +23800,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12176",
@@ -21753,7 +23823,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12182",
@@ -21774,7 +23846,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12188",
@@ -21795,7 +23869,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12191",
@@ -21816,7 +23892,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12192",
@@ -21826,7 +23904,7 @@ window.eventsData = [
     "latitude": "52.3230087",
     "longitude": "-2.0487708",
     "date": "28-Jan-26",
-    "time": "07:30",
+    "time": "7:30",
     "repeat_day": "Wednesday",
     "host_name": "Jason Moore",
     "price": "",
@@ -21837,7 +23915,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12197",
@@ -21858,7 +23938,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12202",
@@ -21867,7 +23949,7 @@ window.eventsData = [
     "address": "166 Piggott Street, Farnworth, Bolton, BL4 9QJ Thursday Prizes, Gallon of beer! | free to play | Max 6 per team | Age 18+",
     "latitude": "53.5429251",
     "longitude": "-2.4066149",
-    "date": "05-Feb-26",
+    "date": "5-Feb-26",
     "time": "8pm",
     "repeat_day": "Thursday",
     "host_name": "DjDaz",
@@ -21879,7 +23961,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12207",
@@ -21900,7 +23984,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12209",
@@ -21921,7 +24007,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12212",
@@ -21942,7 +24030,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12215",
@@ -21963,7 +24053,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12217",
@@ -21984,7 +24076,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12231",
@@ -22005,7 +24099,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12236",
@@ -22026,7 +24122,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12237",
@@ -22047,7 +24145,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12239",
@@ -22068,7 +24168,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12246",
@@ -22089,7 +24191,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12248",
@@ -22110,7 +24214,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12250",
@@ -22131,7 +24237,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12251",
@@ -22152,7 +24260,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12252",
@@ -22173,7 +24283,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12253",
@@ -22194,7 +24306,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12255",
@@ -22215,7 +24329,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12257",
@@ -22236,7 +24352,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12265",
@@ -22257,7 +24375,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12273",
@@ -22278,7 +24398,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12278",
@@ -22287,7 +24409,7 @@ window.eventsData = [
     "address": "99 Cambridge Road, The Millstream, Hitchin, SG4 0JH Wednesday Prizes, £50 Voucher | £3 to play | Max 6 per team",
     "latitude": "51.9555948",
     "longitude": "-0.2582114",
-    "date": "04-Feb-26",
+    "date": "4-Feb-26",
     "time": "8pm",
     "repeat_day": "Wednesday",
     "host_name": "Shaun Ellis",
@@ -22299,7 +24421,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12280",
@@ -22320,7 +24444,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12283",
@@ -22341,7 +24467,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12285",
@@ -22362,7 +24490,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12292",
@@ -22383,7 +24513,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12299",
@@ -22404,7 +24536,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12303",
@@ -22425,7 +24559,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12305",
@@ -22446,7 +24582,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12309",
@@ -22467,7 +24605,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12312",
@@ -22477,7 +24617,7 @@ window.eventsData = [
     "latitude": "51.7982022",
     "longitude": "-0.0623172",
     "date": "27-Jan-26",
-    "time": "07:30",
+    "time": "7:30",
     "repeat_day": "Tuesday",
     "host_name": "Meghan Gray",
     "price": "",
@@ -22488,7 +24628,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12318",
@@ -22509,7 +24651,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12327",
@@ -22530,7 +24674,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12328",
@@ -22539,7 +24685,7 @@ window.eventsData = [
     "address": "1 Wolverton Road, Newport Pagnell, MK16 8BG Monday Prizes, £50 voucher, wine, spot prize, jackpot | £4 to play | Max 6 per team | Age 18+",
     "latitude": "52.0824103",
     "longitude": "-0.7413536",
-    "date": "09-Feb-26",
+    "date": "9-Feb-26",
     "time": "7:30pm",
     "repeat_day": "Monday",
     "host_name": "Owen Andrew",
@@ -22551,7 +24697,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12330",
@@ -22572,7 +24720,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12337",
@@ -22582,7 +24732,7 @@ window.eventsData = [
     "latitude": "41.6958665",
     "longitude": "-73.9005382",
     "date": "21-Jan-26",
-    "time": "07:00",
+    "time": "7:00",
     "repeat_day": "Wednesday",
     "host_name": "David Strickland",
     "price": "",
@@ -22593,7 +24743,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12342",
@@ -22614,7 +24766,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12346",
@@ -22624,7 +24778,7 @@ window.eventsData = [
     "latitude": "42.4429765",
     "longitude": "-85.6411988",
     "date": "27-Jan-26",
-    "time": "07:00",
+    "time": "7:00",
     "repeat_day": "Tuesday",
     "host_name": "Ryan Kohlhoff",
     "price": "",
@@ -22635,7 +24789,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12351",
@@ -22656,7 +24812,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12358",
@@ -22665,7 +24823,7 @@ window.eventsData = [
     "address": "3 The Square, Birchington-on-Sea, Birchington, CT7 9AE Monday Prizes, Drinks vouchers/Cash Jackpot | £2 to play | Max 6 per team | Age 6+",
     "latitude": "51.3737991",
     "longitude": "1.3076014",
-    "date": "02-Feb-26",
+    "date": "2-Feb-26",
     "time": "7:30pm",
     "repeat_day": "Monday",
     "host_name": "Charlotte Lamba",
@@ -22677,7 +24835,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12361",
@@ -22687,7 +24847,7 @@ window.eventsData = [
     "latitude": "40.2513913",
     "longitude": "-105.8200858",
     "date": "26-Jan-26",
-    "time": "06:45",
+    "time": "6:45",
     "repeat_day": "Monday",
     "host_name": "Travis Taylor",
     "price": "",
@@ -22698,7 +24858,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12365",
@@ -22719,7 +24881,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12367",
@@ -22740,7 +24904,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12372",
@@ -22761,7 +24927,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12374",
@@ -22782,7 +24950,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12375",
@@ -22803,7 +24973,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12379",
@@ -22824,7 +24996,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12395",
@@ -22845,7 +25019,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12396",
@@ -22855,7 +25031,7 @@ window.eventsData = [
     "latitude": "42.288839",
     "longitude": "-83.8446457",
     "date": "27-Jan-26",
-    "time": "07:00",
+    "time": "7:00",
     "repeat_day": "Tuesday",
     "host_name": "Kenny Privett",
     "price": "",
@@ -22866,7 +25042,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12398",
@@ -22887,7 +25065,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12402",
@@ -22908,7 +25088,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12407",
@@ -22929,7 +25111,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12416",
@@ -22950,7 +25134,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12417",
@@ -22971,7 +25157,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12427",
@@ -22980,7 +25168,7 @@ window.eventsData = [
     "address": "49 Austin Way, Birmingham, B31 2QR Tuesday Prizes, £100 cash! | £2 to play | Max 6 per team | Age 18+",
     "latitude": "52.3946876",
     "longitude": "-1.9870007",
-    "date": "03-Feb-26",
+    "date": "3-Feb-26",
     "time": "7pm",
     "repeat_day": "Tuesday",
     "host_name": "Jordan Muckley",
@@ -22992,7 +25180,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12434",
@@ -23013,7 +25203,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12435",
@@ -23034,7 +25226,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12439",
@@ -23055,7 +25249,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12440",
@@ -23076,7 +25272,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12441",
@@ -23097,7 +25295,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12448",
@@ -23106,7 +25306,7 @@ window.eventsData = [
     "address": "Unit 14 Flitch Industrial Estate, Great Dunmow, CM6 1XJ 20:00 Wednesday 4 Feb 2026Prizes, Cash Prize for 1st place | £3 per person to play | Max 5 per team | Age 18+",
     "latitude": "51.86759633",
     "longitude": "0.366617739",
-    "date": "04-Feb-26",
+    "date": "4-Feb-26",
     "time": "20:00",
     "repeat_day": "Wednesday",
     "host_name": "SPEEDQUIZZING ESSEX",
@@ -23118,7 +25318,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12449",
@@ -23139,7 +25341,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12450",
@@ -23160,7 +25364,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12455",
@@ -23181,7 +25387,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12456",
@@ -23202,7 +25410,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12457",
@@ -23223,7 +25433,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12461",
@@ -23244,7 +25456,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12462",
@@ -23265,7 +25479,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12465",
@@ -23274,7 +25490,7 @@ window.eventsData = [
     "address": "York Road, Doncaster, DN5 8HL 8 Tuesday Prizes, Cash | £1 to play | Max 4 per team",
     "latitude": "53.5383181",
     "longitude": "-1.1657746",
-    "date": "03-Feb-26",
+    "date": "3-Feb-26",
     "time": "",
     "repeat_day": "Tuesday",
     "host_name": "Nick De-camps",
@@ -23286,7 +25502,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12466",
@@ -23307,7 +25525,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12476",
@@ -23328,7 +25548,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12478",
@@ -23349,7 +25571,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12479",
@@ -23370,7 +25594,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12483",
@@ -23379,7 +25605,7 @@ window.eventsData = [
     "address": "Salisbury Avenue, Knott End-on-Sea, Poulton-le-Fylde, FY6 0BP Sunday Prizes, Bar Vouchers to be won | £1 to play | Max 6 per team | Age 18+",
     "latitude": "53.92820869",
     "longitude": "-2.989536154",
-    "date": "01-Feb-26",
+    "date": "1-Feb-26",
     "time": "7pm",
     "repeat_day": "Sunday",
     "host_name": "Chris Jenkins",
@@ -23391,7 +25617,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12484",
@@ -23400,7 +25628,7 @@ window.eventsData = [
     "address": "391 High Road Leyton, London, E10 5NA Monday Prizes, £50 bar Tab | £2 to play | Max 6 per team | Age 18+",
     "latitude": "51.5615795",
     "longitude": "-0.0104719",
-    "date": "02-Feb-26",
+    "date": "2-Feb-26",
     "time": "8pm",
     "repeat_day": "Monday",
     "host_name": "Jake Pimblett",
@@ -23412,7 +25640,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12485",
@@ -23433,7 +25663,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12487",
@@ -23454,7 +25686,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12490",
@@ -23475,7 +25709,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12498",
@@ -23496,7 +25732,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12504",
@@ -23517,7 +25755,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12520",
@@ -23538,7 +25778,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12533",
@@ -23559,7 +25801,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12539",
@@ -23580,7 +25824,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12550",
@@ -23601,7 +25847,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12560",
@@ -23622,7 +25870,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12567",
@@ -23643,7 +25893,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12570",
@@ -23664,7 +25916,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12578",
@@ -23685,7 +25939,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12580",
@@ -23706,7 +25962,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12587",
@@ -23727,7 +25985,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12588",
@@ -23748,7 +26008,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12597",
@@ -23757,7 +26019,7 @@ window.eventsData = [
     "address": "Platt Lane, The Crown, Standish, WN1 2XF Thursday Prizes, £30 Bar Tab 1st Place, 2nd place bottle of prosecc | £5 per team to play | Max 6 per team | Age 18+",
     "latitude": "53.5971532",
     "longitude": "-2.6427674",
-    "date": "05-Feb-26",
+    "date": "5-Feb-26",
     "time": "8pm",
     "repeat_day": "Thursday",
     "host_name": "James L Eccles-Churton",
@@ -23769,7 +26031,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12609",
@@ -23790,7 +26054,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12619",
@@ -23811,7 +26077,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12625",
@@ -23832,7 +26100,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12631",
@@ -23853,7 +26123,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12637",
@@ -23874,7 +26146,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12640",
@@ -23895,7 +26169,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12644",
@@ -23916,7 +26192,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12645",
@@ -23937,7 +26215,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12646",
@@ -23958,7 +26238,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12662",
@@ -23967,7 +26249,7 @@ window.eventsData = [
     "address": "Hengrave Road, Fornham All Saints, Bury Saint Edmunds, IP28 6LA 7.30 Tuesday 3 Feb 20263 to play | Max 6 per team | Age 16+",
     "latitude": "52.2739082",
     "longitude": "0.6883969",
-    "date": "03-Feb-26",
+    "date": "3-Feb-26",
     "time": "7.3",
     "repeat_day": "Tuesday",
     "host_name": "Gary Woodland",
@@ -23979,7 +26261,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12676",
@@ -24000,7 +26284,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12692",
@@ -24021,7 +26307,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12696",
@@ -24042,7 +26330,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12697",
@@ -24063,7 +26353,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12699",
@@ -24084,7 +26376,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12700",
@@ -24105,7 +26399,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12705",
@@ -24126,7 +26422,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12718",
@@ -24147,7 +26445,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12719",
@@ -24168,7 +26468,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12728",
@@ -24189,7 +26491,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12731",
@@ -24210,7 +26514,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12732",
@@ -24231,7 +26537,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12735",
@@ -24240,7 +26548,7 @@ window.eventsData = [
     "address": "The Hop Inn, Woodmill Lane, Bitterne Park, SO18 2PE - 21 Sunday Prizes, Cash Prize, Bar Goodies | £2 to play | Max 6 per team",
     "latitude": "50.93268542",
     "longitude": "-1.370919943",
-    "date": "01-Feb-26",
+    "date": "1-Feb-26",
     "time": "20:00",
     "repeat_day": "Sunday",
     "host_name": "DAVID SCHOLLENBERGER",
@@ -24252,7 +26560,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12737",
@@ -24273,7 +26583,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12738",
@@ -24294,7 +26606,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12739",
@@ -24315,7 +26629,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12740",
@@ -24325,7 +26641,7 @@ window.eventsData = [
     "latitude": "51.14808183",
     "longitude": "0.87197728",
     "date": "16-Feb-26",
-    "time": "07:30",
+    "time": "7:30",
     "repeat_day": "Monday",
     "host_name": "Chris Kennedy",
     "price": "£2.50 to play",
@@ -24336,7 +26652,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12741",
@@ -24346,7 +26664,7 @@ window.eventsData = [
     "latitude": "42.207382",
     "longitude": "-85.5888409",
     "date": "27-Jan-26",
-    "time": "07:00",
+    "time": "7:00",
     "repeat_day": "Tuesday",
     "host_name": "Eric Liss",
     "price": "",
@@ -24357,7 +26675,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12743",
@@ -24378,7 +26698,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12745",
@@ -24399,7 +26721,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "3"
+    "Host rating": "3",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "2"
   },
   {
     "event_id": "12747",
@@ -24420,7 +26744,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12760",
@@ -24441,7 +26767,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12773",
@@ -24462,7 +26790,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12783",
@@ -24483,7 +26813,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12785",
@@ -24504,7 +26836,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12790",
@@ -24525,7 +26859,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12791",
@@ -24535,7 +26871,7 @@ window.eventsData = [
     "latitude": "53.6014446",
     "longitude": "-2.5495733",
     "date": "19-Feb-26",
-    "time": "08:00",
+    "time": "8:00",
     "repeat_day": "Thursday",
     "host_name": "Craig Mortimer",
     "price": "",
@@ -24546,7 +26882,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12799",
@@ -24567,7 +26905,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12805",
@@ -24577,7 +26917,7 @@ window.eventsData = [
     "latitude": "33.5397797",
     "longitude": "-81.6971638",
     "date": "21-Jan-26",
-    "time": "06:10",
+    "time": "6:10",
     "repeat_day": "Wednesday",
     "host_name": "Trey Niblett",
     "price": "",
@@ -24588,7 +26928,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12814",
@@ -24609,7 +26951,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12815",
@@ -24618,7 +26962,7 @@ window.eventsData = [
     "address": "7 Hall Street, Chelmsford, CM2 0HG 19:30 Tuesday 3 Feb 2026Prizes, Cash Prize for 1st place | £3 per person to play | Max 5 per team | Age 18+",
     "latitude": "51.72959326",
     "longitude": "0.473656654",
-    "date": "03-Feb-26",
+    "date": "3-Feb-26",
     "time": "19:30",
     "repeat_day": "Tuesday",
     "host_name": "SPEEDQUIZZING ESSEX",
@@ -24630,7 +26974,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12821",
@@ -24651,7 +26997,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12825",
@@ -24672,7 +27020,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12829",
@@ -24681,7 +27031,7 @@ window.eventsData = [
     "address": "Earlswood Common, Earlswood, Solihull, B94 5SL 20:00 Tuesday 3 Feb 2026Prizes, £100 voucher | £2 to play | Max 6 per team | Age 1+",
     "latitude": "52.3612509",
     "longitude": "-1.8310161",
-    "date": "03-Feb-26",
+    "date": "3-Feb-26",
     "time": "20:00",
     "repeat_day": "Tuesday",
     "host_name": "Chris Roberts",
@@ -24693,7 +27043,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12834",
@@ -24702,7 +27054,7 @@ window.eventsData = [
     "address": "14 Boat Road, Newport-on-Tay, DD6 8EZ 19:00 Sunday 1 Feb 2026",
     "latitude": "56.43770546",
     "longitude": "-2.944475412",
-    "date": "01-Feb-26",
+    "date": "1-Feb-26",
     "time": "19:00",
     "repeat_day": "Sunday",
     "host_name": "Trinity Gortschacher",
@@ -24714,7 +27066,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12847",
@@ -24735,7 +27089,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12872",
@@ -24756,7 +27112,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12873",
@@ -24777,7 +27135,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12877",
@@ -24798,7 +27158,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12885",
@@ -24819,7 +27181,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12891",
@@ -24840,7 +27204,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12897",
@@ -24861,7 +27227,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12909",
@@ -24882,7 +27250,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12923",
@@ -24903,7 +27273,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12924",
@@ -24924,7 +27296,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12927",
@@ -24945,7 +27319,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12950",
@@ -24966,7 +27342,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12952",
@@ -24987,7 +27365,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12953",
@@ -25008,7 +27388,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12955",
@@ -25029,7 +27411,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12956",
@@ -25050,7 +27434,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12959",
@@ -25071,7 +27457,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12961",
@@ -25081,7 +27469,7 @@ window.eventsData = [
     "latitude": "53.8718635",
     "longitude": "-2.3944668",
     "date": "27-Jan-26",
-    "time": "08:00",
+    "time": "8:00",
     "repeat_day": "Tuesday",
     "host_name": "John Lowe",
     "price": "",
@@ -25092,7 +27480,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12963",
@@ -25113,7 +27503,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12969",
@@ -25134,7 +27526,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12973",
@@ -25155,7 +27549,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12974",
@@ -25176,7 +27572,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12975",
@@ -25197,7 +27595,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12976",
@@ -25218,7 +27618,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12982",
@@ -25239,7 +27641,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12984",
@@ -25249,7 +27653,7 @@ window.eventsData = [
     "latitude": "44.6564008",
     "longitude": "-84.7433512",
     "date": "28-Jan-26",
-    "time": "06:30",
+    "time": "6:30",
     "repeat_day": "Wednesday",
     "host_name": "Marcus Anderson",
     "price": "",
@@ -25260,7 +27664,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12987",
@@ -25281,7 +27687,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12993",
@@ -25290,7 +27698,7 @@ window.eventsData = [
     "address": "136 Rainham Road, Chatham, ME5 7EN 7.30 Sunday 1 Feb 2026Prizes, Cash | £3 to play | Max 6 per team",
     "latitude": "51.3731812",
     "longitude": "0.5524302",
-    "date": "01-Feb-26",
+    "date": "1-Feb-26",
     "time": "7.3",
     "repeat_day": "Sunday",
     "host_name": "Anne Bailey",
@@ -25302,7 +27710,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "1"
   },
   {
     "event_id": "12998",
@@ -25323,7 +27733,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "12999",
@@ -25344,7 +27756,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13000",
@@ -25365,7 +27779,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13003",
@@ -25375,7 +27791,7 @@ window.eventsData = [
     "latitude": "23.5980066",
     "longitude": "58.4553015",
     "date": "21-Jan-26",
-    "time": "07:30",
+    "time": "7:30",
     "repeat_day": "Wednesday",
     "host_name": "Adam Cole",
     "price": "",
@@ -25386,7 +27802,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13004",
@@ -25395,7 +27813,7 @@ window.eventsData = [
     "address": "Stick or Twist, Leeds, LS2 8PD 20:30 Monday 2 Feb 2026Prizes, Vouchers | £2 to play | Max 6 per team | Age 18+",
     "latitude": "53.80270452",
     "longitude": "-1.542986857",
-    "date": "02-Feb-26",
+    "date": "2-Feb-26",
     "time": "20:30",
     "repeat_day": "Monday",
     "host_name": "Alex And Grace",
@@ -25407,7 +27825,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13006",
@@ -25428,7 +27848,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13012",
@@ -25438,7 +27860,7 @@ window.eventsData = [
     "latitude": "53.76138947",
     "longitude": "-2.704967558",
     "date": "27-Jan-26",
-    "time": "08:00",
+    "time": "8:00",
     "repeat_day": "Tuesday",
     "host_name": "Ben Daneliuk",
     "price": "",
@@ -25449,7 +27871,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13015",
@@ -25470,7 +27894,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13018",
@@ -25491,7 +27917,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13020",
@@ -25512,7 +27940,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13021",
@@ -25533,7 +27963,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13023",
@@ -25554,7 +27986,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13028",
@@ -25575,7 +28009,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13029",
@@ -25596,7 +28032,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13040",
@@ -25605,7 +28043,7 @@ window.eventsData = [
     "address": "61 Wilson Street, Middlesbrough, TS1 1SF 18:00 Sunday 1 Feb 2026Prizes, £80 | £1 to play | Age 18+",
     "latitude": "54.5780797",
     "longitude": "-1.2371102",
-    "date": "01-Feb-26",
+    "date": "1-Feb-26",
     "time": "18:00",
     "repeat_day": "Sunday",
     "host_name": "James Blowman",
@@ -25617,7 +28055,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13042",
@@ -25638,7 +28078,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13044",
@@ -25648,7 +28090,7 @@ window.eventsData = [
     "latitude": "53.47427",
     "longitude": "-2.2375314",
     "date": "26-Jan-26",
-    "time": "07:30",
+    "time": "7:30",
     "repeat_day": "Monday",
     "host_name": "Owen Adams",
     "price": "£2 to play",
@@ -25659,7 +28101,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13046",
@@ -25680,7 +28124,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13048",
@@ -25690,7 +28136,7 @@ window.eventsData = [
     "latitude": "42.577602",
     "longitude": "-83.8451354",
     "date": "27-Jan-26",
-    "time": "07:30",
+    "time": "7:30",
     "repeat_day": "Tuesday",
     "host_name": "Kenneth Privett",
     "price": "",
@@ -25701,7 +28147,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13057",
@@ -25722,7 +28170,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13060",
@@ -25743,7 +28193,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13061",
@@ -25764,7 +28216,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13065",
@@ -25785,7 +28239,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13067",
@@ -25806,7 +28262,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13070",
@@ -25827,7 +28285,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13071",
@@ -25848,7 +28308,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13076",
@@ -25869,7 +28331,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13078",
@@ -25890,7 +28354,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13084",
@@ -25911,7 +28377,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13087",
@@ -25932,7 +28400,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13090",
@@ -25953,7 +28423,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13093",
@@ -25974,7 +28446,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13096",
@@ -25995,7 +28469,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13102",
@@ -26016,7 +28492,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13106",
@@ -26037,7 +28515,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13107",
@@ -26058,7 +28538,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13109",
@@ -26079,7 +28561,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13119",
@@ -26100,7 +28584,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13124",
@@ -26121,7 +28607,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13128",
@@ -26130,7 +28618,7 @@ window.eventsData = [
     "address": "Stows Hill, Cockfield, Bury Saint Edmunds, IP30 0JB 7.30 Monday 2 Feb 20264 to play | Age 16+",
     "latitude": "52.142311",
     "longitude": "0.7900437",
-    "date": "02-Feb-26",
+    "date": "2-Feb-26",
     "time": "7.3",
     "repeat_day": "Monday",
     "host_name": "Gary Woodland",
@@ -26142,7 +28630,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13129",
@@ -26151,7 +28641,7 @@ window.eventsData = [
     "address": "The Crown, Twyford, Buckingham, MK18 4EG Sunday Prizes, Cash Prizes with extra depending on players/teams | £3 to play | Max 6 per team",
     "latitude": "51.9312367",
     "longitude": "-1.0359925",
-    "date": "01-Feb-26",
+    "date": "1-Feb-26",
     "time": "7pm",
     "repeat_day": "Sunday",
     "host_name": "Chris Mayhew",
@@ -26163,7 +28653,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13131",
@@ -26184,7 +28676,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13133",
@@ -26205,7 +28699,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13135",
@@ -26214,7 +28710,7 @@ window.eventsData = [
     "address": "99-101 Lower Street, Pulborough, RH20 2BP Wednesday Prizes, Cash & Other | £2 to play | Max 6 per team | Age 18+",
     "latitude": "50.9572243",
     "longitude": "-0.5005527",
-    "date": "04-Feb-26",
+    "date": "4-Feb-26",
     "time": "8pm",
     "repeat_day": "Wednesday",
     "host_name": "The Star Man",
@@ -26226,7 +28722,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13137",
@@ -26247,7 +28745,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13142",
@@ -26268,7 +28768,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13143",
@@ -26289,7 +28791,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13146",
@@ -26310,7 +28814,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13147",
@@ -26331,7 +28837,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13148",
@@ -26352,7 +28860,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13149",
@@ -26373,7 +28883,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13152",
@@ -26382,7 +28894,7 @@ window.eventsData = [
     "address": "444 Bury New Road, Prestwich, Manchester, M25 1AZ Tuesday Prizes, £30 Bar Tab | Free to play",
     "latitude": "53.5321983",
     "longitude": "-2.2843112",
-    "date": "03-Feb-26",
+    "date": "3-Feb-26",
     "time": "9pm",
     "repeat_day": "Tuesday",
     "host_name": "Frank Callaghan",
@@ -26394,7 +28906,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13154",
@@ -26415,7 +28929,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13155",
@@ -26436,7 +28952,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13160",
@@ -26457,7 +28975,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13166",
@@ -26478,7 +28998,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13172",
@@ -26499,7 +29021,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13173",
@@ -26520,7 +29044,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13177",
@@ -26541,7 +29067,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13185",
@@ -26562,7 +29090,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13186",
@@ -26583,7 +29113,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13187",
@@ -26604,7 +29136,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13188",
@@ -26625,7 +29159,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13190",
@@ -26646,7 +29182,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13193",
@@ -26667,7 +29205,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13201",
@@ -26688,7 +29228,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13202",
@@ -26709,7 +29251,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13203",
@@ -26730,7 +29274,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13210",
@@ -26751,7 +29297,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13215",
@@ -26772,7 +29320,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13218",
@@ -26793,7 +29343,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13221",
@@ -26814,7 +29366,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13223",
@@ -26835,7 +29389,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13226",
@@ -26856,7 +29412,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13231",
@@ -26877,7 +29435,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13234",
@@ -26898,7 +29458,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13236",
@@ -26919,7 +29481,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13240",
@@ -26940,7 +29504,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13244",
@@ -26961,7 +29527,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13245",
@@ -26982,7 +29550,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13249",
@@ -27003,7 +29573,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13263",
@@ -27024,7 +29596,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13264",
@@ -27045,7 +29619,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13265",
@@ -27066,7 +29642,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13267",
@@ -27087,7 +29665,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13269",
@@ -27096,7 +29676,7 @@ window.eventsData = [
     "address": "13-15 Fenwick Street, Liverpool, L2 7LS Sunday Prizes, Bar tabs, comedy show tickets and many more | 2 to play | Max 6 per team | Age 18+",
     "latitude": "53.4056352",
     "longitude": "-2.991192",
-    "date": "08-Feb-26",
+    "date": "8-Feb-26",
     "time": "7.30pm",
     "repeat_day": "Sunday",
     "host_name": "James OConnor",
@@ -27108,7 +29688,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13271",
@@ -27129,7 +29711,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13276",
@@ -27150,7 +29734,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13279",
@@ -27171,7 +29757,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13281",
@@ -27192,7 +29780,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13284",
@@ -27213,7 +29803,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13285",
@@ -27234,7 +29826,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13286",
@@ -27255,7 +29849,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13292",
@@ -27276,7 +29872,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13293",
@@ -27297,7 +29895,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13294",
@@ -27318,7 +29918,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13300",
@@ -27339,7 +29941,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13303",
@@ -27360,7 +29964,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13305",
@@ -27381,7 +29987,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "3"
+    "Host rating": "3",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "2"
   },
   {
     "event_id": "13309",
@@ -27402,7 +30010,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13310",
@@ -27423,7 +30033,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13316",
@@ -27444,7 +30056,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13322",
@@ -27465,7 +30079,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13323",
@@ -27486,7 +30102,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13325",
@@ -27507,7 +30125,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13327",
@@ -27528,7 +30148,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13329",
@@ -27549,7 +30171,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13332",
@@ -27570,7 +30194,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13335",
@@ -27591,7 +30217,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13340",
@@ -27612,7 +30240,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13341",
@@ -27621,7 +30251,7 @@ window.eventsData = [
     "address": "104 Hanover Street, Edinburgh, EH2 1DR Thursday Prizes, £50 vouchers for winner £30 vouchers for 2nd £20 v | FREE to play | Max N/ per team | Age 18+",
     "latitude": "55.95404012",
     "longitude": "-3.197696709",
-    "date": "05-Feb-26",
+    "date": "5-Feb-26",
     "time": "8pm",
     "repeat_day": "Thursday",
     "host_name": "Davey Davidson",
@@ -27633,7 +30263,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13342",
@@ -27654,7 +30286,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13344",
@@ -27675,7 +30309,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13346",
@@ -27685,7 +30321,7 @@ window.eventsData = [
     "latitude": "53.4263775",
     "longitude": "-2.097634",
     "date": "29-Jan-26",
-    "time": "08:30",
+    "time": "8:30",
     "repeat_day": "Thursday",
     "host_name": "Rob Fletcher",
     "price": "",
@@ -27696,7 +30332,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13347",
@@ -27717,7 +30355,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13349",
@@ -27738,7 +30378,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13356",
@@ -27759,7 +30401,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13358",
@@ -27780,7 +30424,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13361",
@@ -27801,7 +30447,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13363",
@@ -27822,7 +30470,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13364",
@@ -27843,7 +30493,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13367",
@@ -27864,7 +30516,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13368",
@@ -27885,7 +30539,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13370",
@@ -27906,7 +30562,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13385",
@@ -27916,7 +30574,7 @@ window.eventsData = [
     "latitude": "27.4922199",
     "longitude": "-82.5750638",
     "date": "27-Jan-26",
-    "time": "07:00",
+    "time": "7:00",
     "repeat_day": "Tuesday",
     "host_name": "Jim Casey",
     "price": "",
@@ -27927,7 +30585,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13387",
@@ -27948,7 +30608,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13388",
@@ -27969,7 +30631,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13391",
@@ -27990,7 +30654,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13395",
@@ -28011,7 +30677,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13398",
@@ -28032,7 +30700,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13400",
@@ -28053,7 +30723,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13410",
@@ -28074,7 +30746,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13418",
@@ -28083,8 +30757,8 @@ window.eventsData = [
     "address": "",
     "latitude": "42.511927",
     "longitude": "-84.147947",
-    "date": "05-Feb-26",
-    "time": "07:00",
+    "date": "5-Feb-26",
+    "time": "7:00",
     "repeat_day": "Thursday",
     "host_name": "Scottie Alexander",
     "price": "",
@@ -28095,7 +30769,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13419",
@@ -28116,7 +30792,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13424",
@@ -28137,7 +30815,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13425",
@@ -28158,7 +30838,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13426",
@@ -28179,7 +30861,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13429",
@@ -28200,7 +30884,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13431",
@@ -28221,7 +30907,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13434",
@@ -28242,7 +30930,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13435",
@@ -28263,7 +30953,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13436",
@@ -28284,7 +30976,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13439",
@@ -28305,7 +30999,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13440",
@@ -28326,7 +31022,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13445",
@@ -28347,7 +31045,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13460",
@@ -28368,7 +31068,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13466",
@@ -28389,7 +31091,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13471",
@@ -28410,7 +31114,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13475",
@@ -28431,7 +31137,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13480",
@@ -28452,7 +31160,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13481",
@@ -28473,7 +31183,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13487",
@@ -28494,7 +31206,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13493",
@@ -28515,7 +31229,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13497",
@@ -28536,7 +31252,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13498",
@@ -28557,7 +31275,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13502",
@@ -28578,7 +31298,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13505",
@@ -28599,7 +31321,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13517",
@@ -28620,7 +31344,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13519",
@@ -28641,7 +31367,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13524",
@@ -28662,7 +31390,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13526",
@@ -28683,7 +31413,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13529",
@@ -28704,7 +31436,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13536",
@@ -28725,7 +31459,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13538",
@@ -28746,7 +31482,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13546",
@@ -28767,7 +31505,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13548",
@@ -28788,7 +31528,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13558",
@@ -28797,7 +31539,7 @@ window.eventsData = [
     "address": "Main Street, Melbourne, York, YO42 4QJ 19:00 Friday 6 Feb 2026Prizes, Winning team takes the pot | £2 to play",
     "latitude": "53.88735721",
     "longitude": "-0.855345726",
-    "date": "06-Feb-26",
+    "date": "6-Feb-26",
     "time": "19:00",
     "repeat_day": "Friday",
     "host_name": "Dan Wyrill",
@@ -28809,7 +31551,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13560",
@@ -28830,7 +31574,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13561",
@@ -28851,7 +31597,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13572",
@@ -28872,7 +31620,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13580",
@@ -28893,7 +31643,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13583",
@@ -28914,7 +31666,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13588",
@@ -28935,7 +31689,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13592",
@@ -28945,7 +31701,7 @@ window.eventsData = [
     "latitude": "53.5043323",
     "longitude": "-2.1054554",
     "date": "22-Jan-26",
-    "time": "08:30",
+    "time": "8:30",
     "repeat_day": "Thursday",
     "host_name": "Mike Greaves",
     "price": "",
@@ -28956,7 +31712,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13596",
@@ -28977,7 +31735,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13600",
@@ -28998,7 +31758,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13601",
@@ -29019,7 +31781,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13605",
@@ -29040,7 +31804,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13606",
@@ -29061,7 +31827,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13609",
@@ -29082,7 +31850,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13610",
@@ -29103,7 +31873,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13611",
@@ -29124,7 +31896,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13628",
@@ -29145,7 +31919,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13632",
@@ -29166,7 +31942,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13636",
@@ -29187,7 +31965,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13647",
@@ -29208,7 +31988,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13649",
@@ -29229,7 +32011,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13651",
@@ -29239,7 +32023,7 @@ window.eventsData = [
     "latitude": "42.644314",
     "longitude": "-83.6264732",
     "date": "26-Jan-26",
-    "time": "07:00",
+    "time": "7:00",
     "repeat_day": "Monday",
     "host_name": "Kenneth Privett",
     "price": "",
@@ -29250,7 +32034,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13653",
@@ -29271,7 +32057,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13656",
@@ -29292,7 +32080,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13657",
@@ -29313,7 +32103,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13660",
@@ -29334,7 +32126,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13663",
@@ -29355,7 +32149,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13664",
@@ -29376,7 +32172,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13665",
@@ -29397,7 +32195,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13667",
@@ -29418,7 +32218,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13670",
@@ -29427,7 +32229,7 @@ window.eventsData = [
     "address": "500 Great Western Road, Glasgow, G12 8EL Monday",
     "latitude": "55.8757225",
     "longitude": "-4.2823183",
-    "date": "02-Feb-26",
+    "date": "2-Feb-26",
     "time": "8pm",
     "repeat_day": "Monday",
     "host_name": "Grace Robinson",
@@ -29439,7 +32241,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13675",
@@ -29460,7 +32264,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13678",
@@ -29481,7 +32287,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13679",
@@ -29502,7 +32310,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13683",
@@ -29523,7 +32333,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13687",
@@ -29544,7 +32356,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13694",
@@ -29565,7 +32379,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13695",
@@ -29586,7 +32402,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13697",
@@ -29607,7 +32425,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13699",
@@ -29628,7 +32448,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13700",
@@ -29649,7 +32471,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13704",
@@ -29659,7 +32483,7 @@ window.eventsData = [
     "latitude": "42.4763507",
     "longitude": "-71.409935",
     "date": "21-Jan-26",
-    "time": "06:30",
+    "time": "6:30",
     "repeat_day": "Wednesday",
     "host_name": "Darin Boisvert",
     "price": "",
@@ -29670,7 +32494,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13707",
@@ -29691,7 +32517,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13710",
@@ -29712,7 +32540,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13711",
@@ -29733,7 +32563,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13713",
@@ -29754,7 +32586,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13714",
@@ -29775,7 +32609,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13721",
@@ -29796,7 +32632,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13723",
@@ -29817,7 +32655,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13724",
@@ -29838,7 +32678,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13725",
@@ -29859,7 +32701,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13726",
@@ -29880,7 +32724,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13728",
@@ -29901,7 +32747,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13729",
@@ -29922,7 +32770,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13730",
@@ -29943,7 +32793,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13731",
@@ -29952,7 +32804,7 @@ window.eventsData = [
     "address": "",
     "latitude": "52.90149929",
     "longitude": "-2.491750717",
-    "date": "04-Mar-26",
+    "date": "4-Mar-26",
     "time": "19:30",
     "repeat_day": "Wednesday",
     "host_name": "Danny Drayton",
@@ -29964,7 +32816,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13732",
@@ -29985,7 +32839,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13733",
@@ -30006,7 +32862,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13734",
@@ -30027,7 +32885,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13735",
@@ -30048,7 +32908,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13736",
@@ -30069,7 +32931,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13737",
@@ -30090,7 +32954,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13738",
@@ -30111,7 +32977,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13739",
@@ -30121,7 +32989,7 @@ window.eventsData = [
     "latitude": "41.1305179",
     "longitude": "-81.484128",
     "date": "26-Jan-26",
-    "time": "07:00",
+    "time": "7:00",
     "repeat_day": "Monday",
     "host_name": "Bob Varga",
     "price": "",
@@ -30132,7 +33000,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13740",
@@ -30153,7 +33023,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13741",
@@ -30162,7 +33034,7 @@ window.eventsData = [
     "address": "15 Elmbank Drive, Kilmarnock, KA1 3AE 19:00 Wednesday 4 Feb 2026Prizes, £40 Voucher | Max 5 per team",
     "latitude": "55.608653",
     "longitude": "-4.4929766",
-    "date": "04-Feb-26",
+    "date": "4-Feb-26",
     "time": "19:00",
     "repeat_day": "Wednesday",
     "host_name": "Daniel McCool",
@@ -30174,7 +33046,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13742",
@@ -30195,7 +33069,9 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   },
   {
     "event_id": "13743",
@@ -30216,6 +33092,8 @@ window.eventsData = [
     "source_preview": "yes",
     "source_page": "yes",
     "Quiz rating": "#N/A",
-    "Host rating": "#N/A"
+    "Host rating": "#N/A",
+    "Number of Quiz reviews": "#N/A",
+    "Number of Host reviews": "#N/A"
   }
 ];
